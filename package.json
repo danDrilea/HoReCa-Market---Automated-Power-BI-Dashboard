@@ -8,7 +8,9 @@
     "scrape": "node index.js",
     "scrape:beraria-h": "node scrapers/berariaH.js",
     "scrape:la-mama": "node scrapers/laMama.js",
-    "scrape:taverna-sarbului": "node scrapers/tavernaSarbului.js"
+    "scrape:taverna-sarbului": "node scrapers/tavernaSarbului.js",
+    "refresh": "powershell -ExecutionPolicy Bypass -File ./refresh_data.ps1",
+    "refresh:sh": "bash refresh_data.sh"
   },
   "dependencies": {
     "pdf-parse": "^2.4.5",
