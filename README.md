@@ -13,4 +13,9 @@ Pipeline complet de BI și automatizare HoReCa: colectare date competitori cu Pl
   <p><em> Click pe imaginea de mai sus pentru a viziona prezentarea completă pe YouTube.</em></p>
 </div>
 
+## Power BI Dashboard Preview
+### Pagina 1: Executive Overview (Vânzări Interne)
+![Executive Overview](docs/images/ss1.png)
+### Pagina 2: Market Intelligence & Benchmarking Competitori
+![Market Intelligence](docs/images/ss2.png)
 ---
