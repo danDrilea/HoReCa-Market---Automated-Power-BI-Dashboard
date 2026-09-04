@@ -1,0 +1,3412 @@
+[
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "1Add",
+    "grammage": null,
+    "description": "",
+    "price": 100,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Biftek tartar",
+    "grammage": "300g",
+    "description": "muschi de vita, unt, oua, castraveti murati, capre, ceapa, mustar, ketchup, pasta de tomate, paine toast, usturoi, sare, piper, boia 1 Add",
+    "price": 178.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Salata Caesar",
+    "grammage": "370g",
+    "description": "piept de pui, salata iceberg, crutoane, dressing, lamaie, otet balsamic, sare 1 Add",
+    "price": 49.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Salata cu ton",
+    "grammage": "300g",
+    "description": "ton, salata iceberg, salata verde, rosii, porumb, ceapa, masline, otet balsamic, sare 1 Add",
+    "price": 49.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Salata taraneasca",
+    "grammage": "350g",
+    "description": "salata iceberg, rosii, branza feta, castraveti, masline, ardei, ceapa, morcov, smantana, mustar, sare, piper 1 Add",
+    "price": 49.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Branza picanta",
+    "grammage": "150g",
+    "description": "branza telemea, branza de vaci, smantana, unt, usturoi, boia, ceapa, sare, piper 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Salata de vinete cu rosii si branza",
+    "grammage": "250g",
+    "description": "vinete coapte, rosii, branza feta, ulei, ceapa, sare 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Branza de vaci proaspata",
+    "grammage": "150g",
+    "description": "branza proaspata de vaci, smantana, unt, ceapa, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Branza la gratar",
+    "grammage": "150g",
+    "description": "lapte de vaca, lapte de oaie si capra, sare, menta 150 gr 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare",
+    "item_name": "Fasole batuta",
+    "grammage": "250g",
+    "description": "fasole boabe, ulei, telina, ceapa, pasta de tomate, usturoi, sare 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Gustare nationala",
+    "grammage": "320g",
+    "description": "branza picanta, pranza proaspata de vaci, zacusca sarbeasca, kaizer, rulada afumata, ceafa de porc, muschi de porc afumat, antricot de vita, iahnie sarbeasca 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Gustare de post",
+    "grammage": "300g",
+    "description": "zacusca, salata de vinete, iahnie sarbeasca, fasole batuta, rosii, masline, castraveti, ceapa 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Proja",
+    "grammage": "180g",
+    "description": "Malai, oua, faina, branza telemea, lapte, ulei, sare 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Placinta cu ciuperci 180gr",
+    "grammage": null,
+    "description": "ciuperci, foi de placinta, orez, telina, ulei, ceapa, sare 180 gr 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Placinta cu branza 180gr",
+    "grammage": null,
+    "description": "branza telemea, foi de placinta, branza de vaci, oua, ulei 180 gr 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Ciorba de fasole cu afumatura + 50g",
+    "grammage": "300ml",
+    "description": "fasole boabe, afumatura porc, morcov, ceapa, ulei, telina, ardei, faina, boia, usturoi, sare, piper, foi de dafin 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Supa crema de pui + 50g",
+    "grammage": "300ml",
+    "description": "carne de pui, oua, ceapa, morcov, telina, ardei, ulei, faina, smantana, sare 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Supa crema de legume",
+    "grammage": "300ml",
+    "description": "cartofi, crutoane, morcov, ceapa, varza, telina, ardei, dovlecel, ulei, sare, piper 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Supa crema de vita + 50g",
+    "grammage": "300ml",
+    "description": "carne de vita, oua, ceapa, morcovi, telina, ardei, ulei, faina, smantana, patrunjel, sare, piper, foi de dafin 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Ciorba de peste + 40g",
+    "grammage": "300ml",
+    "description": "peste, ceapa, morcov, ardei, telina, pasta de tomate, boia, otet, sare, piper, patrunjel, foi de dafin 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Dorada pe plita",
+    "grammage": "300g",
+    "description": "dorada, sare, ulei 1 Add",
+    "price": 116.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Salau meunier",
+    "grammage": "300g",
+    "description": "file salau, lamaie, ulei, capere, faina, unt, sare 1 Add",
+    "price": 116.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Cotlet de somon pe plita",
+    "grammage": "225g",
+    "description": "somon, unt, lamaie, ulei, sare 1 Add",
+    "price": 87.3,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Butterfish pe plita",
+    "grammage": "300g",
+    "description": "butterfish, lamaie, ulei, sare 1 Add",
+    "price": 116.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Pastrav pe plita",
+    "grammage": "300g",
+    "description": "pastrav, lamaie, ulei, sare 1 Add",
+    "price": 116.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Ciorbe",
+    "item_name": "Sprot prajit",
+    "grammage": "100g",
+    "description": "Gramaj variabil: selectati cantitatea dorita 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Peste",
+    "item_name": "Dorada la cuptor in crusta de sare",
+    "grammage": "300g",
+    "description": "dorada, lamaie, sos pesto, sare 1 Add",
+    "price": 116.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Peste",
+    "item_name": "Calcan prajit",
+    "grammage": "300g",
+    "description": "calcan, lamaie, faina, ulei, sare 1 Add",
+    "price": 146.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Peste",
+    "item_name": "Calcan pe plita",
+    "grammage": "300g",
+    "description": "calcan, lamaie, ulei, sare 1 Add",
+    "price": 146.4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Calamar pane",
+    "grammage": "100 g",
+    "description": "Gramaj variabil: selectati cantitatea dorita 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Calamar pe plita",
+    "grammage": "100g",
+    "description": "Gramaj variabil: selectati cantitatea dorita 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Fasole cu carnati afumati",
+    "grammage": "350g",
+    "description": "carnati de casa afumati, fasole boabe, ardei, ceapa, morcovi, telina, faina, ulei, boia, usturoi, sare 1 Add",
+    "price": 54.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel vienez porc",
+    "grammage": "300g",
+    "description": "cotlet de porc, pesmet, faina, oua, ulei, lamaie, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel karadjordje",
+    "grammage": "400g",
+    "description": "cotlet de porc, branza topita, pesmet, oua, faina, ulei, lamaie, sare 1 Add",
+    "price": 89.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel vienez de pui 350gr",
+    "grammage": null,
+    "description": "piept de pui, faina, pesmet, oua, ulei, lamaie, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Ciolan cu varza sau fasole",
+    "grammage": "900g",
+    "description": "ciolan afumat, fasole alba/varza, ceapa, morcov, faina, telina, boia, sare, piper, foi de dafin 1 Add",
+    "price": 128.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel de porc in sos de vin alb",
+    "grammage": "300g",
+    "description": "cotlet de porc, vin alb, faina, ulei, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel de porc in sos de lamaie",
+    "grammage": "300g",
+    "description": "cotlet de porc, lamaie, faina, ulei, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel de porc in sos de piper",
+    "grammage": "300g",
+    "description": "cotlet de porc, faina, ulei, piper, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Snitel de porc in sos de ciuperci",
+    "grammage": "300g",
+    "description": "cotlet de porc, ciuperci, smantana, ulei, faina, patrunjel, sare 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Specialitati",
+    "item_name": "Mesanica de porc picanta",
+    "grammage": "500g",
+    "description": "carne de porc, ceapa, ardei, rosii, ulei, telina, pasta de tomate, sare, chili, piper, patrunjel 1 Add",
+    "price": 74.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Ficatei de pui 300gr",
+    "grammage": null,
+    "description": "ficatei de pui, ceapa, vin, ulei, sare, piper 1 Add",
+    "price": 58.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Friptura de miel",
+    "grammage": "300g",
+    "description": "carne de miel, vin, ulei, ceapa, usturoi, sare, piper, foi de dafin 1 Add",
+    "price": 79.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Burger Sarbesc",
+    "grammage": "470g",
+    "description": "carne de vita, chifla, chipsuri de cartofi, kaizer crocant, cascaval, rosii, castraveti, ulei ceapa, sos kalipso, sos burger, salata verde 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Burger de pui",
+    "grammage": "470g",
+    "description": "carne de pui, chifla, chipsuri de crtofi, kaizer crocant, cascaval, ulei, rosii, castraveti murati, ceapa, sos kalipso, sos burger, salata verde 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Burgerul Gurmandului",
+    "grammage": "480g",
+    "description": "carne de vita, chifla, chipsuri de cartofi, kaizer crocant, cascaval, ulei, rosii, castraveti murati, branza picanta, ceapa, sos kalipso, sos burger, salata verde 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Mix Grill Viata sanatoasa",
+    "grammage": "1650g",
+    "description": "cartofi prajiti, plescavita, mititei, carnati de casa afumati, costite picante de porc, muschi alb, frigarui de porc, muschi alb, frigarui de porc, kaizr la gratar, ulei, vin, ceapa, sare 1 Add",
+    "price": 248.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Plescavita",
+    "grammage": "300g",
+    "description": "carne de vita tocata, ceapa, ulei, sare, piper 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Mititei",
+    "grammage": "300g",
+    "description": "carne de vita tocata, ceapa, ulei, sare, piper 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Carne ciupita",
+    "grammage": "300g",
+    "description": "carne vita tocata, cascaval, sunca presata, ulei, usturoi, boia, sare, piper, patrunjel 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Specialitatea gurmandului",
+    "grammage": "300g",
+    "description": "carne de vita tocata, cascaval, carne afumata, prapur, boia, sare, piper 1 Add",
+    "price": 78.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Kaiser la gratar",
+    "grammage": "300g",
+    "description": "sunculita de porc afumata (kaizer), sare 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Carnati de casa afumati 300gr",
+    "grammage": null,
+    "description": "carne de porc, slanina, carne de vita tocata, usturoi, sare, zahar, chili fulgi, piper 1 Add",
+    "price": 64.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Carnati de oaie la gratar",
+    "grammage": "300g",
+    "description": "carne tocata de oaie, sare, boia, usturoi, piper 1 Add",
+    "price": 69.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Frigarui de pui invelite in bacon",
+    "grammage": "300g",
+    "description": "piept de pui, bacon, sare, piper 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Frigarui de porc",
+    "grammage": "300g",
+    "description": "cotlet de porc, ulei, sare, piper 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Gratar",
+    "item_name": "Piept de pui la gratar",
+    "grammage": "300g",
+    "description": "piept de pui, ulei, sare, piper 1 Add",
+    "price": 68.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Costite picante de porc",
+    "grammage": "400g",
+    "description": "coaste de porc, vin alb, sare, boia, piper, cimbru, foi de dafin, 1 Add",
+    "price": 78.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Muschi alb impletit",
+    "grammage": "300g",
+    "description": "cotlet de porc, ulei, sare, piper 1 Add",
+    "price": 78.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Muschi alb la gratar",
+    "grammage": "300g",
+    "description": "cotlet de porc, ulei, sare, piper 1 Add",
+    "price": 78.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Muschi alb afumat",
+    "grammage": "300g",
+    "description": "cotlet de porc, ulei, sare, piper, zahar 1 Add",
+    "price": 98.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Muschi taranesc",
+    "grammage": "300g",
+    "description": "ceafa de porc afumata, ulei, sare, zahar 1 Add",
+    "price": 98.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Garnitura dalmatiana",
+    "grammage": "300g",
+    "description": "spanac, cartofi, ulei, usturoi, sare, piper 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Orez sarbesc",
+    "grammage": "200g",
+    "description": "orez, ceapa, ardei, morcov, telina, ulei, sare, piper, foi de dafin 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Spanac cu oua ochiuri",
+    "grammage": "350g",
+    "description": "spanac, oua, ulei, usturoi, sare, piper 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Spanac cu usturoi",
+    "grammage": "220g",
+    "description": "spanac, ulei, usturoi, sare, piper 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Cartofi natur",
+    "grammage": "270g",
+    "description": "cartofi, unt, sare, patrunjel 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Cartofi prajiti",
+    "grammage": "230g",
+    "description": "cartofi, ulei, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Cartofi taranesti",
+    "grammage": "320g",
+    "description": "cartofi, ceapa, telina, ardei, ulei, usturoi, boia, sare, piper 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Piure de cartofi",
+    "grammage": "230g",
+    "description": "cartofi, lapte, unt, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Mamaliga",
+    "grammage": "250g",
+    "description": "malai, ulei, sare 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Varza calita cu afumatura",
+    "grammage": "270g",
+    "description": "varza murata, varza proaspata, carne afumata d eporc, ulei, ceapa, rosii, pasta de tomate, boia, sare, piper 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Garnituri",
+    "item_name": "Legume la gratar",
+    "grammage": "200g",
+    "description": "vinete, dovlecei, ardei, rosii, ciuperci, ceapa, ulei de masline, oregano, sare 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Fasole uscata gatita",
+    "grammage": "380g",
+    "description": "fasole boabe, ardei, ceapa, morcov, telina, faina, ulei, usturoi, boia, sare, piper 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Brutarie",
+    "grammage": "180g",
+    "description": "Lipie sarbeasca 180g faina, ulei, drojdie, sare 1 Add Turta sarbeasca 180g 14.80 lei faina, ulei, unt, drojdie, usturoi. sare, condimente (usturoi, oregano) 1 Add Turta sarbeasca picanta 180g 14.80 lei faina, ulei, unt, drojdie, usturoi, sare, condimente (usturoi, oregano, chili) 1 Add",
+    "price": 9.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Lipie sarbeasca",
+    "grammage": "180g",
+    "description": "faina, ulei, drojdie, sare 1 Add",
+    "price": 9.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Turta sarbeasca",
+    "grammage": "180g",
+    "description": "faina, ulei, unt, drojdie, usturoi. sare, condimente (usturoi, oregano) 1 Add",
+    "price": 14.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Turta sarbeasca picanta",
+    "grammage": "180g",
+    "description": "faina, ulei, unt, drojdie, usturoi, sare, condimente (usturoi, oregano, chili) 1 Add",
+    "price": 14.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata sarbeasca",
+    "grammage": "250g",
+    "description": "rosii, castraveti, ardei, ceapa, ulei, sare 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata de varza",
+    "grammage": "200g",
+    "description": "varza, ulei, otet, sare 1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata verde",
+    "grammage": "150g",
+    "description": "salata verde, lamaie, otet, ulei, sare 1 Add",
+    "price": 18.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata castraveti",
+    "grammage": "200g",
+    "description": "castraveti, ulei, otet, sare 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata de rosii",
+    "grammage": "200g",
+    "description": "rosii, ulei, sare 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Brutarie",
+    "item_name": "Salata de ardei copti",
+    "grammage": "180g",
+    "description": "ardei capia copt, ulei, usturoi, otet, sare 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Salate",
+    "item_name": "Salata sopska",
+    "grammage": "250g",
+    "description": "rosii, castraveti, ardei, branza telemea rasa, ceapa, ulei, sare 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Salate",
+    "item_name": "Salata de ardei iuti copti",
+    "grammage": "150g",
+    "description": "ardei iuti copti 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Salate",
+    "item_name": "Salata de muraturi",
+    "grammage": "250g",
+    "description": "varza murata, casttraveti murati, otet, gogosari, gogonele murate, conopida murata, morcovi murati, ulei, boia 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Salata de ciuperci murate",
+    "grammage": "250g",
+    "description": "ciuperci pleurotus, morcovi, usturoi, hrean, otet, sare, piper, foi dafin 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Varza murata",
+    "grammage": "270g",
+    "description": "varza alba, ulei, boia, sare 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Castraveti murati",
+    "grammage": "270g",
+    "description": "castraveti, otet, sare, piper, foi de dafin, boabe de mustar 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Gogosari murati",
+    "grammage": "250g",
+    "description": "gogosari, otet, sare, piper, foi de dafin, boabe mustar 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Salata de ceapa",
+    "grammage": "150g",
+    "description": "ceapa, otet, ulei, sare 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Tiramisu",
+    "grammage": "150g",
+    "description": "mascarpone, piscoturi, oua, zahar, frisca, smantana, cafea, rom 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Cheesecake",
+    "grammage": "150g",
+    "description": "crema de branza, oua, biscuiti, zahar, fructe, unt, topping, scortisoara 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Tort fantezia",
+    "grammage": "150g",
+    "description": "mascarpone, biscuiti, crema de branza, oua, zahar, ciocolata neagra, unt, cacao, portocale, scortisoara 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Clatite cu gem",
+    "grammage": "200g",
+    "description": "faina, gem, miere, oua, lapte, zahar, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Clatite cu ciocolata 200gr",
+    "grammage": null,
+    "description": "faina, crema de cacao, oua, lapte, zahar, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Clatite cu miere si nuci 200gr",
+    "grammage": null,
+    "description": "faina, miere, nuca, oua, lapte, zahar, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Placinta cu mere",
+    "grammage": "180g",
+    "description": "foi de placinta, mere, zahar, scortisoara 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Placinta cu dovleac",
+    "grammage": "180g",
+    "description": "foi de placinta, dovleac, zahar, scortisoara 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Clatite in chateau de vin",
+    "grammage": "600g",
+    "description": "faina, oua, nuci, ciocolata, vin alb, zahar, lapte, miere, ulei, sare 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Mancare - Desert",
+    "item_name": "Clatite gratinate",
+    "grammage": "600g",
+    "description": "faina, oua, nuci, lapte, zahar, ulei, sare 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Steakhouse",
+    "item_name": "T-Bone maturat",
+    "grammage": "100g",
+    "description": "Gust si savoare 1 Add Tomahawk maturat 100g Se poate comanda si crud 1 Add Antricot cu os maturat 100g Se poate comanda si crud 1 Add Vegetarian Vegan Gluten Free Spicy",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Steakhouse",
+    "item_name": "Tomahawk maturat",
+    "grammage": "100g",
+    "description": "Se poate comanda si crud 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Steakhouse",
+    "item_name": "Antricot cu os maturat",
+    "grammage": "100g",
+    "description": "Se poate comanda si crud 1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 1",
+    "grammage": "300 ml",
+    "description": "Supă cremă de legume - 300 ml, fasole uscată gătită - 150 g, varză murată - 150 g. 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 2",
+    "grammage": "300ml",
+    "description": "Supa crema de pui (300ml), salau orly (125g), cartofi natur (115g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 3",
+    "grammage": "300ml",
+    "description": "Supa crema de vita (300ml), carnati afumati de casa (100g), cartofi prajiti (115g), varza murata (150g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 4",
+    "grammage": "300ml",
+    "description": "Ciorba de fasole cu afumatura (300ml), mesanica de porc picanta (200g), mamaliga (200g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 5",
+    "grammage": "300ml",
+    "description": "Ciorba de fasole (300ml), pulpa de pui la gratar (150g), piure de cartofi (150g), salata de varza alba (150g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 6",
+    "grammage": "150g",
+    "description": "Chicken fingers (150g), cartofi prajiti (115g), salata de varza alba (150g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 7",
+    "grammage": "120g",
+    "description": "Mici sarbesti (120g), cartofi prajiti (115g), zacusca sarbeasca (100g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 8",
+    "grammage": "150g",
+    "description": "Plescavita (150g), cartofi prajiti (115g), salata de varza alba (150g), placinta cu branza (150g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Business Lunch",
+    "item_name": "Meniul 9",
+    "grammage": "150g",
+    "description": "Sarmale (150g), supa crema de vita (300ml), mamaliga (200g), lipie (180g) 1 Add",
+    "price": 44.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Comanda din Timp",
+    "item_name": "Calcan la cuptor in sos de vin cu legume",
+    "grammage": "100g",
+    "description": "Comanda cu 3 ore inainte 1 Add Miel la test 100g 34.80 lei Comanda cu 24 ore inainte 1 Add Sarmale 60g 9.50 lei Comanda cu 1 ora inainte 1 Add Oala de lut 50.00 lei Se poate pastra pentru reumplere cu orice ocazie 1 Add Vegetarian Vegan Gluten Free Spicy",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Comanda din Timp",
+    "item_name": "Miel la test",
+    "grammage": "100g",
+    "description": "Comanda cu 24 ore inainte 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Comanda din Timp",
+    "item_name": "Sarmale",
+    "grammage": "60g",
+    "description": "Comanda cu 1 ora inainte 1 Add",
+    "price": 9.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Comanda din Timp",
+    "item_name": "Oala de lut",
+    "grammage": null,
+    "description": "Se poate pastra pentru reumplere cu orice ocazie 1 Add",
+    "price": 50,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Frigarui de pui",
+    "grammage": "200g",
+    "description": "piept de pui, sare, piper 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Piept de curcan",
+    "grammage": "150g",
+    "description": "piept de curcan, ulei, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Clatita sarata",
+    "grammage": "180g",
+    "description": "sunca, cascaval, faina, ou, sare 1 Add",
+    "price": 17.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Supa",
+    "grammage": "200ml",
+    "description": "cartofi, crutoane, morcov, ceapa, varza, telina, ardei, dovlecei, ulei, sare, piper 1 Add",
+    "price": 15.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Chicken fingers",
+    "grammage": "150g",
+    "description": "piept de pui, faina , ou, sare 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Meniu Copii",
+    "item_name": "Fish fingers",
+    "grammage": "150g",
+    "description": "file salau, faina, ou, sare 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Carmangerie",
+    "grammage": "100g",
+    "description": "Ceafa de porc afumata 100g 1 Add Rulada de porc afumata 100g 1 Add Muschi de porc afumat 100g 1 Add Carnati Sremska 100g 1 Add Prosciutto 100g 48.00 lei 1 Add Antricot afumat de vita 100g 1 Add Suveniruri Breloc 15.00 lei 1 Add Oala de lut 50.00 lei 1 Add Pin 15.00 lei 1 Add Tarii Sarbesti",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Ceafa de porc afumata",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Rulada de porc afumata",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Muschi de porc afumat",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Carnati Sremska",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Prosciutto",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 48,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Antricot afumat de vita",
+    "grammage": "100g",
+    "description": "1 Add",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Suveniruri",
+    "grammage": null,
+    "description": "Breloc 1 Add Oala de lut 50.00 lei 1 Add Pin 1 Add",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Breloc",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Magaza",
+    "item_name": "Pin",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Medovaca",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Sljivovica",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 13.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "TASTING SHOTS",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 109.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Travarica",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Palinca",
+    "grammage": "30ml",
+    "description": "Palinca din gutui/pere/mere/caise/struguri (alc.43.0%),30ml 1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Lincura",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Malina",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi",
+    "item_name": "Orahovaca",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Serbian Alcohol",
+    "item_name": "Limonada",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Pepsi",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Mirinda",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Apa Aqua Carpatica",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "7UP",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Apa tonica San Pellegrino",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 21.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Prigat",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 18.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Citronada cu miere si menta",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Soft Drinks",
+    "item_name": "Fresh",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Limonada cu catina",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 32.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Apa Borsec",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 20.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Limonada cu fructe",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 32.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Suc de catina",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 31.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Redbull",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Ceai",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 20.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Ciocolata Calda",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 20.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Cafea Turceasca",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 15.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Flat White",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 22.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Cappuccino Freddo",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 22.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Cafea Tonica",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 26.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Cafe Latte",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Espresso Macchiato",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 18.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Espresso",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 16.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Espresso Dublu",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 21.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Coffee",
+    "item_name": "Cafe Frappe",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Cappuccino",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Ursus Premium",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 18.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Ursus Wheat Unfiltered",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Peroni Nastro Azzuro",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Pilsner Urquell",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 17.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Pilsner Urquell-Hladinka",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Kozel Lager Premium",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 22.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Draught Beer",
+    "item_name": "Kozel Dark",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 22.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Lager",
+    "item_name": "Asahi Super Dry",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Lager",
+    "item_name": "Ursus Remix",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 21.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Lager",
+    "item_name": "Peroni Stile Capri",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Lager",
+    "item_name": "Non-alcoholic beer",
+    "grammage": null,
+    "description": "Ursus Premium 1 Add",
+    "price": 18.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Ursus Cooler",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 20.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Specialties",
+    "grammage": null,
+    "description": "Ursus IPA 1 Add Ursus Retro 20.80 lei 1 Add Ursus Black 19.80 lei 1 Add Ursus Wheat Unfiltered 1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Ursus IPA",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 24.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Ursus Retro",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 20.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Ursus Black",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Craft beer",
+    "grammage": null,
+    "description": "Azuga Weissbier 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Non-alcoholic beer",
+    "item_name": "Azuga Weissbier",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Specialties",
+    "item_name": "Azuga Marzen",
+    "grammage": null,
+    "description": "1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Specialties",
+    "item_name": "House Wine",
+    "grammage": "200ml",
+    "description": "Glass 200ml 1 Add Jug 500ml 43.80 lei 1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Specialties",
+    "item_name": "Glass",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 19.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Specialties",
+    "item_name": "Jug",
+    "grammage": "500ml",
+    "description": "1 Add",
+    "price": 43.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Craft beer",
+    "item_name": "Prosecco by the glass",
+    "grammage": "150ml",
+    "description": "1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Craft beer",
+    "item_name": "Byzantium Blanc - DAAR 1892",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Craft beer",
+    "item_name": "Maiastru Rose - Crama Oprisor",
+    "grammage": "250ml",
+    "description": "1 Add",
+    "price": 46.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - House Wine",
+    "item_name": "Rose - Crama Budureasca",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - House Wine",
+    "item_name": "Mini Alb - Cotnari",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - House Wine",
+    "item_name": "Mini Rose - Cotnari",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Wines",
+    "item_name": "Mini Rosu - Cotnari",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Wines",
+    "item_name": "Byzantium Rosso - DAAR 1892",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Wines",
+    "item_name": "Rara Neagra&Saperavi - Crama Purcari",
+    "grammage": "375ml",
+    "description": "1 Add",
+    "price": 55.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Wines",
+    "item_name": "Implicit Roze - Crama Recas",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Implicit Merlot - Crama Recas",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Byzantium Rose - DAAR 1892",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Fume - Crama Budureasca",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Cabernet Sauvignon - Crama Budureasca",
+    "grammage": "187ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Maiastru Cabernet Sauvignon - Crama Oprisor",
+    "grammage": "250ml",
+    "description": "1 Add",
+    "price": 46.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Sovignon Blanc-Lechburg 0,",
+    "grammage": "75l",
+    "description": "sec 1 Add",
+    "price": 128,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Trijumf Selection - Aleksandrovic 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 219,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Cramposie - Crama Avincis 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 129,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Diamond Zghihara de Averesti - Domeniile Averesti 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 128,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Primordial Chardonnay - Domeniul Bogdan 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 151,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Primordial Sauvignon Blanc - Domeniul Bogdan 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 151,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Pinot Grigio - Borgo Dei Vassalli 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 143,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Premium Fume Cupaj - Crama Budureasca 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 125,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "The Sign Tamaioasa Romaneasca - Crama Budureasca 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 131,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Premium Sauvignon Blanc - Crama Budureasca 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 125,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Euforia Tamaioasa Romaneasca - Crama Cotnari 0.",
+    "grammage": "75L",
+    "description": "demisec 1 Add",
+    "price": 118,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - White Wines",
+    "item_name": "Theia Chardonnay - DAAR 1892 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 144,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Iordache Feteasca Alba - Crama 1000 De Chipuri 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 135,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Sole Roze Cupaj - Crama Recas 0. (Copy)",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 141,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Trasole Sangiovese - Villa Trasqua 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 146,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Mysterium Pinot Noir- Crama Jidvei 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 131,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Cuvee Alexis Cupaj - Crama Avincis 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 131,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Diamond Busuioaca de Bohotin - Crama Averesti 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 128,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Premium Rose Cupaj - Crama Budureasca 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 125,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Love by Leoube Cupaj- Chateau Leoube 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 191,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Rose Cupaj - 1000 de Chipuri 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 123,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Caii de la Letea Manuscris Rara Neagra - Viticola Sarica Niculitel 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 112,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Sole Roze Cupaj - Crama Recas 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 141,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Nocturne Rose - Crama Purcari 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 127,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Cuvee Sissi Pinot Noir - Serve 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 141,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Exclusive Cabernet Sauvignon - Domeniile Mitroi 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 122,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Bacanta Special Edition Rose - Crama Girboiu 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 138,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rose Wines",
+    "item_name": "Jiana Rose - Crama Oprisor 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 127,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Euforia Busuioaca de Bohotin - Casa de vinuri Cotnari 0.",
+    "grammage": "75L",
+    "description": "demisec 1 Add",
+    "price": 118,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Feteasca Neagra -1000 de Chipuri 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 127,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Amarone della Valpolicella -Zenato 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 410,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Ripassa Valpolicella Cupal -Zenato 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 238,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Selection Rubin Cupaj -Villa Vinea 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 163,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Chianti Classico-Villa Trasqua 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 161,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Terra Romana Feteasca Neagra-Serve 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 131,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Epiphanie Feteasca Neagra-Viticola Sarica Niculitel 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 208,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Caii de la Letea Manuscris Rara Neagra-Viticola Sarica Niculitel 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 112,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Red Wines",
+    "item_name": "Cuvee Charlotte Cupaj-Serve 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 233,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Negru de Dragasani-Crama Avincis 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 168,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Diamond Feteasca Neagra de Averesti-Domeniile Aversti 0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 131,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Trijumf Noir-Aleksandrovic0.",
+    "grammage": "75L",
+    "description": "sec 1 Add",
+    "price": 291,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Veuve Clicquot 0.",
+    "grammage": "75L",
+    "description": "Brut 1 Add",
+    "price": 374,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Moet&Chandon 0.",
+    "grammage": "75L",
+    "description": "Imperial brut 1 Add",
+    "price": 328,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Foss Marai 0.",
+    "grammage": "75L",
+    "description": "Via Prade Valdobbiadene, extra dry 1 Add",
+    "price": 149,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Dom Perignon 0.",
+    "grammage": "75L",
+    "description": "Brut 1 Add",
+    "price": 1837,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "DAAR 1892 0.",
+    "grammage": "75L",
+    "description": "Rhein Extra Imperial brut 1 Add",
+    "price": 149,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Pommery 0.",
+    "grammage": "75L",
+    "description": "Pommery Brut Royal 1 Add",
+    "price": 451,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Champagne Castelnau 0.",
+    "grammage": "75L",
+    "description": "Castelnau Extra Dry 1 Add",
+    "price": 353,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Purcari 0.",
+    "grammage": "75L",
+    "description": "Cuvee de Purcari Alb, brut 1 Add",
+    "price": 166,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Carastelec 0.",
+    "grammage": "75L",
+    "description": "Carassia Blanc de Blanc 1 Add",
+    "price": 191,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Sparkling Wines",
+    "item_name": "Recas 0.",
+    "grammage": "75L",
+    "description": "Muse Stars, brut 1 Add",
+    "price": 154,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Jidvei 0.",
+    "grammage": "75L",
+    "description": "Mysterium, brut 1 Add",
+    "price": 196,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Bottega 0.",
+    "grammage": "75L",
+    "description": "alc.0.0% 1 Add",
+    "price": 196,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Miniature Bubbles",
+    "grammage": "200ml",
+    "description": "Bottega Poeti Petala Moscato Spumante 200ml 1 Add Bottega Poeti Prosecco Brut Rose 200 ml 65.80 lei 1 Add Bottega Poeti Prosecco Brut 200ml 65.80 lei 1 Add",
+    "price": 64.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Bottega Poeti Petala Moscato Spumante",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 64.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Bottega Poeti Prosecco Brut Rose",
+    "grammage": "200 ml",
+    "description": "1 Add",
+    "price": 65.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Bottega Poeti Prosecco Brut",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 65.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Wild Cherry",
+    "grammage": "150ml",
+    "description": "alc 0.0% 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Green Apple",
+    "grammage": "150ml",
+    "description": "alc. 0.0% 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Pomegranate Mojito",
+    "grammage": "150ml",
+    "description": "alc. 0.0% 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Aperol Spritz",
+    "grammage": "300ml",
+    "description": "alc. 0.0% 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Gin Tonic",
+    "grammage": "300ml",
+    "description": "alc. 0.0% 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Miniature Bubbles",
+    "item_name": "Crodino",
+    "grammage": "175ml",
+    "description": "alc 0.0% 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Amaretto Sour",
+    "grammage": "100ml",
+    "description": "alc 0.0% 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Campari Spritz",
+    "grammage": "300ml",
+    "description": "alc. 0.0% 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Pina Colada",
+    "grammage": "150ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Cuba Libre",
+    "grammage": "150ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Esprsso Martini",
+    "grammage": "125ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Cosmopolitan",
+    "grammage": "100ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Negroni",
+    "grammage": "90ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Campari Orange",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Mimosa",
+    "grammage": "150ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Mojito",
+    "grammage": "150ml",
+    "description": "1 Add",
+    "price": 39.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Cocktails",
+    "item_name": "Hugo",
+    "grammage": "300 ml",
+    "description": "1 Add",
+    "price": 40.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Aperitivo Moments",
+    "grammage": "200ml",
+    "description": "Limoncello Spritz, 200ml 1 Add Gin Tonic 300ml 1 Add Amaro Montenegro Tonic, 200ml 1 Add Campari Spritz, 300ml 1 Add Aperol Spritz, 300ml 1 Add Campari Tonic, 300ml 1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Limoncello Spritz,",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Amaro Montenegro Tonic,",
+    "grammage": "200ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Campari Spritz,",
+    "grammage": "300ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Aperol Spritz,",
+    "grammage": "300ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Campari Tonic,",
+    "grammage": "300ml",
+    "description": "1 Add",
+    "price": 41.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Gin",
+    "grammage": "40ml",
+    "description": "Big Kahuna Pineapple 40ml ( alc. 40.0%) 1 Add Tanqueray Gin 40ml 28.80 lei ( alc. 43.1%) 1 Add Scapegrace Black Gin 40ml 36.80 lei ( alc. 41.6%) 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Big Kahuna Pineapple",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Tanqueray Gin",
+    "grammage": "40ml",
+    "description": "( alc. 43.1%) 1 Add",
+    "price": 28.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Aperitivo",
+    "item_name": "Scapegrace Black Gin",
+    "grammage": "40ml",
+    "description": "( alc. 41.6%) 1 Add",
+    "price": 36.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Ginbery`s Ginberryes",
+    "grammage": "40ml",
+    "description": "( alc. 37.5%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Ginbery`s Rose",
+    "grammage": "40 ml",
+    "description": "( alc. 37.5%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Wembley Peach",
+    "grammage": "40ml",
+    "description": "( alc. 37.5%) 1 Add",
+    "price": 21.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Tequila",
+    "grammage": "40ml",
+    "description": "Don Julio Blanco 40ml ( alc. 38.0%) 1 Add Jose Cuervo Gold 40ml 26.80 lei ( alc. 35.0%) 1 Add Olmeca Gold 40ml 27.80 lei ( alc. 35.0%) 1 Add",
+    "price": 50.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Don Julio Blanco",
+    "grammage": "40ml",
+    "description": "( alc. 38.0%) 1 Add",
+    "price": 50.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Jose Cuervo Gold",
+    "grammage": "40ml",
+    "description": "( alc. 35.0%) 1 Add",
+    "price": 26.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Gin",
+    "item_name": "Olmeca Gold",
+    "grammage": "40ml",
+    "description": "( alc. 35.0%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "Zacapa Solera",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 53.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "Bumbu Xo",
+    "grammage": "40ml",
+    "description": "( alc 40.0%) 1 Add",
+    "price": 43.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "Havana Club 3 Years",
+    "grammage": "40ml",
+    "description": "(alc 37.5%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "El Galipote Spiced",
+    "grammage": "40ml",
+    "description": "( alc. 35.0%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "Relicario Superior",
+    "grammage": "40 ml",
+    "description": "( alc.40.0%) 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Tequila",
+    "item_name": "Angostura Tamboo",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 34.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rom",
+    "item_name": "Angostura Reserva",
+    "grammage": "40ml",
+    "description": "( alc 37.5%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rom",
+    "item_name": "Vodka",
+    "grammage": "40ml",
+    "description": "Absolut 40ml ( alc. 40.0%) 1 Add Czechoslovakia 40ml 29.80 lei ( alc. 40.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rom",
+    "item_name": "Absolut",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Rom",
+    "item_name": "Czechoslovakia",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Grey Goose",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 48.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Chopin Potato",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 48.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Stalinskaya",
+    "grammage": "40ml",
+    "description": "( alc. 40.0%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Jack Daniel's ,",
+    "grammage": "50ml",
+    "description": "Bourbon (alc.40.0%) 1 Add",
+    "price": 37.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Bulleit,",
+    "grammage": "50ml",
+    "description": "Bourbon, (alc.40.0%) 1 Add",
+    "price": 40.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Glenfiddich 18 Ani ,",
+    "grammage": "50ml",
+    "description": "Single malt (alc.40.0%) 1 Add",
+    "price": 75.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Vodka",
+    "item_name": "Lagavulin 16 Ani,",
+    "grammage": "50ml",
+    "description": "Single malt, (alc.43.0%) 1 Add",
+    "price": 65.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Whiskey",
+    "item_name": "Ballantine's ,",
+    "grammage": "50ml",
+    "description": "Blended (alc.40.0%) 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Whiskey",
+    "item_name": "Jameson,",
+    "grammage": "50ml",
+    "description": "Irish, (alc.40.0%) 1 Add",
+    "price": 32.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Whiskey",
+    "item_name": "The Glen Silver's,",
+    "grammage": "50ml",
+    "description": "Blended, (alc.40.0%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Whiskey",
+    "item_name": "Carpathian Feteasca Neagra,",
+    "grammage": "50ml",
+    "description": "Single malt, (alc.40.0%) 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Whiskey",
+    "item_name": "Carpathian Cognac,",
+    "grammage": "50ml",
+    "description": "Bourbon, (alc.47.0%) 1 Add",
+    "price": 59.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Chivas Regal 12 Ani,",
+    "grammage": "50ml",
+    "description": "Bourbon, (alc.47.0%) 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Johnnie Walker Black Label ,",
+    "grammage": "50ml",
+    "description": "Blended (alc.40.0%) 1 Add",
+    "price": 38.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Bailey's",
+    "grammage": "50ml",
+    "description": "Lichior de cafea (alc.17.0%), 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Royal Conti,",
+    "grammage": "50ml",
+    "description": "Amaretto, (alc.28.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Fratelli Ramazoti Amaro,",
+    "grammage": "50ml",
+    "description": "Lichior digestiv, (alc.35.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Fernet Branca,",
+    "grammage": "50ml",
+    "description": "Lichior digestiv (alc.35.0%) 1 Add",
+    "price": 29.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Kahlua ,",
+    "grammage": "50ml",
+    "description": "Lichior cafea (alc.16.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Tatratea 62,",
+    "grammage": "50ml",
+    "description": "Tatratea (alc.62.0%), 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Tatratea 52,",
+    "grammage": "50ml",
+    "description": "Tatratea (alc.52.0%), 1 Add",
+    "price": 26.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Tatratea 37,",
+    "grammage": "50ml",
+    "description": "Tatratea (alc.37.0%), 1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Campari",
+    "grammage": "50ml",
+    "description": "Campari (alc.25.0%), 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Bitters",
+    "item_name": "Limoncino Bottega ,",
+    "grammage": "50ml",
+    "description": "Lichior de lamaie (alc.35.0%) 1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Cinzano",
+    "grammage": "50ml",
+    "description": "Vermut (alc.15.0%), 1 Add",
+    "price": 21.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Amaro di Angostura",
+    "grammage": "50ml",
+    "description": "Lichior digestiv (alc.35.0%), 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Amerie ,",
+    "grammage": "50ml",
+    "description": "Lichior de fructe si citrice (alc.16.0%) 1 Add",
+    "price": 35.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Jagermeister",
+    "grammage": "50ml",
+    "description": "Lichior digestiv (alc.35.0%), 1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Unicum ,",
+    "grammage": "50ml",
+    "description": "Lichior digestiv (alc.40.0%) 1 Add",
+    "price": 23.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Disaronno",
+    "grammage": "50ml",
+    "description": "Lichior de migdale (alc.28.0%), 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Brandy&Cognac",
+    "grammage": "50ml",
+    "description": "Alexandrion 7* 50ml (alc.40.0%) 1 Add Courvoisier Vsop 50ml 57.80 lei 1 Add Metaxa 7* 50ml 27.80 lei ( alc.40.0%) 1 Add Vinars Brancoveanu XO 50ml 61.80 lei 1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Alexandrion 7*",
+    "grammage": "50ml",
+    "description": "(alc.40.0%) 1 Add",
+    "price": 25.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Courvoisier Vsop",
+    "grammage": "50ml",
+    "description": "1 Add",
+    "price": 57.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Metaxa 7*",
+    "grammage": "50ml",
+    "description": "( alc.40.0%) 1 Add",
+    "price": 27.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  },
+  {
+    "restaurant_name": "Taverna Sârbului",
+    "category": "Bauturi - Brandy",
+    "item_name": "Vinars Brancoveanu XO",
+    "grammage": "50ml",
+    "description": "1 Add",
+    "price": 61.8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:11:04.737Z"
+  }
+]

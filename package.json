@@ -1,5 +1,17 @@
 {
+  "name": "horeca-market-automated-power-bi-dashboard",
+  "version": "1.0.0",
+  "description": "HoReCa Market BI & Automation Pipeline - Playwright Competitor Scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scrape": "node index.js",
+    "scrape:beraria-h": "node scrapers/berariaH.js",
+    "scrape:la-mama": "node scrapers/laMama.js",
+    "scrape:taverna-sarbului": "node scrapers/tavernaSarbului.js"
+  },
   "dependencies": {
+    "pdf-parse": "^2.4.5",
     "playwright": "^1.62.1"
   }
 }

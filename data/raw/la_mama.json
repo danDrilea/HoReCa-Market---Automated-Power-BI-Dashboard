@@ -1,0 +1,1692 @@
+[
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ouă ochiuri la capac",
+    "grammage": "240g",
+    "description": "O nebunie de gusturi: 3 ouă ochiuri cu ardei gras, carne rumenită și cașcaval care se topește perfect.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ouă Benedict cu bacon și somon afumat",
+    "grammage": "300g",
+    "description": "Un brunch ca la carte - ouă Benedict cu bacon sau somon, pentru dimineți cu pretenții.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mic dejun Chef de Viață",
+    "grammage": "420g",
+    "description": "Tot ce-ți trebuie dimineața - un mic dejun complet, care te pune pe picioare din prima!",
+    "price": 56,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Toast cu avocado",
+    "grammage": "340g",
+    "description": "Toast crocant cu avocado cremos - un start sănătos și delicios pentru ziua ta.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Omletă \"ca La Mama Acasă\"",
+    "grammage": "180g+",
+    "description": "Exact cum îți place - o omletă din 3 ouă, gustoasă și personalizabilă cu toppingul preferat (ardei gras, ceapă, ciuperci, roșii, bacon, cașcaval)",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ouă ochiuri",
+    "grammage": "180g",
+    "description": "3 ouă ochiuri prăjite sau poșate.",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Croissant cu unt",
+    "grammage": "65g",
+    "description": "Un croissant pufos cu unt fin, care-ți face dimineața mai bună.",
+    "price": 12,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Bulz",
+    "grammage": "440g",
+    "description": "Toate bunătățile autentice, adunate într-un bulz cald și sățios, gata să-ți încânte farfuria.",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mămăligă cu brânză și smântână",
+    "grammage": null,
+    "description": "(300g/150g/125g/50g) Mâncarea tradițional românească făcută cu drag din mămăliguță gustoasă, brânză și smânatână grasă din belșug",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de boeuf (270g/40g)",
+    "grammage": null,
+    "description": "(270g/40g) Pentru noi masa ta este festivă oricând, nu doar de Paste sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă.",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de vinete cu ardei copt",
+    "grammage": "210g",
+    "description": "Clasica salată de vinete, dar cu ardei copt.",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cașcaval pane",
+    "grammage": null,
+    "description": "(170g/50g) O gustare rapidă, cremoasă și cu crustă crocantă",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Clătite cu pui si ciuperci",
+    "grammage": null,
+    "description": "(220g/100g) O masă lejeră, dar consistentă, cu clătită pufoasă, piept de pui fraged și ciuperci gustoase",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Fasole bătută",
+    "grammage": null,
+    "description": "Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Gramaj: 210g/50g Ingrediente: fasole uscata, sos (ceapa, ulei, pasta de tomate, usturoi), sare.",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Piperchi Țârgâsiti",
+    "grammage": "210g",
+    "description": "Ingrediente: ardei kapia, roșii , ardei gras, brânză de capră, ulei, ardei iute, sare, piper.",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pate de păstrăv afumat",
+    "grammage": "210g",
+    "description": "Ingrediente: crema de brânză Philadelphia, file de păstrăv afumat, zeamă de lămaie , sare",
+    "price": 28,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Zacuscă",
+    "grammage": "200g",
+    "description": "Ingrediente: vinete, gogoșari, ardei gras, ceapă, morcovi, pasta de tomate, foi de dafin, usturoi, ulei, sare, piper",
+    "price": 28,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Gustare rece",
+    "grammage": null,
+    "description": "Pentru 1-2 persoane (600g) ceafă de porc, cotlet de porc, urechi de porc, jumări de porc, slănină, muștar, brânză telemea, cașcaval, măsline, roșii, castraveți, ceapă.",
+    "price": 59,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu degustare aperitive",
+    "grammage": null,
+    "description": "(5x70g =420g) Salată de vinete cu ardei copt, salată boeuf, pate de păstrăv afumat, fasole bătută și piperchi țârgâsiti.",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Spanac cu ou",
+    "grammage": "350g",
+    "description": "Ingrediente: Spanac*, pastă de tomate, ou, ceapă, ulei, usturoi, sare, piper.",
+    "price": 28,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sote de ciuperci și baghetă",
+    "grammage": null,
+    "description": "(220g/100g) Ingrediente: ciuperci champignon, ulei, ceapă, usturoi, piper, sare, baghetă",
+    "price": 28,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu de degustare gustări calde",
+    "grammage": null,
+    "description": "Mămăliguță cu brânză și smântână (310g), Spanac cu ou (200g), Mini Bulz (270g)",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciorbă de burtă",
+    "grammage": null,
+    "description": "Una dintre ciorbele clasice din bucătăria românească, extraordinar de gustoasă, cu influențe istorice, pentru cunoscători (440g)",
+    "price": 31,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciorbă de văcuță",
+    "grammage": null,
+    "description": "Ciorba de văcuță clasică, nelipsită din meniul românesc, dar cu gustul adevărat de acasă. (450g)",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciorbă rădăuțeană",
+    "grammage": null,
+    "description": "Ciorbă rădăuțeană cremoasă, plină de pui franjurat - gustul care încălzește sufletul. (420g)",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciorbă țărănească cu afumătură",
+    "grammage": null,
+    "description": "Ciorbă țărănească cu afumătură - un gust autentic și plin de savoare, ca pe vremea bunicii. (420g)",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciorbă de perișoare",
+    "grammage": "420g",
+    "description": "",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Supă cremă de legume și crutoane",
+    "grammage": null,
+    "description": "Legume atent alese, transformate într-o supă cremă fină, cu crutoane crocante deasupra. (440g)",
+    "price": 26,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Borș cu carne de porc cu sfeclă",
+    "grammage": "440g",
+    "description": "",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu degustare ciorbe",
+    "grammage": null,
+    "description": "(5x90g=450g) - Ciorbă de burtă - Ciorbă de văcuță - Ciorbă țărănescă cu afumătură - Ciorbă rădăuțeană - Ciorbă de perișoare",
+    "price": 68,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Biban de mare cu ierburi la grătar",
+    "grammage": "260g",
+    "description": "",
+    "price": 56,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "File de somon dulce picant pe pat de baby spanac și sfeclă roșie",
+    "grammage": null,
+    "description": "Somon dulce-picant, așezat pe un pat fresh de baby spanac și sfeclă roșie – echilibrul perfect între gust și prospețime. (180g/30g/30g)",
+    "price": 68,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Crap în crustă de mălai cu mămăligă și mujdei",
+    "grammage": null,
+    "description": "(160g/300g/50g)",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Păstrăv la grătar cu mămăligă și mujdei de usturoi",
+    "grammage": null,
+    "description": "Păstrăv la grătar, însoțit de mămăliguță caldă și mujdei aromat – combinația pe care o vei iubi. (260g/300g/60g)",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Hamsii cu mămăligă și mujdei de usturoi",
+    "grammage": null,
+    "description": "Hamsii crocante, alături de mămăligă fină și mujdei aromat - gustul tradiției în farfurie. (200g/300g/70g)",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Saramură de crap cu mămăliguță",
+    "grammage": null,
+    "description": "(180g/300g)",
+    "price": 59,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sarmale cu varză și mămăligă",
+    "grammage": null,
+    "description": "(3*55g/110g/300g) sau (5*55g/150g/300g) Sarmale tradiționale învelite-n savoare, servite cu mămăliguță caldă - gustul care aduce acasă.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tigaie picantă cu turtă țărănească",
+    "grammage": null,
+    "description": "(240g/90g) Trei feluri de carne rumenite cu legume și condimente, servite cu turtă țărănească caldă - o tigaie plină de gust.",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ficăței la tigaie",
+    "grammage": "240g",
+    "description": "Ficăței fragezi, gătiți simplu și gustos.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Rasol de vită cu piure",
+    "grammage": "570g",
+    "description": "Rasol de vită cu piure, o combinație fragedă și gustoasă, numai bună pentru o masă sățioasă.",
+    "price": 74,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ciolan afumat",
+    "grammage": "650g",
+    "description": "Ciolan afumat generos, servit cu garnitura ta preferată - mâncare de varză, iahnie sau cartofi prăjiți.",
+    "price": 68,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Gulaș ardelenesc",
+    "grammage": "480g",
+    "description": "Gulaș ardelenesc, bogat și aromat - gustul care aduce căldură în farfurie",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pastramă de oaie cu mămăligă",
+    "grammage": null,
+    "description": "(150g/300g)",
+    "price": 64,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Friptură de porc la cuptor cu piure de trufe",
+    "grammage": null,
+    "description": "(180g/300g) Friptură suculentă de porc la cuptor, servită cu piure fin de trufe – un răsfăț gourmet în fiecare îmbucătură.",
+    "price": 52,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tocăniță cu ciuperci și mămăligă",
+    "grammage": null,
+    "description": "(300g/300g) Tocăniță de ciuperci gătită domol, servită cu mămăligă caldă - mâncare de suflet, fără carne.",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Carne de porc la garniță cu mămăliguță",
+    "grammage": null,
+    "description": "(220g/300g)",
+    "price": 56,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tocăniță de pui \"A la Cotnari\"",
+    "grammage": "250g",
+    "description": "Ingrediente - pulpe de pui, roșii, smântână, vin alb, unt, mărar, p ătrunjel , sare.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Saramură de pui",
+    "grammage": null,
+    "description": "(240g/300g Ingrediente - pulpe de pui dezosate 240 g, saramură din legume (apă, roșii, ardei gras, ceapă, ardei kapia, usturoi, sare, piper",
+    "price": 45,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu degustare \"Mâncare românească\"",
+    "grammage": null,
+    "description": "(6X150g) - Pastramă de oaie cu mămăliguță - Ciolan afumat cu iahnie de fasole - Sarmale cu varză și mămăliguță - Tocăniță de pui ca la Cotnari - Gulaș ardelenesc - Friptură de porc cu piure cu trufe",
+    "price": 82,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată Caesar",
+    "grammage": "270g",
+    "description": "Salată Caesar clasică - piept de pui fraged, salată crocantă, crutoane și dressing cremos cu anșoa.",
+    "price": 46,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată cu somon afumat",
+    "grammage": "450g",
+    "description": "Somon afumat, salată verde și un sos savuros - un bol plin de prospețime și omega-3.",
+    "price": 48,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată cu sardine",
+    "grammage": "450g",
+    "description": "Salata French Mix ( valeriană, rucola, baby batavia, baby spanac - 80g), roșii, sardine în ulei , castraveți, zeamă de lămâie, ceapă, măsline, oțet balsamic, zahăr, sare, piper.",
+    "price": 44,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată vegetariană cu năut",
+    "grammage": "280g",
+    "description": "Ingrediente - boabe de năut 120g, fasole verde*, ardei gras roșu, ceapă, morcovi, ulei de măsline, suc de lămâie, usturoi, pătrunjel proaspăt, oregano uscat, sare",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată fitness",
+    "grammage": "300g",
+    "description": "Ingrediente - Salata French Mix 80g (valeriană, rucola, baby batavia, baby spanac), ou pane (ou, pesmet, ulei), castraveți, grefe, măsline kalamata, roșii uscate în ulei, ulei de măsline, semințe de susan, sare.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Burger de vită Black Angus",
+    "grammage": "310g",
+    "description": "Burger suculent din vită Black Angus servit cu cartofi prăjiți aurii.",
+    "price": 56,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Crochete din piept de pui",
+    "grammage": "210g",
+    "description": "Crochete fragede din piept de pui, crocante la exterior și gustoase în interior.",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Burger de berbecuț",
+    "grammage": "335g",
+    "description": "Burger din carne de berbecuț, cu gust intens și autentic, servit cu cartofi prăjiți aurii.",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Aripioare de pui pane cu cartofi prăjiți",
+    "grammage": null,
+    "description": "(7x30g/200g/50g) Aripioare de pui crocante, servite cu cartofi prăjiți aurii și sos - plăcerea aia simplă și bună.",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Șnițel de pui",
+    "grammage": null,
+    "description": "Clasicul iubit de toți - șnițel de pui crocant la exterior, fraged la interior.",
+    "price": 34,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Halloumi Burger",
+    "grammage": "280g",
+    "description": "Burger cu Halloumi la grătar, cremos și crocant, servit cu cartofi prăjiți aurii.",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Șnițel de porc",
+    "grammage": null,
+    "description": "Șnițel de porc bine bătut și rumenit, exact cum îl știi din copilărie.",
+    "price": 34,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Brânză Halloumi la grătar",
+    "grammage": null,
+    "description": "(130g/45g) Halloumi rumenit pe grătar - brânză care scârțâie frumos și merge cu orice.",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mititei",
+    "grammage": null,
+    "description": "1 buc (75g) Mititel simplu, fraged și plin de savoare, exact ca la grătarul de acasă.",
+    "price": 10,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Platou ca la mama acasă",
+    "grammage": null,
+    "description": "Pentru 1-2 persoane (1455g) Un platou generos cu tot ce trebuie: pui, ceafă, mititei, cârnați, cartofi cu brânză și murături – gusturi bine alese, porție pe măsură.",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Frigărui de berbecuț",
+    "grammage": null,
+    "description": "(145g/300g) Frigărui de berbecuț servite cu mămăligă, fragede și pline de aromă.",
+    "price": 64,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cotlete de Berbecuț",
+    "grammage": "250g",
+    "description": "3 bucăți de cotlet de berbecuț, fragede și pline de savoare *garnitura nu este inclusă",
+    "price": 58,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ceafă de porc",
+    "grammage": "180g",
+    "description": "Ceafă de porc fragedă, rumenită cât trebuie - simplu și bun.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cotlet de porc cu os",
+    "grammage": "230g",
+    "description": "Cotlet de porc cu os, suculent și cu gust intens - clasicul care nu dă greș.",
+    "price": 54,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Antricot de vită",
+    "grammage": "150g",
+    "description": "Antricot fraged și suculent, gătit cât să-și păstreze toată savoarea.",
+    "price": 89,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Piept de pui",
+    "grammage": "160g",
+    "description": "Piept de pui fraged și aromat, perfect pentru orice poftă.",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pulpe de pui dezosate",
+    "grammage": "240g",
+    "description": "Pulpe de pui dezosate, suculente și pline de savoare.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cârnați sibieni afumați proaspeți",
+    "grammage": "170g",
+    "description": "Cârnați proaspeți, rumeniți și gustoși.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cârnați de Pleșcoi",
+    "grammage": "150g",
+    "description": "Cârnați de Pleșcoi, picanți și bine condimentați - gust românesc cu tradiție.",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cârnați thuringer",
+    "grammage": "210g",
+    "description": "",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cârnați cu cașcaval",
+    "grammage": "200g",
+    "description": "",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu degustare cârnați",
+    "grammage": "350g",
+    "description": "- Cârnați de pleșcoi - Cârnați sibieni afumați - Cârnați cu cașcaval - Cârnați thuringer",
+    "price": 75,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Iahnie de fasole",
+    "grammage": "300g",
+    "description": "Fasole fiartă domol, cu sos legat și arome simple, dar pline.",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Piure de cartofi",
+    "grammage": "300g",
+    "description": "Piure de cartofi cremos și fin, gata să completeze orice fel principal.",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Cartofi prăjiți cu brânză tare",
+    "grammage": "250g",
+    "description": "Cartofi prăjiți crocanți, cu brânză tare rasă din belșug - combinația care merge mereu.",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sparanghel la tigaie",
+    "grammage": "100g",
+    "description": "Sparanghel rumenit ușor, cu gust proaspăt și delicat.",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Orez basmati",
+    "grammage": "250g",
+    "description": "Orez basmati aromat, perfect pentru orice preparat.",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mâncare de varză",
+    "grammage": "300g",
+    "description": "Mâncare de varză gustoasă, cu aromă blândă și textură fină.",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mămăligă",
+    "grammage": "300g",
+    "description": "Mămăligă pufoasă și caldă, nelipsită de pe o masă bună.",
+    "price": 10,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Legume la grătar cu dressing de busuioc",
+    "grammage": null,
+    "description": "(220g/20g) Legume rumenite ușor pe grătar, cu un strop de dressing de busuioc – simple și pline de gust.",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Papanași cu smântână și dulceață",
+    "grammage": null,
+    "description": "(1x150g/50g/50g) sau (2x150g/100g/100g) Papanași moi, îmbrăcați în smântână cremoasă și dulceață aromată.",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Gogoși ca la mama",
+    "grammage": null,
+    "description": "(5x50g) Gogoși pufoase și rumene, exact ca cele făcute acasă.",
+    "price": 29,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Clătite cu dulceață",
+    "grammage": null,
+    "description": "(2x80g) Două clătite fine, umplute cu dulceață ce-ți aduce zâmbetul pe buze.",
+    "price": 20,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Clătite cu brânză și stafide",
+    "grammage": "340g",
+    "description": "Clătite delicate cu umplutură fină de brânză și stafide dulci.",
+    "price": 28,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Plăcintă cu brânză",
+    "grammage": "200g",
+    "description": "",
+    "price": 25,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de sezon",
+    "grammage": "300g",
+    "description": "",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de ardei copți",
+    "grammage": null,
+    "description": "(200g/20g/20g)",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de sfeclă roșie cu hrean",
+    "grammage": "220g",
+    "description": "",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată verde cu dressing de lămâie",
+    "grammage": null,
+    "description": "(150g/30g)",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de castraveți murați",
+    "grammage": "200g",
+    "description": "",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Salată de varză",
+    "grammage": "260g",
+    "description": "",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Turtă țărănească",
+    "grammage": "90g",
+    "description": "",
+    "price": 12,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Chiflă ciabatta",
+    "grammage": "60g",
+    "description": "",
+    "price": 4,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mix de pâine cu maia",
+    "grammage": null,
+    "description": "Făină integrală, cu semințe și cu hrișcă (125g)",
+    "price": 12,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos cedar",
+    "grammage": "50g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos calipso",
+    "grammage": "50g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos sweet chili",
+    "grammage": "50g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos de maioneză",
+    "grammage": "70g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos de maioneză cu usturoi",
+    "grammage": "70g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mujdei de usturoi",
+    "grammage": "70g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ketchup dulce/picant",
+    "grammage": "50g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Sos de smântână cu usturoi",
+    "grammage": "70g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Smântână natur",
+    "grammage": "70g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Brânză telemea",
+    "grammage": "50g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Unt",
+    "grammage": "40g",
+    "description": "",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ardei iute",
+    "grammage": null,
+    "description": "1 buc",
+    "price": 2,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Răsfăț Fetească Neagră - marcă proprie LaMama",
+    "grammage": null,
+    "description": "750 ml",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Răsfăț Rose Fetească Neagră - marcă proprie La Mama",
+    "grammage": null,
+    "description": "750 ml",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Răsfăț Fetească Regală - marcă proprie La Mama",
+    "grammage": null,
+    "description": "750 ml",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Răsfăț Frâncușă spumant - marcă proprie La Mama",
+    "grammage": null,
+    "description": "750 ml",
+    "price": 75,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Apă plată",
+    "grammage": null,
+    "description": "sticlă (330 ml)",
+    "price": 13,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Apă minerală",
+    "grammage": null,
+    "description": "sticlă (330 ml)",
+    "price": 13,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pepsi",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pepsi Twist",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pepsi Zero Zahăr",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Mirinda",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "7 Up",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Prigat nectar portocală",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Prigat nectar piersici și caise",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Prigat nectar banana, măr și căpșuni",
+    "grammage": null,
+    "description": "sticlă (250 ml)",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Băutură tonică Franklin&Sons",
+    "grammage": "200 ml",
+    "description": "",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Băutură tonică SOKA Elixir",
+    "grammage": null,
+    "description": "fără zahăr (330 ml)",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Socată artizanală",
+    "grammage": "275 ml",
+    "description": "",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Ginger Beer",
+    "grammage": "200 ml",
+    "description": "",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu Crispy din piept de pui",
+    "grammage": null,
+    "description": "- crispy din piept de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Meniu Crispy din pulpă de pui",
+    "grammage": null,
+    "description": "- crispy din pulpă de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pachet MamaBox 1",
+    "grammage": null,
+    "description": "Pachetul conține: - MamaBox Șnițel - MamaBox Dovlecei pane - MamaBox Gogoși GRATIS",
+    "price": 183,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pachet MamaBox 2",
+    "grammage": null,
+    "description": "Pachetul conține: - MamaBox Chiftele - MamaBox Cartofi Prăjiți - MamaBox Gogoși GRATIS",
+    "price": 186,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pachet Oala cu Răsfăț 1",
+    "grammage": null,
+    "description": "Pachetul conține: - Oală cu ciorbă de văcuță - Tavă cu gulaș ardelenesc - Tavă cu 10 clătite GRATIS",
+    "price": 260,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Pachet Oala cu Răsfăț 2",
+    "grammage": null,
+    "description": "Pachetul conține: - Oală cu ciorbă de perișoare - Oală cu tocăniță de cartofi cu carne de porc - O sticlă de vin din Gama Răsfăț GRATIS",
+    "price": 220,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox chiftele",
+    "grammage": null,
+    "description": "Ingrediente: Carne de porc, oua, ceapa, usturoi, lapte, paine, patrunjel, sare, piper, ulei Gramaj - 1000g",
+    "price": 128,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox Șalău Pane",
+    "grammage": null,
+    "description": "Ingrediente: File de șalău*, oua, faina, pesmet, sare, piper, ulei Gramaj - 850 g",
+    "price": 165,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox șnițele de pui",
+    "grammage": null,
+    "description": "Ingrediente: Piept pui, oua, faina, sare, piper, ulei Gramaj - 900 g",
+    "price": 125,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox Cartofi Prăjiți cu Brânză Tare (770g/30g)",
+    "grammage": null,
+    "description": "",
+    "price": 58,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox crochete de pui (840g)",
+    "grammage": null,
+    "description": "",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "MamaBox gogoși ca la mama (9x50g)",
+    "grammage": null,
+    "description": "",
+    "price": 52,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă țărănească cu afumătură",
+    "grammage": null,
+    "description": "Descriere: Unul din cele mai bine păstrate secrete din bucătăria noastră, rețeta aparține mamei proprietarului restaurantelor, Cătălin Mahu. Ingrediente : Coasta de porc afumata - 600g , Cartof albi - 600g , Smantana 30% - 600g , Bors Olympia - 360g , Rosii in bulion - 300g , Oua de gaina - 180g , Ceapa – 96g , Morcovi – 66g, Radacina de telina – 60g , Ulei floarea soarelui – 60g, Pastarnac radacina -54g, Radacina de patrunjel -54g, Frunze de patrunjel Gramaj - 2420g Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 130,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu sarmale cu varză",
+    "grammage": null,
+    "description": "Descriere: Clasice dar la noi gustoase foc pentru ca punem carne de vita si porc, iar in oala printre sarmale punem din belsug costita afumata, pentru gustul ca la mama. Ingrediente: Carne tocata de vita si porc, costita afumata, slanina afumata, ceapa, varza murata, orez, pasta de tomate, piper, cimbru. 20 buc*55g/500g",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu ceafă de porc la cuptor",
+    "grammage": null,
+    "description": "Descriere: Bucată întreagă de ceafă de porc, fragedă si gustoasa, stropita cu condimente si lasata la cuptor pana se desavarseste. Ingrediente: Ceafa de porc, ulei, usturoi, vin, mustar, sare, piper, foi de dafin, cimbru. Gramaj - 800 g",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu cârnați proaspeți la grătar",
+    "grammage": null,
+    "description": "Ingrediente: Carne de porc (Cârnați Sibieni: spata de porc 85%,apa, sare,usturoi, piper, fibra de ovaz), condimente Gramaj - 1000g",
+    "price": 140,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu somon la cuptor",
+    "grammage": null,
+    "description": "Descriere: File de somon la cuptor, frumos rumenit, cu accente dulci si picante. Gramaj - 800g",
+    "price": 225,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu salată de Boeuf",
+    "grammage": null,
+    "description": "Descriere : Pentru noi masa ta este festivă oricând, nu doar de Paște sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă. Ingrediente : Pulpă de vită, cartofi, morcovi, mazăre, gogoșari in oțet, castraveți în oțet, muștar, maioneză, măsline, sare, piper. Gramaj - 1000g",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu salată de vinete cu ceapă",
+    "grammage": null,
+    "description": "Descriere: clasica salată de vinete, cu ceapă și roșii, gustarea răsfăț pentru orice anotimp. Ingrediente : vinete, ulei, ceapă, roșii. Gramaj - 1000g",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu fasole bătută cu sos de ceapă călită",
+    "grammage": null,
+    "description": "Descriere : Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Ingrediente: fasole uscată, usturoi, pastă de tomate, ceapă, ulei. Gramaj - 1050g/150g",
+    "price": 100,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă de văcuță (2450g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 128,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă de perișoare (2400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 115,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă rădăuțeană (2420g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 115,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă de pui a la grec (2450g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 115,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu ciorbă de burtă (2440g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu cremă de linte (2400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu supă cremă de mazăre (2400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu tocăniță de cartofi cu carne de porc (1200g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 105,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu pilaf de orez cu ciuperci (1200g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 55,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu tocăniță de ciuperci (1000g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Oală cu mâncare de mazăre cu pui (1200g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu cartofi cu rozmarin",
+    "grammage": null,
+    "description": "Descriere: Cartofi rumeni si aromatizati, gata de servit. Ingrediente: Cartofi, usturoi, rozmarin, ulei, condimente. Gramaj - 1200g",
+    "price": 68,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu piure cu trufe",
+    "grammage": null,
+    "description": "Descriere: Piure de cartofi, cremos si gustos cu ulei de trufe. Ingrediente: Cartofi, lapte, unt. Gramaj - 1200g",
+    "price": 65,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu pulpe de pui la cuptor (800g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 100,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu piure de cartofi (1200g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 55,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu gulaș ardelenesc (1400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 135,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu musaca (1400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu ghiveci călugăresc (1400g)",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 95,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă cu păstrăv (3 buc) 780g",
+    "grammage": null,
+    "description": "Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tort de Mere",
+    "grammage": null,
+    "description": "Deliciul casei, Tortul de mere La Mama, cântărind 1,4 kg, este un festin pentru simțuri. Cu mere fragede și o crustă aurie acest tort este alegerea ideală pentru a împărtăși bucuria unei mese în familie sau pentru a indulci orice întâlnire cu prietenii. Oferă-te să gusti tradiția în fiecare înghițitură cu Tortul de mere La Mama. Zahar caramelizat de noi, mere din Romania, oua, unt, faina, vanilie si un mot de frisca! Alergeni: oua, lactoza, gluten",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  },
+  {
+    "restaurant_name": "La Mama",
+    "category": "Meniu General",
+    "item_name": "Tavă 10 clătite cu dulceață",
+    "grammage": null,
+    "description": "Descriere: Clatite ca la mama acasa, pufoase foc si cu multa dulceata.",
+    "price": 75,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.978Z"
+  }
+]

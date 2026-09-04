@@ -1,0 +1,2592 @@
+[
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "CHEESE CAKE",
+    "grammage": "180g",
+    "description": "",
+    "price": 32,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "CARROT CAKE",
+    "grammage": "200g",
+    "description": "",
+    "price": 32,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "BROWNIE",
+    "grammage": "150g",
+    "description": "",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "ECLER MĂRICEL",
+    "grammage": "180g",
+    "description": "",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "ȘTRUDEL MERE",
+    "grammage": "180g",
+    "description": "Cu ciocolată sau vanilie, adorat de pofticioși",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "DESERT",
+    "item_name": "ADAUGĂ SOS VANILIE",
+    "grammage": "30g",
+    "description": "Un ștrudel extra gustos cu mere proaspete, copt la noi în bucătărie",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ VARZĂ",
+    "grammage": "150g",
+    "description": "DE",
+    "price": 11,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ COLESLAW",
+    "grammage": "150g",
+    "description": "Salată clasică de varză albă",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ MURĂTURI ASORTATE",
+    "grammage": "150g",
+    "description": "O salată cât mai sănătoasă cu varză, morcov, stafide și dressing vegetal",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ ARDEI COPȚI150g",
+    "grammage": null,
+    "description": "Murături pline de gust, amestecate pentru tine",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ ASORTATĂ",
+    "grammage": "150g",
+    "description": "Ardei copți pe plită într-un amestec de ulei, oțet și sare",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE DE ÎNSOȚIRE",
+    "item_name": "SALATĂ CEAPĂ ROȘIE",
+    "grammage": "150g",
+    "description": "Roșii, castraveți, ceapă și sare",
+    "price": 11,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PÂINE",
+    "item_name": "COȘ PÂINE COVRIG",
+    "grammage": null,
+    "description": "&",
+    "price": 9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "GARNITURI",
+    "item_name": "CARTOFI BERĂREȘTI",
+    "grammage": "200g",
+    "description": "",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CARTOFI PRĂJIȚI",
+    "item_name": "CRISP FLUFFY",
+    "grammage": "150g",
+    "description": "&",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CARTOFI PRĂJIȚI",
+    "item_name": "CARTOFI TWIST",
+    "grammage": "150g",
+    "description": "Crocanți pe dinafară și cu puțin parmezan aruncat pe ei",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CARTOFI PRĂJIȚI",
+    "item_name": "OREZ SĂLBATIC POST",
+    "grammage": "150g",
+    "description": "Răsuciți și gustoși",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "USTUROI CHEDDAR",
+    "grammage": "220g",
+    "description": "CU ȘI",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "PIURE CARTOFI",
+    "grammage": "220g",
+    "description": "Din cartofi proaspeți, cremos și gustos, cu ulei de usturoi și branză cheddar",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "FASOLE ROȘIE",
+    "grammage": "220g",
+    "description": "Din cartofi proaspeți, cremos și gustos",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "BBQ VARZĂ ALBĂ VIN",
+    "grammage": "220g",
+    "description": "O iahnie originală de fasole cu sos și bacon ușor afumat",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "VARZĂ ROȘIE",
+    "grammage": "220g",
+    "description": "Varză albă, chimen, călită în vin alb",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PIURE DE CARTOFI",
+    "item_name": "RATATOUILLE POST",
+    "grammage": "200g",
+    "description": "O varză roșie locală scăzută în vin roșu cu mere caramelizate și jumări de porc",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PLATOURI CALDE",
+    "item_name": "PLATOU",
+    "grammage": "2200g",
+    "description": "H",
+    "price": 280,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PLATOURI CALDE",
+    "item_name": "PLATOU CÂRNAȚI",
+    "grammage": "1600g",
+    "description": "Ciolan de Porc, Coaste de Vită, Piept de curcan, Pulpă de rață și 4 garnituri: Varză Roșie, Fasole Roșie, Piure de Cartofi și Cartofi Prăjiți",
+    "price": 185,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PLATOURI CALDE",
+    "item_name": "PLATOU CĂRNURI",
+    "grammage": "2100g",
+    "description": "5 feluri de cârnați - Weisswurst, Cârnați cu Cașcaval, Cârnați Picanți, Cârnați Românești, Cârnați de Oaie, serviți cu cartofi Berărești și Varză Albă cu Vin",
+    "price": 219,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚILE NOASTRE",
+    "item_name": "THE BEEF STEAK",
+    "grammage": "500g",
+    "description": "H / 250g / 85lei",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚILE NOASTRE",
+    "item_name": "OBRĂJORI VITĂ",
+    "grammage": "200g",
+    "description": "Fabuloasa noastră friptură de vită peste care aruncăm niște fulgi de sare Maldon. E cunoscută ca Skirt Stake, Entraña Fina, Arrachera sau Hampe, în funcție de teritoriul unde o găsești. L-am întrebat pe Mauro, un măcelar din America Latină, care este tăietura sa preferată de vită. Ne-a răspuns zambind: „Entraña, fără îndoială. E bine că europenii încă nu au descoperit-o pe deplin – așa rămân mai multe bucăți delicioase la noi în țară!”",
+    "price": 51,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRĂȚIA CIOLANELOR",
+    "item_name": "GENUNCHI MIEL",
+    "grammage": "240g",
+    "description": "DE",
+    "price": 79,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRĂȚIA CIOLANELOR",
+    "item_name": "CIOLAN PORC",
+    "grammage": "900g",
+    "description": "Fraged și suculent, gătit lent",
+    "price": 99,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRĂȚIA CIOLANELOR",
+    "item_name": "GENUNCHI VACĂ",
+    "grammage": "7500g",
+    "description": "(pentru 2 persoane) Un ciolan mare de porc, aromat cu sosuri de bere și mirodenii alese",
+    "price": 450,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRĂȚIA CIOLANELOR",
+    "item_name": "CIOLAN CURCAN",
+    "grammage": "5 kg",
+    "description": "(7. crud,4 kg gătit, 3-5 persoane) Ciolanul-gigant din spate al vacii, stropit cu bere neagră și gătit încet la cuptor. Are și măduvă. Se servește în 150 de minute DE 400g",
+    "price": 44,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FINGER FOOD",
+    "item_name": "SUPER NACHOS",
+    "grammage": "250g",
+    "description": "",
+    "price": 44,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FINGER FOOD",
+    "item_name": "CROCHETE AURITE PUI",
+    "grammage": "200g",
+    "description": "Carne de vită cu fasole roșie, brânză cheddar, chipsuri de nachos și sos de brânză",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FINGER FOOD",
+    "item_name": "AŞCHII PUI",
+    "grammage": "200g",
+    "description": "Bucăți de pui în crustă de pesmet Panko și sos de brânză cu mucegai",
+    "price": 34,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FINGER FOOD",
+    "item_name": "CREVEŢI PANKO",
+    "grammage": "130g",
+    "description": "Aripi de pui ciopârțite, extra gustoase",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FINGER FOOD",
+    "item_name": "BEŢE MORCOV ŢELINĂ",
+    "grammage": "120g",
+    "description": "Creveți în fulgi de pesmet Panko serviți cu sweet chili DE ŞI",
+    "price": 15,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRIGĂRUI DE HALLOUMI",
+    "item_name": "ROȘII CHERRY",
+    "grammage": "250g",
+    "description": "CU",
+    "price": 44,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "FRIGĂRUI DE HALLOUMI",
+    "item_name": "HUMUS",
+    "grammage": "200g",
+    "description": "Cuburi de brânză halloumi cu roșii cherry crispy",
+    "price": 33,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CÂRNAȚI DE VITĂ CU NUCĂ",
+    "item_name": "PRUNE USCATE",
+    "grammage": "200g",
+    "description": "ȘI",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAT CAȘCAVAL",
+    "grammage": "200g",
+    "description": "CU",
+    "price": 37,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAȚI PICANȚI",
+    "grammage": "200g",
+    "description": "Tipic austriac cu un gust unic, inconfundabil. Carne de porc, mirodenii și brânză gustoasă",
+    "price": 33,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAȚI OAIE",
+    "grammage": "150g",
+    "description": "Cârnați cu carne de porc, aromați cu mirodenii și fripți pe grătar - excelenți cu bere rece",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAȚI ROMÂNEȘTI",
+    "grammage": "190g",
+    "description": "Cu mirodenii alese și puțin picanți, după rețeta noastră specială",
+    "price": 33,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAȚI ALBI WEISSWURST",
+    "grammage": "220g",
+    "description": "Gustul tradiției culinare românești, aromați, suculenți și plini de chef de viață",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "KÄSEKRAINER -",
+    "item_name": "CÂRNAȚI ALBI THURINGER",
+    "grammage": "220g",
+    "description": "Cârnații preferați ai bavarezilor. Cărnuri de vită și porc amestecate cu multe mirodenii și apoi fierte în bere",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CÂRNAȚI LA METRU",
+    "item_name": "CÂRNAȚI ROMÂNEȘTI",
+    "grammage": "475g",
+    "description": "",
+    "price": 70,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CÂRNAȚI LA METRU",
+    "item_name": "CÂRNAȚI PICANTI",
+    "grammage": "600g",
+    "description": "La metru",
+    "price": 80,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CÂRNAȚI LA METRU",
+    "item_name": "KÄSEKRAINER",
+    "grammage": "500g",
+    "description": "La metru",
+    "price": 85,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "OALA CU CIORBE ȘI SUPE",
+    "item_name": "CIORBĂ FASOLE AFUMĂTURĂ",
+    "grammage": "300g",
+    "description": "DE ȘI",
+    "price": 34,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "OALA CU CIORBE ȘI SUPE",
+    "item_name": "CREMĂ LEGUME",
+    "grammage": "300g",
+    "description": "O ciorbă de fasole cu afumătură - mai groasă, mai bună, mai gustoasă",
+    "price": 25,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PLATOURI DIN CĂMARĂ",
+    "item_name": "PLATOUL BRÂNZETURI",
+    "grammage": "300g",
+    "description": "CU",
+    "price": 59,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "PLATOURI DIN CĂMARĂ",
+    "item_name": "PLATOU VEGETARIAN POST",
+    "grammage": "300g",
+    "description": "De încercat cu vin sau cu bere. Conține brie, cheddar, emmentaler, parmezan, pecorino, grisine, caise uscate, miez de nucă și struguri",
+    "price": 43,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE ANTREU",
+    "item_name": "SALATĂ CAESAR",
+    "grammage": "400g",
+    "description": "",
+    "price": 44.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE ANTREU",
+    "item_name": "SALATĂ GRECEASCĂ",
+    "grammage": "400g",
+    "description": "O salată proaspătă cu piept de pui la grătar, bacon, parmesan, anchoa și crutoane",
+    "price": 44.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE ANTREU",
+    "item_name": "SALATĂ CARPACCIO VITĂ",
+    "grammage": "250g",
+    "description": "Gustul de feta proaspătă, roșii gustoase și castraveți răcoritori CU",
+    "price": 44.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATE ANTREU",
+    "item_name": "SALATĂ TON",
+    "grammage": "250g",
+    "description": "Salată cu carpaccio de vită, rucola, spanac, roșii, parmezan, brânză în fulgi și dressing de muștar",
+    "price": 44.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SALATĂ DE CURCAN",
+    "item_name": "SOS BRÂNZĂ ALBASTRĂ",
+    "grammage": "400g",
+    "description": "CU",
+    "price": 44.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Sos Chili și Usturoi",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Sos de Blue Cheese",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Sos Chili și Soia",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Sos Extra Picant",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "BBQ",
+    "grammage": "30g",
+    "description": "Sos",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Smântână",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Hrean",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Maioneză",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Maioneză de Usturoi",
+    "grammage": "30g",
+    "description": "",
+    "price": 4.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Mujdei",
+    "grammage": "30g",
+    "description": "",
+    "price": 3,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Muștar",
+    "grammage": "30g",
+    "description": "",
+    "price": 3,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Muștar cu Hrean",
+    "grammage": "30g",
+    "description": "",
+    "price": 3,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "Ketchup",
+    "grammage": "30g",
+    "description": "",
+    "price": 3,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "ARDEI IUTE BURGER",
+    "grammage": "350g",
+    "description": "1 leu/buc. H",
+    "price": 52,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "ȘNIȚEL PORC",
+    "grammage": "340g",
+    "description": "Carne de vită Black Angus cu mirodenii proaspete și brânză brie, într-o chiflă pufoasă unsă cu dulceață de ceapă. Vine cu salată Coleslaw.",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "COASTE PORC",
+    "grammage": "450g",
+    "description": "Mare și gustos, din file de porc frăgezit zdravăn, dat prin pesmet și cu un strop de lămâie",
+    "price": 64,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "BBQ, COASTE VITĂ",
+    "grammage": "300g",
+    "description": "Coaste de porc condimentate și aromate, marinate în sos gătite în cuptor",
+    "price": 79,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "BBQ PULPĂ RAȚĂ",
+    "grammage": "350g",
+    "description": "Cu un amestec de condimente știut doar de noi, pregătite lent, servite cu sos",
+    "price": 57,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "PEȘTE ÎNTREG",
+    "grammage": "350g",
+    "description": "Pulpă de rață gătită foarte lent în grăsime proprie, ușor aromată cu usturoi și sare. Vine cu varză roșie.",
+    "price": 67,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "FILE SOMON",
+    "grammage": "200g",
+    "description": "DE",
+    "price": 65,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "PIEPT CURCAN",
+    "grammage": "200g",
+    "description": "Somon la grătar cu muștar și fulgi de migdale",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "SPANAC QUATTRO FORMAGGI",
+    "grammage": "200g",
+    "description": "Piept de curcan la plită, marinat în lapte și ierburi cu sos alfredo",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SOSURI",
+    "item_name": "NEW NEW NEW ȘNIȚEL VITĂ",
+    "grammage": "300g",
+    "description": "Frunze de spanac amestecate cu patru tipuri de brânză și gratinate la cuptor",
+    "price": 59,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ALBE",
+    "item_name": "CORCOVA SAUVIGNON BLANC",
+    "grammage": "750 ml",
+    "description": "- sec .......................................",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ALBE",
+    "item_name": "CORCOVA RESERVE CHARDONNAY",
+    "grammage": "750 ml",
+    "description": "sec .................................",
+    "price": 149,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ALBE",
+    "item_name": "CRAMA OPRIȘOR CETATE CHARDONNAY",
+    "grammage": "750 ml",
+    "description": "LA - sec .....................",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ALBE",
+    "item_name": "BUDUREASCA SAUVIGNON BLANC",
+    "grammage": "750 ml",
+    "description": "sec ...................................",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ALBE",
+    "item_name": "TEZAUR JIDVEI SAUVIGNON BLANC FETEASCĂ REGALĂ",
+    "grammage": "750 ml",
+    "description": "- & sec .....",
+    "price": 99,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "SAUVIGNON BLANC",
+    "grammage": "750 ml",
+    "description": "sec ....................................................",
+    "price": 139,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "BUDUREASCA FUME",
+    "grammage": "750 ml",
+    "description": "demisec ...............................................",
+    "price": 100,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "RECAȘ SOLE CHARDONNAY",
+    "grammage": "750 ml",
+    "description": "- sec ..........................................",
+    "price": 175,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "RECAȘ SOLO QUINTA CUPAJ",
+    "grammage": "750 ml",
+    "description": "- sec .........................................",
+    "price": 240,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "AVEREȘTI NATIVUS ZGHIHARA",
+    "grammage": "750 ml",
+    "description": "sec .......................................",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "JIDVEI ANA SAUVIGNON BLANC",
+    "grammage": "750 ml",
+    "description": "- sec ...................................",
+    "price": 185,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "NEGRINI HEX SAUVIGNON BLANC FETEASCĂ REGALĂ",
+    "grammage": "750 ml",
+    "description": "- & sec .....",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "JIDVEI MYSTERIUM - TRAMINER &",
+    "item_name": "PURCARI NOCTURNE SAUVIGNON BLANC",
+    "grammage": "750 ml",
+    "description": "- sec ......................",
+    "price": 139,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BYZANTIUM BLANC CUPAJ - SAUVIGNON BLANC",
+    "item_name": "VIOGNER CHARDONNAY",
+    "grammage": "750 ml",
+    "description": "& & sec ...........................................",
+    "price": 95,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ",
+    "item_name": "REGALĂ TĂMÂIOASĂ ROMÂNEASCĂ",
+    "grammage": "750 ml",
+    "description": "& sec ...............................",
+    "price": 115,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ",
+    "item_name": "CAII LETEA PRINCEPS ALIGOTE",
+    "grammage": "750 ml",
+    "description": "DE LA sec .............................",
+    "price": 150,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "BUDUREASCA",
+    "grammage": "750 ml",
+    "description": "demisec ...............................................",
+    "price": 105,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "VINUL CAVALERULUI",
+    "grammage": "750 ml",
+    "description": "demisec ......................................",
+    "price": 105,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "SERVE CUVEE SISSI",
+    "grammage": "750 ml",
+    "description": "sec ............................................",
+    "price": 165,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "SERVE TERRA ROMANA",
+    "grammage": "750 ml",
+    "description": "sec ......................................",
+    "price": 145,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "RECAȘ SOLE FETEASCĂ NEAGRĂ PINOT NOIR",
+    "grammage": "750 ml",
+    "description": "- & sec ........",
+    "price": 175,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "PURCARI NOCTURNE",
+    "grammage": "750 ml",
+    "description": "sec ...........................................",
+    "price": 139,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "AVEREȘTI NATIVUS MERLOT",
+    "grammage": "750 ml",
+    "description": "- sec ..................................",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "BYZANTIUM ROSE SHIRAZ",
+    "grammage": "750 ml",
+    "description": "- sec ....................................",
+    "price": 95,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "NEGRINI HEX MERLOT",
+    "grammage": "750 ml",
+    "description": "- sec ........................................",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "NEGRINI MAGNUM PREMIUM",
+    "grammage": "1500 ml",
+    "description": "sec ..............................",
+    "price": 219,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "VINARTE AVENUE ROSA SÂMBUREȘTI",
+    "grammage": "750 ml",
+    "description": "- DE sec ...............",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROSE",
+    "item_name": "CAII LETEA PRINCEPS",
+    "grammage": "750 ml",
+    "description": "DE LA sec .................................",
+    "price": 150,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "CORCOVA CABERNET SAUVIGNON MERLOT",
+    "grammage": "750 ml",
+    "description": "- & sec ............",
+    "price": 105,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "OPRIȘOR CETATE FETEASCĂ NEAGRĂ",
+    "grammage": "750 ml",
+    "description": "LA - sec ................",
+    "price": 125,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "BUDUREASCA FETEASCĂ NEAGRĂ",
+    "grammage": "750ml",
+    "description": "- demisec ....................",
+    "price": 95,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "SEGARCEA MERLOT",
+    "grammage": "750ml",
+    "description": "- sec ...........................................",
+    "price": 130,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "VINARTE CASTEL BOLOVANU-CABERNET SAUVIGNON",
+    "grammage": "750 ml",
+    "description": "sec ..",
+    "price": 90,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VINURI ROȘII",
+    "item_name": "VINARTE PRINCE MIRCEA MERLOT",
+    "grammage": "750 ml",
+    "description": "- sec ........................",
+    "price": 150,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "MUMM CORDON ROUGE",
+    "grammage": "750 ml",
+    "description": ".............................................",
+    "price": 450,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "PROSECCO BIANCO",
+    "grammage": "120 ml",
+    "description": "pahar ...........................................",
+    "price": 18,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "PROSECCO SUPERIORE VALDOBBIADENE DOCG BRUT",
+    "grammage": "750 ml",
+    "description": "........",
+    "price": 140,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "PROSECCO BOTTEGA GOLD DOC",
+    "grammage": "750ml",
+    "description": "....................................",
+    "price": 200,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "PROSECCO BOTTEGA GOLD DOC MAGNUM",
+    "grammage": "1500 ml",
+    "description": "......................",
+    "price": 390,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "SPUMANT BOTTEGA MILLESIMATO BRUT",
+    "grammage": "750 ml",
+    "description": "........................",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "JIDVEI SPUMANT MĂRGĂRITAR",
+    "grammage": "750 ml",
+    "description": ".....................................",
+    "price": 100,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "MOET CHANDON BRUT",
+    "grammage": "750ml",
+    "description": "& ............................................",
+    "price": 500,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VIN SPUMANT / CHAMPAGNE /PROSECCO",
+    "item_name": "MOET CHANDON ROSE",
+    "grammage": "750ml",
+    "description": "& ............................................",
+    "price": 550,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",
+    "item_name": "NEGRU DRĂGĂȘANI",
+    "grammage": "150 ml",
+    "description": "DE .................................................",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",
+    "item_name": "VIN FIERT",
+    "grammage": "250 ml",
+    "description": "...................................................................",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",
+    "item_name": "AVEREȘTI NATIVUS FETEASCĂ NEAGRĂ",
+    "grammage": "750 ml",
+    "description": "- sec ......................",
+    "price": 110,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",
+    "item_name": "NEGRINI HEX NEGRU DRĂGĂȘANI",
+    "grammage": "750ml",
+    "description": "- DE sec .......................",
+    "price": 120,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &",
+    "item_name": "SHIRAZ CABERNET FRANC",
+    "grammage": "750 ml",
+    "description": "& sec .....................................",
+    "price": 95,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &",
+    "item_name": "CAII LETEA PRINCEPS QUINTESSANCE",
+    "grammage": "750 ml",
+    "description": "DE LA - sec ..............",
+    "price": 150,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "LIMONADĂ",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 19.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "CITRONADĂ",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "LIMONADĂ AROME",
+    "grammage": "330 ml",
+    "description": "CU",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "FRESH",
+    "grammage": "330 ml",
+    "description": "pepene galben / mentă proaspătă/ zmeură / fructul pasiunii / căpșuni / ghimbir / trandafir de portocale / grapefruit",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "PEPSI MIRINDA ORANGE",
+    "grammage": "300 ml",
+    "description": "/ / 7UP pahar",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "PEPSI PEPSI MAX MIRINDA",
+    "grammage": "330 ml",
+    "description": "/ / / 7UP doză",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "SOFT DIESEL",
+    "grammage": "300 ml",
+    "description": "pahar",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "PRIGAT NECTAR",
+    "grammage": "250 ml",
+    "description": "Pepsi - Mirinda Orange",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "LIPTON ICE TEA",
+    "grammage": "250 ml",
+    "description": "piersici / căpșuni și banane / kiwi și pere / portocale piersici / lămâie",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "APĂ",
+    "grammage": "250 ml",
+    "description": "tonică Evervess",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "APĂ AQUA",
+    "grammage": "330 ml",
+    "description": "minerală plată Carpatica",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "APĂ AQUA",
+    "grammage": "330 ml",
+    "description": "minerală carbogazoasă Carpatica",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "APĂ AQUA",
+    "grammage": "750 ml",
+    "description": "minerală carbogazoasă Carpatica",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "GATORADE COOL BLUE",
+    "grammage": "500 ml",
+    "description": "",
+    "price": 20,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SUCURI ȘI APĂ",
+    "item_name": "RED BULL",
+    "grammage": "250 ml",
+    "description": "",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CIDRU",
+    "item_name": "STRONGBOW",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 18.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA METRU",
+    "item_name": "CIUC PREMIUM LAGER",
+    "grammage": "4400 ml",
+    "description": "",
+    "price": 189,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA METRU",
+    "item_name": "HEINEKEN",
+    "grammage": "3600 ml",
+    "description": "la metru (11 halbe) la metru (9 halbe)",
+    "price": 189,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VARIETATE DE GUST",
+    "item_name": "SILVA STRONG DARK LAGER",
+    "grammage": "500 ml",
+    "description": "",
+    "price": 25,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VARIETATE DE GUST",
+    "item_name": "DESPERADOS",
+    "grammage": "400 ml",
+    "description": "(bere cu gust de Tequila)",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "VARIETATE DE GUST",
+    "item_name": "EDELWEISS HEFE WEISSBIER",
+    "grammage": "500 ml",
+    "description": "",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "BEREA BLONDĂ ARĂMIE",
+    "grammage": "500 ml",
+    "description": "H /",
+    "price": 25.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "BEREA BLONDĂ ARĂMIE",
+    "grammage": "1000 ml",
+    "description": "Bere artizanală, nefiltrată și nepasteurizată H /",
+    "price": 49.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "RADLER",
+    "grammage": "400 ml",
+    "description": "Bere artizanală, nefiltrată și nepasteurizată H - făcut de noi acum",
+    "price": 19.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "CIUC PREMIUM LAGER",
+    "grammage": "400 ml",
+    "description": "",
+    "price": 18.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "HEINEKEN",
+    "grammage": "400 ml",
+    "description": "",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "EDELWEISS HEFE WEISSBIER",
+    "grammage": "500 ml",
+    "description": "",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "BIRRA MORETTI",
+    "grammage": "400 ml",
+    "description": "",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "BERE (FĂRĂ ALCOOL) CIUC RADLER LĂMÂIE LIME",
+    "grammage": "330 ml",
+    "description": "0.0% ȘI 0.0%",
+    "price": 18.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "CIUC RADLER ZMEURĂ LĂMÂIE",
+    "grammage": "330 ml",
+    "description": "ȘI 0.0%",
+    "price": 18.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "HEINEKEN",
+    "grammage": "330 ml",
+    "description": "0.0%",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE DRAUGHT",
+    "item_name": "BIRRA MORETTI",
+    "grammage": "330 ml",
+    "description": "0.0%",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "CIUC PREMIUM LAGER",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "HEINEKEN",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 25,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "BIRRA MORETTI",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 23,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "BIRRA MORETTI SALE MARE",
+    "grammage": "330 ml",
+    "description": "DI",
+    "price": 23,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "AMSTEL",
+    "grammage": "330 ml",
+    "description": "",
+    "price": 21,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "COCKTAIL BUTOI GROUP HUG",
+    "grammage": "700 ml",
+    "description": "LA (4-7 persoane și multe paie)",
+    "price": 99,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "BERE LA STICLĂ",
+    "item_name": "COMITET",
+    "grammage": "700 ml",
+    "description": "Vin roșu sec, brandy, bere, lămâie, suc de portocale",
+    "price": 139,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPRITZERS",
+    "item_name": "HUGO",
+    "grammage": "170 ml",
+    "description": "",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPRITZERS",
+    "item_name": "TROPICAL SPRITZ",
+    "grammage": "170 ml",
+    "description": "Lichior soc, prosecco, lime, mentă proaspătă, apă minerală",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPRITZERS",
+    "item_name": "APEROL SPRITZ",
+    "grammage": "170 ml",
+    "description": "Aperol, prosecco, piure fructul pasiunii, apă tonică",
+    "price": 38,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "JUNE BUG NEW",
+    "grammage": "170 ml",
+    "description": "",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "COSMOPOLITAN",
+    "grammage": "90 ml",
+    "description": "Lichior pepene, lichior banane, rom Havana, sirop de cocos, suc proaspăt lămâie, suc ananas",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "MOJITO",
+    "grammage": "170 ml",
+    "description": "Vodka, triplu sec, suc cranberry, suc proaspăt lime",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "PINEAPPLE GIN FIZZ",
+    "grammage": "170 ml",
+    "description": "Rom, lime, mentă proaspătă, sirop zahăr, apă minerală",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "GODFATHER SOUR",
+    "grammage": "60 ml",
+    "description": "Gin, sirop de ghimbir, suc ananas, suc de lămâie, apă minerală",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "LONG ISLAND ICED TEA170",
+    "grammage": null,
+    "description": "Whisky, amaretto, suc proaspăt lămâie, sirop de zahăr ml",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "BEACH BEAUTY NEW",
+    "grammage": "170 ml",
+    "description": "Rom, gin, vodka, tequila, triplu sec, suc proaspăt lămâie, sirop de zahăr, Pepsi",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "BERRY MINT MARGARITA",
+    "grammage": "120 ml",
+    "description": "Vodka, lichior banane, grenadine, suc portocale, suc de lămâie, apă tonică &",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "GIN TONIC ROYAL",
+    "grammage": "170 ml",
+    "description": "Tequila, piure fructe de pădure, suc de lămâie, mentă",
+    "price": 44,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "BANANA BOAT",
+    "grammage": "170 ml",
+    "description": "Monkey 47, rozmarin, piper roșu, fresh de grapefruit, apă tonică",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "KAPT’N CHAOS",
+    "grammage": "170 ml",
+    "description": "Gin, lichior banane, suc portocale, suc de lămâie, sirop de grenadine",
+    "price": 36,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "VODKA APPLE VODKA ORANGE",
+    "grammage": "170 ml",
+    "description": "Rom, vodka, gin, ananas, suc de portocale, piure de fructul pasiunii, suc proaspăt lămâie / *",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "VODKA CRANBERRY VODKA TONIC*",
+    "grammage": "170 ml",
+    "description": "/",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "VODKA COKE VODKA ENERGY",
+    "grammage": "170 ml",
+    "description": "/ *",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "WHISKY COKE WHISKY ENERGY",
+    "grammage": "170 ml",
+    "description": "/ *",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "CUBA LIBRE",
+    "grammage": "170 ml",
+    "description": "*",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "GIN TONIC",
+    "grammage": "170 ml",
+    "description": "*",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "CAMPARI ORANGE",
+    "grammage": "170 ml",
+    "description": "*",
+    "price": 33.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "COCKTAILS & LONG DRINKS",
+    "item_name": "AVEM MAAAARI",
+    "grammage": "500 ml",
+    "description": "* ȘI - pahar +",
+    "price": 8,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "INNOCENT PASSION",
+    "grammage": "170 ml",
+    "description": "",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "BERRIES MINT",
+    "grammage": "170 ml",
+    "description": "Suc cranberry, piure fructul pasiunii, suc proaspăt lămâie &",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "LADY MARMELADE",
+    "grammage": "170 ml",
+    "description": "Suc cranberry, suc proaspăt lămâie, mentă proaspătă, piure de fructe de pădure",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "GINGERELLA",
+    "grammage": "170 ml",
+    "description": "Piure de piersici, suc proaspăt lămâie, suc cranberry, mentă proaspătă",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "BERRY CRAZE",
+    "grammage": "170 ml",
+    "description": "Sirop de ghimbir, scorțișoară, suc portocale, suc proaspăt lămâie",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "MINT COOLER",
+    "grammage": "170 ml",
+    "description": "Piure fructe de pădure, suc cranberry, suc proaspăt lămâie,",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "COCO MINT NEW",
+    "grammage": "170 ml",
+    "description": "Sirop de mentă, suc proaspăt lămâie, suc portocale, suc ananas, piure de fructul pasiunii",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "NON - ALCOHOLIC COCKTAILS",
+    "item_name": "RED RISK NEW",
+    "grammage": "170 ml",
+    "description": "Sirop de mentă, sirop de cocos, suc proaspăt lămâie, suc portocale, suc ananas",
+    "price": 29.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "TĂRII TRADIȚIONALE ROMÂNEȘTI",
+    "item_name": "ȚUICĂ PRUNE (BRAN)",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "TĂRII TRADIȚIONALE ROMÂNEȘTI",
+    "item_name": "PĂLINCĂ PRUNE GUTUI (BRAN)",
+    "grammage": "50 ml",
+    "description": "/",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "TĂRII TRADIȚIONALE ROMÂNEȘTI",
+    "item_name": "AFINATĂ VIȘINATĂ CAISATĂ (BRAN)",
+    "grammage": "50 ml",
+    "description": "/ /",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "TĂRII TRADIȚIONALE ROMÂNEȘTI",
+    "item_name": "SAMARO (BRAN)",
+    "grammage": "50 ml",
+    "description": "lichior digestiv din nuci verzi",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "ABSOLUT",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "CIROC",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 39,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "HAVANA CLUB ANEJO",
+    "grammage": "50 ml",
+    "description": "3YO",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "HAVANA CLUB",
+    "grammage": "50 ml",
+    "description": "7YO",
+    "price": 28.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "BUMBU",
+    "grammage": "50 ml",
+    "description": "XO",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "BEEFEATER LONDON DRY GIN",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "MONKEY GIN",
+    "grammage": "50 ml",
+    "description": "47",
+    "price": 42,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "BALLANTINE’S FINEST SCOTCH WHISKY",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "JAMESON IRISH WHISKEY",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "CHIVAS REGAL",
+    "grammage": "50 ml",
+    "description": "12YO",
+    "price": 32,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "CHIVAS REGAL",
+    "grammage": "50 ml",
+    "description": "18YO",
+    "price": 59,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "THE GLENLIVET",
+    "grammage": "50 ml",
+    "description": "15YO",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "GLENFIDDICH",
+    "grammage": "50 ml",
+    "description": "12YO",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "JACK DANIELS",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "MARTELL",
+    "grammage": "50 ml",
+    "description": "VS",
+    "price": 35,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "MARTELL VSOP",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "MARTELL",
+    "grammage": "50 ml",
+    "description": "XO",
+    "price": 119,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "VINARS JIDVEI",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "ALEXANDRION",
+    "grammage": "50 ml",
+    "description": "7*",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "BRÂNCOVEANU",
+    "grammage": "50 ml",
+    "description": "XO",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "COINTREAU",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "DISARONNO AMARETTO",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "KAHLUA",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "BAILEYS",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 24,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "SAMBUCA RAMAZZOTI",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "OLMECA SILVER",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "PERNOD ABSINTHE",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 27,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "JÄGERMEISTER",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "APEROL",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPIRITS",
+    "item_name": "CAMPARI",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "FLAVOR KAMIKAZE",
+    "grammage": "40 ml",
+    "description": "",
+    "price": 12.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "RED SNAPPER",
+    "grammage": "40 ml",
+    "description": "Vodka, triplu sec, piure fructe",
+    "price": 9.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "RED SNAPPER",
+    "grammage": "240 ml",
+    "description": "Whisky, amaretto, suc cranberry",
+    "price": 49,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "B52 Kahlua, Baileys, triplu sec",
+    "grammage": "40 ml",
+    "description": "",
+    "price": 16,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "JAGER BOMB",
+    "grammage": "150 ml",
+    "description": "",
+    "price": 22,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SHOT NEW",
+    "item_name": "BUBBLE GUM",
+    "grammage": "40 ml",
+    "description": "Jagermeister, energizant",
+    "price": 14.5,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CEAI",
+    "item_name": "FRUIT BERRY",
+    "grammage": "250 ml",
+    "description": "",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CEAI",
+    "item_name": "ENGLISH",
+    "grammage": "250 ml",
+    "description": "",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CEAI",
+    "item_name": "VERDE IASOMIE",
+    "grammage": "250 ml",
+    "description": "CU",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CEAI",
+    "item_name": "LEMON",
+    "grammage": "250 ml",
+    "description": "",
+    "price": 14,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO",
+    "grammage": "30 ml",
+    "description": "",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO MACCHIATO",
+    "grammage": "40 ml",
+    "description": "",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO LUNG",
+    "grammage": "90 ml",
+    "description": "",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO DUBLU",
+    "grammage": "50 ml",
+    "description": "",
+    "price": 25,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO FĂRĂ COFEINĂ",
+    "grammage": "30 ml",
+    "description": "",
+    "price": 14.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "ESPRESSO LUNG FĂRĂ COFEINĂ",
+    "grammage": "90 ml",
+    "description": "",
+    "price": 16.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "CAPPUCCINO",
+    "grammage": "180 ml",
+    "description": "",
+    "price": 19,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "CAFEA",
+    "item_name": "CAFÉ LATTE",
+    "grammage": "250 ml",
+    "description": "",
+    "price": 19,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "CAFÉ FRAPPE",
+    "grammage": "350 ml",
+    "description": "",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "IRISH COFFEE",
+    "grammage": "260 ml",
+    "description": "Delicios cu frișcă și topping de ciocolată (cu alcool)",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "AMORE",
+    "grammage": "260 ml",
+    "description": "Cafea, Jameson, sirop zahăr, frișcă lichidă (cu alcool)",
+    "price": 24.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "GOURMET CAPPUCCINO",
+    "grammage": "190 ml",
+    "description": "Cafea, amaretto, sirop zahăr, frișcă lichidă",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "CARAMEL LATTE",
+    "grammage": "250 ml",
+    "description": "Sirop de vanilie sau caramel",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "AFTER EIGHT LATTE",
+    "grammage": "250 ml",
+    "description": "Cafea, lapte, sirop de caramel",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "HAZELNUT LATTE",
+    "grammage": "250 ml",
+    "description": "Cafea, lapte, sirop de ciocolată, sirop de mentă",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  },
+  {
+    "restaurant_name": "Berăria H",
+    "category": "SPECIALITĂȚI CAFEA",
+    "item_name": "CIOCOLATĂ CALDĂ",
+    "grammage": "200 ml",
+    "description": "Cafea, lapte, sirop de alune",
+    "price": 22.9,
+    "currency": "RON",
+    "scraped_at": "2026-09-04T13:10:43.580Z"
+  }
+]
