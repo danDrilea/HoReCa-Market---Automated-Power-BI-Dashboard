@@ -1,7 +1,38 @@
 import csv
 import os
-import random
+import re
 from datetime import datetime
+
+def determine_item_type(category: str, name: str) -> str:
+    name_lower = name.lower()
+    
+    if category == "Preparate la Grătar & Mici":
+        if "mici" in name_lower or "mititei" in name_lower:
+            return "Mici"
+        return "Friptură / Grătar"
+    elif category == "Cârnați & Platouri":
+        if "platou" in name_lower:
+            return "Platou"
+        return "Cârnați"
+    elif category == "Ciorbe & Supe":
+        return "Ciorbă / Supă"
+    elif category == "Aperitive & Gustări":
+        return "Aperitiv / Gustare"
+    elif category == "Garnituri":
+        return "Garnitură"
+    elif category == "Salate":
+        return "Salată"
+    elif category == "Desert":
+        return "Desert"
+    elif category == "Sosuri & Extra":
+        return "Sos / Extra"
+    elif category == "Băuturi Alcoolice & Bere":
+        if "bere" in name_lower or "draught" in name_lower or "lager" in name_lower:
+            return "Bere"
+        return "Vin / Alcool"
+    elif category == "Băuturi Răcoritoare & Cafea":
+        return "Răcoritoare / Cafea"
+    return "Mâncare Gătită"
 
 def generate_own_menu():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -12,7 +43,6 @@ def generate_own_menu():
         print(f"Error: {competitors_csv} not found.")
         return
 
-    # Curated items for "Restaurantul Nostru" with competitive market pricing (NO Pizza)
     own_items = [
         # Preparate la Grătar & Mici
         {"cat": "Preparate la Grătar & Mici", "name": "Mici Românești de Vită-Porc (1 buc)", "gram": "80g", "desc": "Mici zemoși preparați pe grătar cu cărbuni, serviți cu muștar", "price": 7.5},
@@ -94,11 +124,12 @@ def generate_own_menu():
     now_str = datetime.now().isoformat()
     rows = []
     for item in own_items:
+        item_type = determine_item_type(item["cat"], item["name"])
         rows.append({
             "restaurant_name": "Restaurantul Nostru",
             "original_category": item["cat"],
             "standard_category": item["cat"],
-            "item_type": "Mâncare / Băutură",
+            "item_type": item_type,
             "item_name": item["name"],
             "grammage": item["gram"],
             "description": item["desc"],

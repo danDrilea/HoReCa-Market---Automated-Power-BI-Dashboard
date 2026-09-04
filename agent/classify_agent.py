@@ -13,7 +13,7 @@ load_dotenv()
 if hasattr(sys.stdout, 'reconfigure'):
     sys.stdout.reconfigure(encoding='utf-8')
 
-# Define Taxonomy Categories & Types
+# Taxonomy Categories (STRICTLY IN ROMANIAN - 11 CATEGORIES)
 CATEGORIES = [
     "Preparate la Grătar & Mici",
     "Cârnați & Platouri",
@@ -22,7 +22,6 @@ CATEGORIES = [
     "Aperitive & Gustări",
     "Garnituri",
     "Salate",
-    "Pizza & Foietaje",
     "Desert",
     "Băuturi Alcoolice & Bere",
     "Băuturi Răcoritoare & Cafea",
@@ -32,27 +31,94 @@ CATEGORIES = [
 ITEM_TYPES = [
     "Mici", "Cârnați", "Friptură / Grătar", "Platou", "Ciorbă / Supă",
     "Aperitiv / Gustare", "Mâncare Gătită", "Garnitură", "Salată",
-    "Pizza", "Desert", "Bere", "Vin / Alcool", "Răcoritoare / Cafea", "Sos / Extra"
+    "Desert", "Bere", "Vin / Alcool", "Răcoritoare / Cafea", "Sos / Extra"
 ]
 
 
 class ClassifiedItem(BaseModel):
     restaurant_name: str = Field(description="Numele restaurantului")
-    original_category: str = Field(description="Categoria originală")
-    standard_category: str = Field(description="Categoria standardizată din lista de taxonomii")
-    item_type: str = Field(description="Tipul produsului (Mici, Cârnați, Ciorbă, Bere, etc.)")
-    item_name: str = Field(description="Denumirea preparatului")
-    grammage: str | None = Field(default=None, description="Gramajul sau volumul (ex: 200g, 500ml)")
+    original_category: str = Field(description="Categoria originală de pe site")
+    standard_category: str = Field(description="Categoria standardizată ALESĂ STRICT DIN LISTA ÎN LIMBA ROMÂNĂ")
+    item_type: str = Field(description="Tipul produsului ALES STRICT ÎN ROMÂNĂ")
+    item_name: str = Field(description="Denumirea curațată a preparatului")
+    grammage: str = Field(description="Gramajul sau volumul extras sau dedus (ex: 200g, 400ml, 750ml, 330ml, 1 buc). Folosește g pentru masă solidă și ml pentru lichide. Fără kg sau L.")
     description: str = Field(default="", description="Descrierea preparatului")
     price_ron: float = Field(description="Prețul în RON")
     currency: str = Field(default="RON", description="Valuta")
     scraped_at: str = Field(description="Data colectării")
 
 
+class RefinedGrammage(BaseModel):
+    item_name: str
+    inferred_grammage: str = Field(description="Gramajul sau porția standardizată dedusă de AI în g, ml sau buc (ex: 200g, 400ml, 750ml, 330ml, 50g, 1 buc)")
+
+
 class GraphState(TypedDict):
     raw_items: List[Dict[str, Any]]
     classified_items: List[Dict[str, Any]]
+    items_to_refine: List[Dict[str, Any]]
+    retry_count: int
     stats: Dict[str, Any]
+
+
+def normalize_grammage_string(gram: Any) -> str:
+    if not gram or str(gram).strip().upper() in ["NONE", "NULL", "N/A", ""]:
+        return "N/A"
+    
+    s = str(gram).strip()
+    # Remove leading/trailing '+' or noise symbols
+    s = re.sub(r'[\+\,\;\:]', ' ', s).strip()
+    
+    # 1. Convert kg to g (e.g. 5 kg -> 5000g, 7.4 kg -> 7400g)
+    match_kg = re.search(r'(\d+(?:\.\d+)?)\s*kg\b', s, re.IGNORECASE)
+    if match_kg:
+        val = float(match_kg.group(1))
+        return f"{int(val * 1000)}g"
+
+    # 2. Convert liters L to ml (e.g. 0.33L -> 330ml, 0.5L -> 500ml, 0.75L -> 750ml)
+    match_l = re.search(r'(\d+(?:\.\d+)?)\s*l\b', s, re.IGNORECASE)
+    if match_l:
+        val = float(match_l.group(1))
+        if val <= 2.5:
+            return f"{int(round(val * 1000))}ml"
+        else:
+            return f"{int(val * 1000)}ml"
+
+    # 3. Clean gr -> g (e.g. 300gr -> 300g)
+    match_gr = re.search(r'(\d+)\s*gr\b', s, re.IGNORECASE)
+    if match_gr:
+        return f"{match_gr.group(1)}g"
+
+    # 4. Standard g (e.g. 200g, 400g)
+    match_g = re.search(r'(\d+)\s*g\b', s, re.IGNORECASE)
+    if match_g:
+        return f"{match_g.group(1)}g"
+
+    # 5. Standard ml (e.g. 400ml, 250ml)
+    match_ml = re.search(r'(\d+)\s*ml\b', s, re.IGNORECASE)
+    if match_ml:
+        return f"{match_ml.group(1)}ml"
+
+    # 6. Standard buc (e.g. 1 buc, 2 buc)
+    match_buc = re.search(r'(\d+)\s*buc', s, re.IGNORECASE)
+    if match_buc:
+        return f"{match_buc.group(1)} buc"
+
+    # Fallback clean string
+    s_clean = re.sub(r'[^\w\.\s]', '', s).strip()
+    return s_clean.upper() if s_clean else "N/A"
+
+
+def extract_grammage_fallback(name: str, desc: str, raw_gram: str) -> str:
+    if raw_gram and str(raw_gram).strip() and str(raw_gram).strip().upper() not in ["NONE", "NULL", "N/A"]:
+        return normalize_grammage_string(raw_gram)
+    
+    combined = f"{name} {desc}"
+    match = re.search(r'(\d+(?:\.\d+)?\s*(?:g|gr|kg|ml|l|cl|l|buc|bucati))\b', combined, re.IGNORECASE)
+    if match:
+        return normalize_grammage_string(match.group(1))
+    
+    return "N/A"
 
 
 def classify_single_item_rulebased(item: Dict[str, Any]) -> Dict[str, Any]:
@@ -60,15 +126,17 @@ def classify_single_item_rulebased(item: Dict[str, Any]) -> Dict[str, Any]:
     name = (item.get("item_name") or "").strip()
     desc = (item.get("description") or "").strip()
     price = float(item.get("price") or 0.0)
-    grammage = item.get("grammage")
+    raw_grammage = item.get("grammage")
     scraped_at = item.get("scraped_at") or datetime.now().isoformat()
     rest_name = item.get("restaurant_name") or "Competitor"
+
+    grammage = extract_grammage_fallback(name, desc, str(raw_grammage or ""))
 
     name_lower = name.lower()
     cat_lower = orig_cat.lower()
     combined_text = f"{orig_cat} {name} {desc}".lower()
 
-    # Default category & type
+    # Default category & type in Romanian
     std_cat = "Mâncăruri Gătite & Specialități"
     item_type = "Mâncare Gătită"
 
@@ -100,10 +168,6 @@ def classify_single_item_rulebased(item: Dict[str, Any]) -> Dict[str, Any]:
         std_cat = "Salate"
         item_type = "Salată"
 
-    elif re.search(r'\bpizza\b|\bfocaccia\b', name_lower) or re.search(r'\bpizza\b', cat_lower):
-        std_cat = "Pizza & Foietaje"
-        item_type = "Pizza"
-
     elif re.search(r'\bdesert\b|\bcake\b|\bclatite\b|\becler\b|\bpapanas\b|\bbrownie\b|\binghetat\b|\bstrudel\b', name_lower) or re.search(r'\bdesert\b', cat_lower):
         std_cat = "Desert"
         item_type = "Desert"
@@ -126,7 +190,7 @@ def classify_single_item_rulebased(item: Dict[str, Any]) -> Dict[str, Any]:
         standard_category=std_cat,
         item_type=item_type,
         item_name=name,
-        grammage=grammage,
+        grammage=normalize_grammage_string(grammage),
         description=desc,
         price_ron=price,
         currency="RON",
@@ -166,6 +230,8 @@ def ingest_node(state: GraphState) -> GraphState:
     print(f"Loaded {len(raw_data)} raw menu items from {input_path}")
     state["raw_items"] = raw_data
     state["classified_items"] = []
+    state["items_to_refine"] = []
+    state["retry_count"] = 0
     state["stats"] = {}
     return state
 
@@ -178,11 +244,15 @@ def classify_node(state: GraphState) -> GraphState:
     if llm:
         structured_llm = llm.with_structured_output(ClassifiedItem)
         prompt_template = (
-            "Ești un expert în taxonomii de restaurante HoReCa. Clasifică următorul preparat "
-            "într-una din categoriile standardizabile: {categories}.\n\n"
+            "Ești un expert în taxonomii de restaurante HoReCa. Clasifică preparatul și extrage/deduce gramajul:\n\n"
+            "REGULI STRICTE:\n"
+            "1. 'standard_category' TREBUIE aleasă STRICT în limba română dintre: {categories}.\n"
+            "2. 'item_type' TREBUIE ales STRICT în limba română (Mici, Cârnați, Friptură / Grătar, Platou, Ciorbă / Supă, Aperitiv / Gustare, Mâncare Gătită, Garnitură, Salată, Desert, Bere, Vin / Alcool, Răcoritoare / Cafea, Sos / Extra).\n"
+            "3. 'grammage': Extrage sau deduce gramajul/volumul în unități standardizate (ex: 200g, 400ml, 750ml, 330ml, 1 buc). Folosește 'g' pentru grame (nu kg) și 'ml' pentru volum (nu L). Dacă nu e menționat, deduce un gramaj standard pentru porția respectivă.\n\n"
             "Restaurant: {restaurant}\n"
             "Categorie originală: {orig_cat}\n"
             "Nume preparat: {item_name}\n"
+            "Gramaj brut: {raw_grammage}\n"
             "Descriere: {description}\n"
             "Preț: {price} RON\n"
         )
@@ -195,12 +265,18 @@ def classify_node(state: GraphState) -> GraphState:
                     restaurant=item.get("restaurant_name", ""),
                     orig_cat=item.get("category", ""),
                     item_name=item.get("item_name", ""),
+                    raw_grammage=item.get("grammage", ""),
                     description=item.get("description", ""),
                     price=item.get("price", 0)
                 ))
-                classified.append(res.model_dump())
+                item_dict = res.model_dump()
+                item_dict["grammage"] = normalize_grammage_string(item_dict.get("grammage"))
+                if item_dict["grammage"] == "N/A":
+                    item_dict["grammage"] = extract_grammage_fallback(
+                        item.get("item_name", ""), item.get("description", ""), str(item.get("grammage", ""))
+                    )
+                classified.append(item_dict)
             except Exception as e:
-                # Fallback on single item error
                 classified.append(classify_single_item_rulebased(item))
             
             if (i + 1) % 50 == 0:
@@ -210,34 +286,118 @@ def classify_node(state: GraphState) -> GraphState:
             classified_item = classify_single_item_rulebased(item)
             classified.append(classified_item)
 
-    print(f"Classified {len(classified)} items into standardized categories.")
     state["classified_items"] = classified
     return state
 
 
 def validate_node(state: GraphState) -> GraphState:
     items = state.get("classified_items", [])
+    retry_count = state.get("retry_count", 0)
+    
+    missing_grammage = []
     category_counts = {}
     restaurant_counts = {}
 
-    for item in items:
+    for idx, item in enumerate(items):
+        item["grammage"] = normalize_grammage_string(item.get("grammage"))
         cat = item["standard_category"]
         rest = item["restaurant_name"]
         category_counts[cat] = category_counts.get(cat, 0) + 1
         restaurant_counts[rest] = restaurant_counts.get(rest, 0) + 1
 
+        gram = str(item.get("grammage") or "").strip()
+        if gram in ["", "N/A", "None", "null"]:
+            missing_grammage.append((idx, item))
+
+    print(f"VALIDATION NODE: Found {len(missing_grammage)} items with missing grammage (N/A) out of {len(items)} items.")
+
+    if missing_grammage and retry_count < 1:
+        print(f"VALIDATION LOOP TRIGGERED: Sending {len(missing_grammage)} items back to AI Refinement Node (Retry {retry_count + 1})...")
+        state["items_to_refine"] = [item_tuple[1] for item_tuple in missing_grammage]
+        state["retry_count"] = retry_count + 1
+    else:
+        state["items_to_refine"] = []
+
     stats = {
         "total_items": len(items),
         "restaurant_breakdown": restaurant_counts,
-        "category_breakdown": category_counts
+        "category_breakdown": category_counts,
+        "missing_grammage_count": len(missing_grammage)
     }
 
     state["stats"] = stats
     return state
 
 
+def refine_grammage_node(state: GraphState) -> GraphState:
+    to_refine = state.get("items_to_refine", [])
+    classified = state.get("classified_items", [])
+    llm = get_llm_model()
+
+    if not to_refine:
+        return state
+
+    print(f"AI REFINEMENT NODE: Deducting standard portion grammages for {len(to_refine)} items...")
+
+    refined_map = {}
+    if llm:
+        structured_refiner = llm.with_structured_output(RefinedGrammage)
+        refine_prompt = (
+            "Deduce gramajul/volumul/porția standard (în g sau ml sau buc) pentru un preparat dintr-un restaurant românesc "
+            "unde gramajul nu a fost specificat de client.\n"
+            "Ghid de deducere:\n"
+            "- Ciorbe / Supe: 400ml\n"
+            "- Mâncăruri Gătite / Grătar / Fripturi: 200g - 350g\n"
+            "- Garnituri / Salate: 150g - 200g\n"
+            "- Aperitive / Gustări: 150g - 250g\n"
+            "- Sosuri / Muștar / Smântână: 50g\n"
+            "- Desert (Păpănași, Clătite, Cakes): 150g - 250g\n"
+            "- Bere / Răcoritoare: 330ml sau 500ml\n"
+            "- Vin / Alcool: 50ml (tărie) sau 750ml (sticlă vin) sau 150ml (pahar vin)\n"
+            "- Pâine / Chiflă: 1 buc sau 150g\n\n"
+            "Nume preparat: {item_name}\n"
+            "Categorie: {category}\n"
+            "Descriere: {description}\n"
+        )
+
+        for i, item in enumerate(to_refine):
+            try:
+                res = structured_refiner.invoke(refine_prompt.format(
+                    item_name=item.get("item_name", ""),
+                    category=item.get("standard_category", ""),
+                    description=item.get("description", "")
+                ))
+                refined_map[item.get("item_name")] = normalize_grammage_string(res.inferred_grammage)
+            except Exception:
+                cat = item.get("standard_category", "")
+                if "Ciorbe" in cat:
+                    refined_map[item.get("item_name")] = "400ml"
+                elif "Bere" in cat or "Răcoritoare" in cat:
+                    refined_map[item.get("item_name")] = "500ml"
+                elif "Sosuri" in cat:
+                    refined_map[item.get("item_name")] = "50g"
+                elif "Salate" in cat or "Garnituri" in cat:
+                    refined_map[item.get("item_name")] = "150g"
+                else:
+                    refined_map[item.get("item_name")] = "200g"
+
+    for item in classified:
+        if item.get("grammage") in ["", "N/A", "None", "null"] and item.get("item_name") in refined_map:
+            item["grammage"] = refined_map[item.get("item_name")]
+
+    state["classified_items"] = classified
+    state["items_to_refine"] = []
+    print(f"AI REFINEMENT NODE COMPLETED: Updated grammages for {len(refined_map)} items.")
+    return state
+
+
 def export_node(state: GraphState) -> GraphState:
     items = state.get("classified_items", [])
+    
+    # Final cleanup of all grammages before saving
+    for item in items:
+        item["grammage"] = normalize_grammage_string(item.get("grammage"))
+
     processed_dir = os.path.join(os.path.dirname(__file__), "..", "data", "processed")
     os.makedirs(processed_dir, exist_ok=True)
 
@@ -258,8 +418,9 @@ def export_node(state: GraphState) -> GraphState:
 
     stats = state.get("stats", {})
     print("\n========================================")
-    print("LangGraph Classification Summary:")
-    print(f"- Total Items Classified: {stats.get('total_items', 0)}")
+    print("LangGraph Self-Correcting Summary:")
+    print(f"- Total Items Processed: {stats.get('total_items', 0)}")
+    print(f"- Remaining N/A Grammages: {stats.get('missing_grammage_count', 0)}")
     print("- Breakdown by Restaurant:")
     for rest, count in stats.get("restaurant_breakdown", {}).items():
         print(f"  * {rest}: {count} items")
@@ -271,6 +432,12 @@ def export_node(state: GraphState) -> GraphState:
     return state
 
 
+def should_refine(state: GraphState) -> str:
+    if state.get("items_to_refine") and state.get("retry_count", 0) <= 1:
+        return "refine"
+    return "export"
+
+
 def build_classification_graph():
     from langgraph.graph import StateGraph, END
     builder = StateGraph(GraphState)
@@ -278,12 +445,19 @@ def build_classification_graph():
     builder.add_node("ingest", ingest_node)
     builder.add_node("classify", classify_node)
     builder.add_node("validate", validate_node)
+    builder.add_node("refine_grammage", refine_grammage_node)
     builder.add_node("export", export_node)
 
     builder.set_entry_point("ingest")
     builder.add_edge("ingest", "classify")
     builder.add_edge("classify", "validate")
-    builder.add_edge("validate", "export")
+    
+    # Conditional LangGraph Loop: Validate -> Refine -> Validate -> Export
+    builder.add_conditional_edges("validate", should_refine, {
+        "refine": "refine_grammage",
+        "export": "export"
+    })
+    builder.add_edge("refine_grammage", "validate")
     builder.add_edge("export", END)
 
     return builder.compile()
@@ -291,4 +465,10 @@ def build_classification_graph():
 
 if __name__ == "__main__":
     app = build_classification_graph()
-    app.invoke({"raw_items": [], "classified_items": [], "stats": {}})
+    app.invoke({
+        "raw_items": [],
+        "classified_items": [],
+        "items_to_refine": [],
+        "retry_count": 0,
+        "stats": {}
+    })

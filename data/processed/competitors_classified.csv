@@ -8,10 +8,10 @@ Berăria H,DESERT,Desert,Desert,ADAUGĂ SOS VANILIE,30g,"Un ștrudel extra gusto
 Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ VARZĂ,150g,DE,11.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SALATE DE ÎNSOȚIRE,Salate,Salată,SALATĂ COLESLAW,150g,Salată clasică de varză albă,14.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ MURĂTURI ASORTATE,150g,"O salată cât mai sănătoasă cu varză, morcov, stafide și dressing vegetal",14.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ ARDEI COPȚI150g,,"Murături pline de gust, amestecate pentru tine",14.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ ARDEI COPȚI150g,150g,"Murături pline de gust, amestecate pentru tine",14.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ ASORTATĂ,150g,"Ardei copți pe plită într-un amestec de ulei, oțet și sare",14.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SALATE DE ÎNSOȚIRE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SALATĂ CEAPĂ ROȘIE,150g,"Roșii, castraveți, ceapă și sare",11.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,PÂINE,Sosuri & Extra,Sos / Extra,COȘ PÂINE COVRIG,,&,9.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,PÂINE,Sosuri & Extra,Sos / Extra,COȘ PÂINE COVRIG,50g,&,9.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,GARNITURI,Mâncăruri Gătite & Specialități,Mâncare Gătită,CARTOFI BERĂREȘTI,200g,,16.9,RON,2026-09-04T14:33:41.352Z
 Berăria H,CARTOFI PRĂJIȚI,Mâncăruri Gătite & Specialități,Mâncare Gătită,CRISP FLUFFY,150g,&,16.9,RON,2026-09-04T14:33:41.352Z
 Berăria H,CARTOFI PRĂJIȚI,Mâncăruri Gătite & Specialități,Mâncare Gătită,CARTOFI TWIST,150g,Crocanți pe dinafară și cu puțin parmezan aruncat pe ei,21.0,RON,2026-09-04T14:33:41.352Z
@@ -30,7 +30,7 @@ Berăria H,SPECIALITĂȚILE NOASTRE,Mâncăruri Gătite & Specialități,Mâncar
 Berăria H,FRĂȚIA CIOLANELOR,Mâncăruri Gătite & Specialități,Mâncare Gătită,GENUNCHI MIEL,240g,DE,79.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,FRĂȚIA CIOLANELOR,Mâncăruri Gătite & Specialități,Mâncare Gătită,CIOLAN PORC,900g,"Fraged și suculent, gătit lent",99.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,FRĂȚIA CIOLANELOR,Mâncăruri Gătite & Specialități,Mâncare Gătită,GENUNCHI VACĂ,7500g,"(pentru 2 persoane) Un ciolan mare de porc, aromat cu sosuri de bere și mirodenii alese",450.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,FRĂȚIA CIOLANELOR,Mâncăruri Gătite & Specialități,Mâncare Gătită,CIOLAN CURCAN,5 kg,"(7. crud,4 kg gătit, 3-5 persoane) Ciolanul-gigant din spate al vacii, stropit cu bere neagră și gătit încet la cuptor. Are și măduvă. Se servește în 150 de minute DE 400g",44.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,FRĂȚIA CIOLANELOR,Mâncăruri Gătite & Specialități,Mâncare Gătită,CIOLAN CURCAN,5000g,"(7. crud,4 kg gătit, 3-5 persoane) Ciolanul-gigant din spate al vacii, stropit cu bere neagră și gătit încet la cuptor. Are și măduvă. Se servește în 150 de minute DE 400g",44.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,FINGER FOOD,Mâncăruri Gătite & Specialități,Mâncare Gătită,SUPER NACHOS,250g,,44.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,FINGER FOOD,Mâncăruri Gătite & Specialități,Mâncare Gătită,CROCHETE AURITE PUI,200g,"Carne de vită cu fasole roșie, brânză cheddar, chipsuri de nachos și sos de brânză",35.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,FINGER FOOD,Mâncăruri Gătite & Specialități,Mâncare Gătită,AŞCHII PUI,200g,Bucăți de pui în crustă de pesmet Panko și sos de brânză cu mucegai,34.0,RON,2026-09-04T14:33:41.352Z
@@ -80,233 +80,233 @@ Berăria H,SOSURI,Mâncăruri Gătite & Specialități,Mâncare Gătită,FILE SO
 Berăria H,SOSURI,Mâncăruri Gătite & Specialități,Mâncare Gătită,PIEPT CURCAN,200g,Somon la grătar cu muștar și fulgi de migdale,39.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SOSURI,Mâncăruri Gătite & Specialități,Mâncare Gătită,SPANAC QUATTRO FORMAGGI,200g,"Piept de curcan la plită, marinat în lapte și ierburi cu sos alfredo",35.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,SOSURI,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEW NEW NEW ȘNIȚEL VITĂ,300g,Frunze de spanac amestecate cu patru tipuri de brânză și gratinate la cuptor,59.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA SAUVIGNON BLANC,750 ml,- sec .......................................,110.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA RESERVE CHARDONNAY,750 ml,sec .................................,149.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CRAMA OPRIȘOR CETATE CHARDONNAY,750 ml,LA - sec .....................,120.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA SAUVIGNON BLANC,750 ml,sec ...................................,120.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,TEZAUR JIDVEI SAUVIGNON BLANC FETEASCĂ REGALĂ,750 ml,- & sec .....,99.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAUVIGNON BLANC,750 ml,sec ....................................................,139.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA FUME,750 ml,demisec ...............................................,100.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLE CHARDONNAY,750 ml,- sec ..........................................,175.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLO QUINTA CUPAJ,750 ml,- sec .........................................,240.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS ZGHIHARA,750 ml,sec .......................................,110.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,JIDVEI ANA SAUVIGNON BLANC,750 ml,- sec ...................................,185.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI HEX SAUVIGNON BLANC FETEASCĂ REGALĂ,750 ml,- & sec .....,120.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,PURCARI NOCTURNE SAUVIGNON BLANC,750 ml,- sec ......................,139.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BYZANTIUM BLANC CUPAJ - SAUVIGNON BLANC,Mâncăruri Gătite & Specialități,Mâncare Gătită,VIOGNER CHARDONNAY,750 ml,& & sec ...........................................,95.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,REGALĂ TĂMÂIOASĂ ROMÂNEASCĂ,750 ml,& sec ...............................,115.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS ALIGOTE,750 ml,DE LA sec .............................,150.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA,750 ml,demisec ...............................................,105.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINUL CAVALERULUI,750 ml,demisec ......................................,105.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SERVE CUVEE SISSI,750 ml,sec ............................................,165.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SERVE TERRA ROMANA,750 ml,sec ......................................,145.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLE FETEASCĂ NEAGRĂ PINOT NOIR,750 ml,- & sec ........,175.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,PURCARI NOCTURNE,750 ml,sec ...........................................,139.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS MERLOT,750 ml,- sec ..................................,110.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BYZANTIUM ROSE SHIRAZ,750 ml,- sec ....................................,95.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI HEX MERLOT,750 ml,- sec ........................................,120.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI MAGNUM PREMIUM,1500 ml,sec ..............................,219.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE AVENUE ROSA SÂMBUREȘTI,750 ml,- DE sec ...............,110.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS,750 ml,DE LA sec .................................,150.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA CABERNET SAUVIGNON MERLOT,750 ml,- & sec ............,105.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,OPRIȘOR CETATE FETEASCĂ NEAGRĂ,750 ml,LA - sec ................,125.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA SAUVIGNON BLANC,750ml,- sec .......................................,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA RESERVE CHARDONNAY,750ml,sec .................................,149.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CRAMA OPRIȘOR CETATE CHARDONNAY,750ml,LA - sec .....................,120.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA SAUVIGNON BLANC,750ml,sec ...................................,120.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ALBE,Mâncăruri Gătite & Specialități,Mâncare Gătită,TEZAUR JIDVEI SAUVIGNON BLANC FETEASCĂ REGALĂ,750ml,- & sec .....,99.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAUVIGNON BLANC,750ml,sec ....................................................,139.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA FUME,750ml,demisec ...............................................,100.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLE CHARDONNAY,750ml,- sec ..........................................,175.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLO QUINTA CUPAJ,750ml,- sec .........................................,240.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS ZGHIHARA,750ml,sec .......................................,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,JIDVEI ANA SAUVIGNON BLANC,750ml,- sec ...................................,185.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI HEX SAUVIGNON BLANC FETEASCĂ REGALĂ,750ml,- & sec .....,120.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,JIDVEI MYSTERIUM - TRAMINER &,Mâncăruri Gătite & Specialități,Mâncare Gătită,PURCARI NOCTURNE SAUVIGNON BLANC,750ml,- sec ......................,139.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BYZANTIUM BLANC CUPAJ - SAUVIGNON BLANC,Mâncăruri Gătite & Specialități,Mâncare Gătită,VIOGNER CHARDONNAY,750ml,& & sec ...........................................,95.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,REGALĂ TĂMÂIOASĂ ROMÂNEASCĂ,750ml,& sec ...............................,115.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINARTE NEDEEA CUPAJ-FETEASCĂ ALBĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS ALIGOTE,750ml,DE LA sec .............................,150.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA,750ml,demisec ...............................................,105.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINUL CAVALERULUI,750ml,demisec ......................................,105.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SERVE CUVEE SISSI,750ml,sec ............................................,165.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,SERVE TERRA ROMANA,750ml,sec ......................................,145.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,RECAȘ SOLE FETEASCĂ NEAGRĂ PINOT NOIR,750ml,- & sec ........,175.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,PURCARI NOCTURNE,750ml,sec ...........................................,139.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS MERLOT,750ml,- sec ..................................,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,BYZANTIUM ROSE SHIRAZ,750ml,- sec ....................................,95.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI HEX MERLOT,750ml,- sec ........................................,120.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI MAGNUM PREMIUM,1500ml,sec ..............................,219.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE AVENUE ROSA SÂMBUREȘTI,750ml,- DE sec ...............,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROSE,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS,750ml,DE LA sec .................................,150.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,CORCOVA CABERNET SAUVIGNON MERLOT,750ml,- & sec ............,105.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,OPRIȘOR CETATE FETEASCĂ NEAGRĂ,750ml,LA - sec ................,125.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUDUREASCA FETEASCĂ NEAGRĂ,750ml,- demisec ....................,95.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,SEGARCEA MERLOT,750ml,- sec ...........................................,130.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE CASTEL BOLOVANU-CABERNET SAUVIGNON,750 ml,sec ..,90.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE PRINCE MIRCEA MERLOT,750 ml,- sec ........................,150.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,MUMM CORDON ROUGE,750 ml,.............................................,450.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO BIANCO,120 ml,pahar ...........................................,18.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO SUPERIORE VALDOBBIADENE DOCG BRUT,750 ml,........,140.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE CASTEL BOLOVANU-CABERNET SAUVIGNON,750ml,sec ..,90.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VINURI ROȘII,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARTE PRINCE MIRCEA MERLOT,750ml,- sec ........................,150.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,MUMM CORDON ROUGE,750ml,.............................................,450.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO BIANCO,120ml,pahar ...........................................,18.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO SUPERIORE VALDOBBIADENE DOCG BRUT,750ml,........,140.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO BOTTEGA GOLD DOC,750ml,....................................,200.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO BOTTEGA GOLD DOC MAGNUM,1500 ml,......................,390.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,SPUMANT BOTTEGA MILLESIMATO BRUT,750 ml,........................,110.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,JIDVEI SPUMANT MĂRGĂRITAR,750 ml,.....................................,100.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,PROSECCO BOTTEGA GOLD DOC MAGNUM,1500ml,......................,390.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,SPUMANT BOTTEGA MILLESIMATO BRUT,750ml,........................,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,JIDVEI SPUMANT MĂRGĂRITAR,750ml,.....................................,100.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,MOET CHANDON BRUT,750ml,& ............................................,500.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,VIN SPUMANT / CHAMPAGNE /PROSECCO,Mâncăruri Gătite & Specialități,Mâncare Gătită,MOET CHANDON ROSE,750ml,& ............................................,550.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRU DRĂGĂȘANI,150 ml,DE .................................................,27.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Băuturi Alcoolice & Bere,Vin / Alcool,VIN FIERT,250 ml,...................................................................,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS FETEASCĂ NEAGRĂ,750 ml,- sec ......................,110.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRU DRĂGĂȘANI,150ml,DE .................................................,27.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Băuturi Alcoolice & Bere,Vin / Alcool,VIN FIERT,250ml,...................................................................,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEREȘTI NATIVUS FETEASCĂ NEAGRĂ,750ml,- sec ......................,110.0,RON,2026-09-04T14:33:41.352Z
 Berăria H,"NEGRINI HEX - SAUVIGNON BLANC & FETEASCĂ REGALĂ, MERLOT,",Mâncăruri Gătite & Specialități,Mâncare Gătită,NEGRINI HEX NEGRU DRĂGĂȘANI,750ml,- DE sec .......................,120.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &,Mâncăruri Gătite & Specialități,Mâncare Gătită,SHIRAZ CABERNET FRANC,750 ml,& sec .....................................,95.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS QUINTESSANCE,750 ml,DE LA - sec ..............,150.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIMONADĂ,330 ml,,19.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,CITRONADĂ,330 ml,,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIMONADĂ AROME,330 ml,CU,24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,FRESH,330 ml,pepene galben / mentă proaspătă/ zmeură / fructul pasiunii / căpșuni / ghimbir / trandafir de portocale / grapefruit,24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PEPSI MIRINDA ORANGE,300 ml,/ / 7UP pahar,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PEPSI PEPSI MAX MIRINDA,330 ml,/ / / 7UP doză,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,SOFT DIESEL,300 ml,pahar,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PRIGAT NECTAR,250 ml,Pepsi - Mirinda Orange,16.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIPTON ICE TEA,250 ml,piersici / căpșuni și banane / kiwi și pere / portocale piersici / lămâie,16.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ,250 ml,tonică Evervess,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,330 ml,minerală plată Carpatica,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,330 ml,minerală carbogazoasă Carpatica,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,750 ml,minerală carbogazoasă Carpatica,24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,GATORADE COOL BLUE,500 ml,,20.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED BULL,250 ml,,24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CIDRU,Mâncăruri Gătite & Specialități,Mâncare Gătită,STRONGBOW,330 ml,,18.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA METRU,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,4400 ml,,189.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA METRU,Băuturi Alcoolice & Bere,Bere,HEINEKEN,3600 ml,la metru (11 halbe) la metru (9 halbe),189.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,SILVA STRONG DARK LAGER,500 ml,,25.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,DESPERADOS,400 ml,(bere cu gust de Tequila),27.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,EDELWEISS HEFE WEISSBIER,500 ml,,39.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BEREA BLONDĂ ARĂMIE,500 ml,H /,25.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BEREA BLONDĂ ARĂMIE,1000 ml,"Bere artizanală, nefiltrată și nepasteurizată H /",49.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,RADLER,400 ml,"Bere artizanală, nefiltrată și nepasteurizată H - făcut de noi acum",19.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,400 ml,,18.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,HEINEKEN,400 ml,,24.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,EDELWEISS HEFE WEISSBIER,500 ml,,38.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,400 ml,,21.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BERE (FĂRĂ ALCOOL) CIUC RADLER LĂMÂIE LIME,330 ml,0.0% ȘI 0.0%,18.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,CIUC RADLER ZMEURĂ LĂMÂIE,330 ml,ȘI 0.0%,18.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,HEINEKEN,330 ml,0.0%,24.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,330 ml,0.0%,21.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,330 ml,,21.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,HEINEKEN,330 ml,,25.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,330 ml,,23.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI SALE MARE,330 ml,DI,23.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,AMSTEL,330 ml,,21.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,COCKTAIL BUTOI GROUP HUG,700 ml,LA (4-7 persoane și multe paie),99.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,COMITET,700 ml,"Vin roșu sec, brandy, bere, lămâie, suc de portocale",139.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HUGO,170 ml,,38.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,TROPICAL SPRITZ,170 ml,"Lichior soc, prosecco, lime, mentă proaspătă, apă minerală",38.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,APEROL SPRITZ,170 ml,"Aperol, prosecco, piure fructul pasiunii, apă tonică",38.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JUNE BUG NEW,170 ml,,36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COSMOPOLITAN,90 ml,"Lichior pepene, lichior banane, rom Havana, sirop de cocos, suc proaspăt lămâie, suc ananas",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MOJITO,170 ml,"Vodka, triplu sec, suc cranberry, suc proaspăt lime",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,PINEAPPLE GIN FIZZ,170 ml,"Rom, lime, mentă proaspătă, sirop zahăr, apă minerală",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GODFATHER SOUR,60 ml,"Gin, sirop de ghimbir, suc ananas, suc de lămâie, apă minerală",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,LONG ISLAND ICED TEA170,,"Whisky, amaretto, suc proaspăt lămâie, sirop de zahăr ml",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BEACH BEAUTY NEW,170 ml,"Rom, gin, vodka, tequila, triplu sec, suc proaspăt lămâie, sirop de zahăr, Pepsi",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRY MINT MARGARITA,120 ml,"Vodka, lichior banane, grenadine, suc portocale, suc de lămâie, apă tonică &",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,GIN TONIC ROYAL,170 ml,"Tequila, piure fructe de pădure, suc de lămâie, mentă",44.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BANANA BOAT,170 ml,"Monkey 47, rozmarin, piper roșu, fresh de grapefruit, apă tonică",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,KAPT’N CHAOS,170 ml,"Gin, lichior banane, suc portocale, suc de lămâie, sirop de grenadine",36.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA APPLE VODKA ORANGE,170 ml,"Rom, vodka, gin, ananas, suc de portocale, piure de fructul pasiunii, suc proaspăt lămâie / *",33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA CRANBERRY VODKA TONIC*,170 ml,/,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA COKE VODKA ENERGY,170 ml,/ *,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,WHISKY COKE WHISKY ENERGY,170 ml,/ *,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CUBA LIBRE,170 ml,*,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,GIN TONIC,170 ml,*,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAMPARI ORANGE,170 ml,*,33.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEM MAAAARI,500 ml,* ȘI - pahar +,8.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,INNOCENT PASSION,170 ml,,29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRIES MINT,170 ml,"Suc cranberry, piure fructul pasiunii, suc proaspăt lămâie &",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,LADY MARMELADE,170 ml,"Suc cranberry, suc proaspăt lămâie, mentă proaspătă, piure de fructe de pădure",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GINGERELLA,170 ml,"Piure de piersici, suc proaspăt lămâie, suc cranberry, mentă proaspătă",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRY CRAZE,170 ml,"Sirop de ghimbir, scorțișoară, suc portocale, suc proaspăt lămâie",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MINT COOLER,170 ml,"Piure fructe de pădure, suc cranberry, suc proaspăt lămâie,",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COCO MINT NEW,170 ml,"Sirop de mentă, suc proaspăt lămâie, suc portocale, suc ananas, piure de fructul pasiunii",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED RISK NEW,170 ml,"Sirop de mentă, sirop de cocos, suc proaspăt lămâie, suc portocale, suc ananas",29.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,ȚUICĂ PRUNE (BRAN),50 ml,,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,PĂLINCĂ PRUNE GUTUI (BRAN),50 ml,/,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,AFINATĂ VIȘINATĂ CAISATĂ (BRAN),50 ml,/ /,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAMARO (BRAN),50 ml,lichior digestiv din nuci verzi,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,ABSOLUT,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CIROC,50 ml,,39.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HAVANA CLUB ANEJO,50 ml,3YO,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HAVANA CLUB,50 ml,7YO,28.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUMBU,50 ml,XO,42.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,BEEFEATER LONDON DRY GIN,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,MONKEY GIN,50 ml,47,42.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BALLANTINE’S FINEST SCOTCH WHISKY,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,JAMESON IRISH WHISKEY,50 ml,,27.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CHIVAS REGAL,50 ml,12YO,32.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CHIVAS REGAL,50 ml,18YO,59.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,THE GLENLIVET,50 ml,15YO,49.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GLENFIDDICH,50 ml,12YO,49.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JACK DANIELS,50 ml,,35.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL,50 ml,VS,35.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL VSOP,50 ml,,49.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL,50 ml,XO,119.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARS JIDVEI,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,ALEXANDRION,50 ml,7*,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BRÂNCOVEANU,50 ml,XO,49.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COINTREAU,50 ml,,27.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,DISARONNO AMARETTO,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,KAHLUA,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BAILEYS,50 ml,,24.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAMBUCA RAMAZZOTI,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,OLMECA SILVER,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,PERNOD ABSINTHE,50 ml,,27.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JÄGERMEISTER,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,APEROL,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAMPARI,50 ml,,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,FLAVOR KAMIKAZE,40 ml,,12.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED SNAPPER,40 ml,"Vodka, triplu sec, piure fructe",9.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED SNAPPER,240 ml,"Whisky, amaretto, suc cranberry",49.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,"B52 Kahlua, Baileys, triplu sec",40 ml,,16.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,JAGER BOMB,150 ml,,22.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUBBLE GUM,40 ml,"Jagermeister, energizant",14.5,RON,2026-09-04T14:33:41.352Z
-Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,FRUIT BERRY,250 ml,,14.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,ENGLISH,250 ml,,14.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,VERDE IASOMIE,250 ml,CU,14.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,LEMON,250 ml,,14.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO,30 ml,,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO MACCHIATO,40 ml,,16.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO LUNG,90 ml,,16.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO DUBLU,50 ml,,25.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO FĂRĂ COFEINĂ,30 ml,,14.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO LUNG FĂRĂ COFEINĂ,90 ml,,16.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAPPUCCINO,180 ml,,19.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAFÉ LATTE,250 ml,,19.0,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAFÉ FRAPPE,350 ml,,24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,IRISH COFFEE,260 ml,Delicios cu frișcă și topping de ciocolată (cu alcool),24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,AMORE,260 ml,"Cafea, Jameson, sirop zahăr, frișcă lichidă (cu alcool)",24.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,GOURMET CAPPUCCINO,190 ml,"Cafea, amaretto, sirop zahăr, frișcă lichidă",22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CARAMEL LATTE,250 ml,Sirop de vanilie sau caramel,22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,AFTER EIGHT LATTE,250 ml,"Cafea, lapte, sirop de caramel",22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,HAZELNUT LATTE,250 ml,"Cafea, lapte, sirop de ciocolată, sirop de mentă",22.9,RON,2026-09-04T14:33:41.352Z
-Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CIOCOLATĂ CALDĂ,200 ml,"Cafea, lapte, sirop de alune",22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &,Mâncăruri Gătite & Specialități,Mâncare Gătită,SHIRAZ CABERNET FRANC,750ml,& sec .....................................,95.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BYZANTIUM ROSSO - FETEASCĂ NEAGRĂ &,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAII LETEA PRINCEPS QUINTESSANCE,750ml,DE LA - sec ..............,150.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIMONADĂ,330ml,,19.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,CITRONADĂ,330ml,,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIMONADĂ AROME,330ml,CU,24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,FRESH,330ml,pepene galben / mentă proaspătă/ zmeură / fructul pasiunii / căpșuni / ghimbir / trandafir de portocale / grapefruit,24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PEPSI MIRINDA ORANGE,300ml,/ / 7UP pahar,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PEPSI PEPSI MAX MIRINDA,330ml,/ / / 7UP doză,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,SOFT DIESEL,300ml,pahar,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,PRIGAT NECTAR,250ml,Pepsi - Mirinda Orange,16.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,LIPTON ICE TEA,250ml,piersici / căpșuni și banane / kiwi și pere / portocale piersici / lămâie,16.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ,250ml,tonică Evervess,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,330ml,minerală plată Carpatica,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,330ml,minerală carbogazoasă Carpatica,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,APĂ AQUA,750ml,minerală carbogazoasă Carpatica,24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,GATORADE COOL BLUE,500ml,,20.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SUCURI ȘI APĂ,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED BULL,250ml,,24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CIDRU,Mâncăruri Gătite & Specialități,Mâncare Gătită,STRONGBOW,330ml,,18.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA METRU,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,4400ml,,189.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA METRU,Băuturi Alcoolice & Bere,Bere,HEINEKEN,3600ml,la metru (11 halbe) la metru (9 halbe),189.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,SILVA STRONG DARK LAGER,500ml,,25.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,DESPERADOS,400ml,(bere cu gust de Tequila),27.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,VARIETATE DE GUST,Mâncăruri Gătite & Specialități,Mâncare Gătită,EDELWEISS HEFE WEISSBIER,500ml,,39.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BEREA BLONDĂ ARĂMIE,500ml,H /,25.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BEREA BLONDĂ ARĂMIE,1000ml,"Bere artizanală, nefiltrată și nepasteurizată H /",49.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,RADLER,400ml,"Bere artizanală, nefiltrată și nepasteurizată H - făcut de noi acum",19.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,400ml,,18.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,HEINEKEN,400ml,,24.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,EDELWEISS HEFE WEISSBIER,500ml,,38.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,400ml,,21.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BERE (FĂRĂ ALCOOL) CIUC RADLER LĂMÂIE LIME,330ml,0.0% ȘI 0.0%,18.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,CIUC RADLER ZMEURĂ LĂMÂIE,330ml,ȘI 0.0%,18.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,HEINEKEN,330ml,0.0%,24.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE DRAUGHT,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,330ml,0.0%,21.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,CIUC PREMIUM LAGER,330ml,,21.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,HEINEKEN,330ml,,25.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI,330ml,,23.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,BIRRA MORETTI SALE MARE,330ml,DI,23.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,AMSTEL,330ml,,21.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,COCKTAIL BUTOI GROUP HUG,700ml,LA (4-7 persoane și multe paie),99.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,BERE LA STICLĂ,Băuturi Alcoolice & Bere,Bere,COMITET,700ml,"Vin roșu sec, brandy, bere, lămâie, suc de portocale",139.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HUGO,170ml,,38.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,TROPICAL SPRITZ,170ml,"Lichior soc, prosecco, lime, mentă proaspătă, apă minerală",38.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPRITZERS,Mâncăruri Gătite & Specialități,Mâncare Gătită,APEROL SPRITZ,170ml,"Aperol, prosecco, piure fructul pasiunii, apă tonică",38.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JUNE BUG NEW,170ml,,36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COSMOPOLITAN,90ml,"Lichior pepene, lichior banane, rom Havana, sirop de cocos, suc proaspăt lămâie, suc ananas",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MOJITO,170ml,"Vodka, triplu sec, suc cranberry, suc proaspăt lime",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,PINEAPPLE GIN FIZZ,170ml,"Rom, lime, mentă proaspătă, sirop zahăr, apă minerală",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GODFATHER SOUR,60ml,"Gin, sirop de ghimbir, suc ananas, suc de lămâie, apă minerală",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,LONG ISLAND ICED TEA170,200g,"Whisky, amaretto, suc proaspăt lămâie, sirop de zahăr ml",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BEACH BEAUTY NEW,170ml,"Rom, gin, vodka, tequila, triplu sec, suc proaspăt lămâie, sirop de zahăr, Pepsi",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRY MINT MARGARITA,120ml,"Vodka, lichior banane, grenadine, suc portocale, suc de lămâie, apă tonică &",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,GIN TONIC ROYAL,170ml,"Tequila, piure fructe de pădure, suc de lămâie, mentă",44.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BANANA BOAT,170ml,"Monkey 47, rozmarin, piper roșu, fresh de grapefruit, apă tonică",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,KAPT’N CHAOS,170ml,"Gin, lichior banane, suc portocale, suc de lămâie, sirop de grenadine",36.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA APPLE VODKA ORANGE,170ml,"Rom, vodka, gin, ananas, suc de portocale, piure de fructul pasiunii, suc proaspăt lămâie / *",33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA CRANBERRY VODKA TONIC*,170ml,/,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,VODKA COKE VODKA ENERGY,170ml,/ *,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,WHISKY COKE WHISKY ENERGY,170ml,/ *,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CUBA LIBRE,170ml,*,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Băuturi Alcoolice & Bere,Vin / Alcool,GIN TONIC,170ml,*,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAMPARI ORANGE,170ml,*,33.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,COCKTAILS & LONG DRINKS,Mâncăruri Gătite & Specialități,Mâncare Gătită,AVEM MAAAARI,500ml,* ȘI - pahar +,8.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,INNOCENT PASSION,170ml,,29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRIES MINT,170ml,"Suc cranberry, piure fructul pasiunii, suc proaspăt lămâie &",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,LADY MARMELADE,170ml,"Suc cranberry, suc proaspăt lămâie, mentă proaspătă, piure de fructe de pădure",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GINGERELLA,170ml,"Piure de piersici, suc proaspăt lămâie, suc cranberry, mentă proaspătă",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BERRY CRAZE,170ml,"Sirop de ghimbir, scorțișoară, suc portocale, suc proaspăt lămâie",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MINT COOLER,170ml,"Piure fructe de pădure, suc cranberry, suc proaspăt lămâie,",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COCO MINT NEW,170ml,"Sirop de mentă, suc proaspăt lămâie, suc portocale, suc ananas, piure de fructul pasiunii",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,NON - ALCOHOLIC COCKTAILS,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED RISK NEW,170ml,"Sirop de mentă, sirop de cocos, suc proaspăt lămâie, suc portocale, suc ananas",29.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,ȚUICĂ PRUNE (BRAN),50ml,,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,PĂLINCĂ PRUNE GUTUI (BRAN),50ml,/,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,AFINATĂ VIȘINATĂ CAISATĂ (BRAN),50ml,/ /,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,TĂRII TRADIȚIONALE ROMÂNEȘTI,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAMARO (BRAN),50ml,lichior digestiv din nuci verzi,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,ABSOLUT,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CIROC,50ml,,39.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HAVANA CLUB ANEJO,50ml,3YO,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,HAVANA CLUB,50ml,7YO,28.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUMBU,50ml,XO,42.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,BEEFEATER LONDON DRY GIN,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,MONKEY GIN,50ml,47,42.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BALLANTINE’S FINEST SCOTCH WHISKY,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Băuturi Alcoolice & Bere,Vin / Alcool,JAMESON IRISH WHISKEY,50ml,,27.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CHIVAS REGAL,50ml,12YO,32.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CHIVAS REGAL,50ml,18YO,59.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,THE GLENLIVET,50ml,15YO,49.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,GLENFIDDICH,50ml,12YO,49.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JACK DANIELS,50ml,,35.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL,50ml,VS,35.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL VSOP,50ml,,49.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,MARTELL,50ml,XO,119.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,VINARS JIDVEI,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,ALEXANDRION,50ml,7*,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BRÂNCOVEANU,50ml,XO,49.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,COINTREAU,50ml,,27.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,DISARONNO AMARETTO,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,KAHLUA,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,BAILEYS,50ml,,24.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,SAMBUCA RAMAZZOTI,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,OLMECA SILVER,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,PERNOD ABSINTHE,50ml,,27.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,JÄGERMEISTER,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,APEROL,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPIRITS,Mâncăruri Gătite & Specialități,Mâncare Gătită,CAMPARI,50ml,,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,FLAVOR KAMIKAZE,40ml,,12.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED SNAPPER,40ml,"Vodka, triplu sec, piure fructe",9.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,RED SNAPPER,240ml,"Whisky, amaretto, suc cranberry",49.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,"B52 Kahlua, Baileys, triplu sec",40ml,,16.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,JAGER BOMB,150ml,,22.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SHOT NEW,Mâncăruri Gătite & Specialități,Mâncare Gătită,BUBBLE GUM,40ml,"Jagermeister, energizant",14.5,RON,2026-09-04T14:33:41.352Z
+Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,FRUIT BERRY,250ml,,14.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,ENGLISH,250ml,,14.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,VERDE IASOMIE,250ml,CU,14.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CEAI,Mâncăruri Gătite & Specialități,Mâncare Gătită,LEMON,250ml,,14.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO,30ml,,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO MACCHIATO,40ml,,16.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO LUNG,90ml,,16.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO DUBLU,50ml,,25.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO FĂRĂ COFEINĂ,30ml,,14.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,ESPRESSO LUNG FĂRĂ COFEINĂ,90ml,,16.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAPPUCCINO,180ml,,19.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAFÉ LATTE,250ml,,19.0,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CAFÉ FRAPPE,350ml,,24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,IRISH COFFEE,260ml,Delicios cu frișcă și topping de ciocolată (cu alcool),24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,AMORE,260ml,"Cafea, Jameson, sirop zahăr, frișcă lichidă (cu alcool)",24.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,GOURMET CAPPUCCINO,190ml,"Cafea, amaretto, sirop zahăr, frișcă lichidă",22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CARAMEL LATTE,250ml,Sirop de vanilie sau caramel,22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,AFTER EIGHT LATTE,250ml,"Cafea, lapte, sirop de caramel",22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,HAZELNUT LATTE,250ml,"Cafea, lapte, sirop de ciocolată, sirop de mentă",22.9,RON,2026-09-04T14:33:41.352Z
+Berăria H,SPECIALITĂȚI CAFEA,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,CIOCOLATĂ CALDĂ,200ml,"Cafea, lapte, sirop de alune",22.9,RON,2026-09-04T14:33:41.352Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ouă ochiuri la capac,240g,"O nebunie de gusturi: 3 ouă ochiuri cu ardei gras, carne rumenită și cașcaval care se topește perfect.",39.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ouă Benedict cu bacon și somon afumat,300g,"Un brunch ca la carte - ouă Benedict cu bacon sau somon, pentru dimineți cu pretenții.",42.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mic dejun Chef de Viață,420g,"Tot ce-ți trebuie dimineața - un mic dejun complet, care te pune pe picioare din prima!",56.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Toast cu avocado,340g,Toast crocant cu avocado cremos - un start sănătos și delicios pentru ziua ta.,39.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,"Omletă ""ca La Mama Acasă""",180g+,"Exact cum îți place - o omletă din 3 ouă, gustoasă și personalizabilă cu toppingul preferat (ardei gras, ceapă, ciuperci, roșii, bacon, cașcaval)",35.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,"Omletă ""ca La Mama Acasă""",180g,"Exact cum îți place - o omletă din 3 ouă, gustoasă și personalizabilă cu toppingul preferat (ardei gras, ceapă, ciuperci, roșii, bacon, cașcaval)",35.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ouă ochiuri,180g,3 ouă ochiuri prăjite sau poșate.,18.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Croissant cu unt,65g,"Un croissant pufos cu unt fin, care-ți face dimineața mai bună.",12.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Bulz,440g,"Toate bunătățile autentice, adunate într-un bulz cald și sățios, gata să-ți încânte farfuria.",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mămăligă cu brânză și smântână,,"(300g/150g/125g/50g) Mâncarea tradițional românească făcută cu drag din mămăliguță gustoasă, brânză și smânatână grasă din belșug",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de boeuf (270g/40g),,"(270g/40g) Pentru noi masa ta este festivă oricând, nu doar de Paste sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă.",29.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mămăligă cu brânză și smântână,300g,"(300g/150g/125g/50g) Mâncarea tradițional românească făcută cu drag din mămăliguță gustoasă, brânză și smânatână grasă din belșug",36.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de boeuf (270g/40g),270g,"(270g/40g) Pentru noi masa ta este festivă oricând, nu doar de Paste sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă.",29.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Salată de vinete cu ardei copt,210g,"Clasica salată de vinete, dar cu ardei copt.",24.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Cașcaval pane,,"(170g/50g) O gustare rapidă, cremoasă și cu crustă crocantă",38.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clătite cu pui si ciuperci,,"(220g/100g) O masă lejeră, dar consistentă, cu clătită pufoasă, piept de pui fraged și ciuperci gustoase",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Fasole bătută,,"Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Gramaj: 210g/50g Ingrediente: fasole uscata, sos (ceapa, ulei, pasta de tomate, usturoi), sare.",24.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Cașcaval pane,170g,"(170g/50g) O gustare rapidă, cremoasă și cu crustă crocantă",38.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clătite cu pui si ciuperci,220g,"(220g/100g) O masă lejeră, dar consistentă, cu clătită pufoasă, piept de pui fraged și ciuperci gustoase",36.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Fasole bătută,210g,"Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Gramaj: 210g/50g Ingrediente: fasole uscata, sos (ceapa, ulei, pasta de tomate, usturoi), sare.",24.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Piperchi Țârgâsiti,210g,"Ingrediente: ardei kapia, roșii , ardei gras, brânză de capră, ulei, ardei iute, sare, piper.",37.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pate de păstrăv afumat,210g,"Ingrediente: crema de brânză Philadelphia, file de păstrăv afumat, zeamă de lămaie , sare",28.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Zacuscă,200g,"Ingrediente: vinete, gogoșari, ardei gras, ceapă, morcovi, pasta de tomate, foi de dafin, usturoi, ulei, sare, piper",28.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gustare rece,,"Pentru 1-2 persoane (600g) ceafă de porc, cotlet de porc, urechi de porc, jumări de porc, slănină, muștar, brânză telemea, cașcaval, măsline, roșii, castraveți, ceapă.",59.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu degustare aperitive,,"(5x70g =420g) Salată de vinete cu ardei copt, salată boeuf, pate de păstrăv afumat, fasole bătută și piperchi țârgâsiti.",37.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gustare rece,600g,"Pentru 1-2 persoane (600g) ceafă de porc, cotlet de porc, urechi de porc, jumări de porc, slănină, muștar, brânză telemea, cașcaval, măsline, roșii, castraveți, ceapă.",59.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu degustare aperitive,70g,"(5x70g =420g) Salată de vinete cu ardei copt, salată boeuf, pate de păstrăv afumat, fasole bătută și piperchi țârgâsiti.",37.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Spanac cu ou,350g,"Ingrediente: Spanac*, pastă de tomate, ou, ceapă, ulei, usturoi, sare, piper.",28.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sote de ciuperci și baghetă,,"(220g/100g) Ingrediente: ciuperci champignon, ulei, ceapă, usturoi, piper, sare, baghetă",28.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu de degustare gustări calde,,"Mămăliguță cu brânză și smântână (310g), Spanac cu ou (200g), Mini Bulz (270g)",37.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă de burtă,,"Una dintre ciorbele clasice din bucătăria românească, extraordinar de gustoasă, cu influențe istorice, pentru cunoscători (440g)",31.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă de văcuță,,"Ciorba de văcuță clasică, nelipsită din meniul românesc, dar cu gustul adevărat de acasă. (450g)",29.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă rădăuțeană,,"Ciorbă rădăuțeană cremoasă, plină de pui franjurat - gustul care încălzește sufletul. (420g)",29.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă țărănească cu afumătură,,"Ciorbă țărănească cu afumătură - un gust autentic și plin de savoare, ca pe vremea bunicii. (420g)",29.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sote de ciuperci și baghetă,220g,"(220g/100g) Ingrediente: ciuperci champignon, ulei, ceapă, usturoi, piper, sare, baghetă",28.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu de degustare gustări calde,310g,"Mămăliguță cu brânză și smântână (310g), Spanac cu ou (200g), Mini Bulz (270g)",37.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă de burtă,440g,"Una dintre ciorbele clasice din bucătăria românească, extraordinar de gustoasă, cu influențe istorice, pentru cunoscători (440g)",31.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă de văcuță,450g,"Ciorba de văcuță clasică, nelipsită din meniul românesc, dar cu gustul adevărat de acasă. (450g)",29.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă rădăuțeană,420g,"Ciorbă rădăuțeană cremoasă, plină de pui franjurat - gustul care încălzește sufletul. (420g)",29.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă țărănească cu afumătură,420g,"Ciorbă țărănească cu afumătură - un gust autentic și plin de savoare, ca pe vremea bunicii. (420g)",29.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciorbă de perișoare,420g,,27.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Supă cremă de legume și crutoane,,"Legume atent alese, transformate într-o supă cremă fină, cu crutoane crocante deasupra. (440g)",26.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Supă cremă de legume și crutoane,440g,"Legume atent alese, transformate într-o supă cremă fină, cu crutoane crocante deasupra. (440g)",26.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Borș cu carne de porc cu sfeclă,440g,,29.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu degustare ciorbe,,(5x90g=450g) - Ciorbă de burtă - Ciorbă de văcuță - Ciorbă țărănescă cu afumătură - Ciorbă rădăuțeană - Ciorbă de perișoare,68.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu degustare ciorbe,90g,(5x90g=450g) - Ciorbă de burtă - Ciorbă de văcuță - Ciorbă țărănescă cu afumătură - Ciorbă rădăuțeană - Ciorbă de perișoare,68.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Biban de mare cu ierburi la grătar,260g,,56.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,File de somon dulce picant pe pat de baby spanac și sfeclă roșie,,"Somon dulce-picant, așezat pe un pat fresh de baby spanac și sfeclă roșie – echilibrul perfect între gust și prospețime. (180g/30g/30g)",68.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Crap în crustă de mălai cu mămăligă și mujdei,,(160g/300g/50g),54.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Păstrăv la grătar cu mămăligă și mujdei de usturoi,,"Păstrăv la grătar, însoțit de mămăliguță caldă și mujdei aromat – combinația pe care o vei iubi. (260g/300g/60g)",54.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Hamsii cu mămăligă și mujdei de usturoi,,"Hamsii crocante, alături de mămăligă fină și mujdei aromat - gustul tradiției în farfurie. (200g/300g/70g)",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Saramură de crap cu mămăliguță,,(180g/300g),59.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sarmale cu varză și mămăligă,,"(3*55g/110g/300g) sau (5*55g/150g/300g) Sarmale tradiționale învelite-n savoare, servite cu mămăliguță caldă - gustul care aduce acasă.",42.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tigaie picantă cu turtă țărănească,,"(240g/90g) Trei feluri de carne rumenite cu legume și condimente, servite cu turtă țărănească caldă - o tigaie plină de gust.",54.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,File de somon dulce picant pe pat de baby spanac și sfeclă roșie,180g,"Somon dulce-picant, așezat pe un pat fresh de baby spanac și sfeclă roșie – echilibrul perfect între gust și prospețime. (180g/30g/30g)",68.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Crap în crustă de mălai cu mămăligă și mujdei,160g,(160g/300g/50g),54.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Păstrăv la grătar cu mămăligă și mujdei de usturoi,260g,"Păstrăv la grătar, însoțit de mămăliguță caldă și mujdei aromat – combinația pe care o vei iubi. (260g/300g/60g)",54.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Hamsii cu mămăligă și mujdei de usturoi,200g,"Hamsii crocante, alături de mămăligă fină și mujdei aromat - gustul tradiției în farfurie. (200g/300g/70g)",36.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Saramură de crap cu mămăliguță,180g,(180g/300g),59.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sarmale cu varză și mămăligă,55g,"(3*55g/110g/300g) sau (5*55g/150g/300g) Sarmale tradiționale învelite-n savoare, servite cu mămăliguță caldă - gustul care aduce acasă.",42.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tigaie picantă cu turtă țărănească,240g,"(240g/90g) Trei feluri de carne rumenite cu legume și condimente, servite cu turtă țărănească caldă - o tigaie plină de gust.",54.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ficăței la tigaie,240g,"Ficăței fragezi, gătiți simplu și gustos.",42.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Garnituri,Garnitură,Rasol de vită cu piure,570g,"Rasol de vită cu piure, o combinație fragedă și gustoasă, numai bună pentru o masă sățioasă.",74.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ciolan afumat,650g,"Ciolan afumat generos, servit cu garnitura ta preferată - mâncare de varză, iahnie sau cartofi prăjiți.",68.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gulaș ardelenesc,480g,"Gulaș ardelenesc, bogat și aromat - gustul care aduce căldură în farfurie",54.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pastramă de oaie cu mămăligă,,(150g/300g),64.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Garnituri,Garnitură,Friptură de porc la cuptor cu piure de trufe,,"(180g/300g) Friptură suculentă de porc la cuptor, servită cu piure fin de trufe – un răsfăț gourmet în fiecare îmbucătură.",52.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tocăniță cu ciuperci și mămăligă,,"(300g/300g) Tocăniță de ciuperci gătită domol, servită cu mămăligă caldă - mâncare de suflet, fără carne.",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Carne de porc la garniță cu mămăliguță,,(220g/300g),56.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pastramă de oaie cu mămăligă,150g,(150g/300g),64.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Garnituri,Garnitură,Friptură de porc la cuptor cu piure de trufe,180g,"(180g/300g) Friptură suculentă de porc la cuptor, servită cu piure fin de trufe – un răsfăț gourmet în fiecare îmbucătură.",52.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tocăniță cu ciuperci și mămăligă,300g,"(300g/300g) Tocăniță de ciuperci gătită domol, servită cu mămăligă caldă - mâncare de suflet, fără carne.",36.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Carne de porc la garniță cu mămăliguță,220g,(220g/300g),56.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,"Tocăniță de pui ""A la Cotnari""",250g,"Ingrediente - pulpe de pui, roșii, smântână, vin alb, unt, mărar, p ătrunjel , sare.",42.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Saramură de pui,,"(240g/300g Ingrediente - pulpe de pui dezosate 240 g, saramură din legume (apă, roșii, ardei gras, ceapă, ardei kapia, usturoi, sare, piper",45.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,"Meniu degustare ""Mâncare românească""",,(6X150g) - Pastramă de oaie cu mămăliguță - Ciolan afumat cu iahnie de fasole - Sarmale cu varză și mămăliguță - Tocăniță de pui ca la Cotnari - Gulaș ardelenesc - Friptură de porc cu piure cu trufe,82.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Saramură de pui,240g,"(240g/300g Ingrediente - pulpe de pui dezosate 240 g, saramură din legume (apă, roșii, ardei gras, ceapă, ardei kapia, usturoi, sare, piper",45.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,"Meniu degustare ""Mâncare românească""",150g,(6X150g) - Pastramă de oaie cu mămăliguță - Ciolan afumat cu iahnie de fasole - Sarmale cu varză și mămăliguță - Tocăniță de pui ca la Cotnari - Gulaș ardelenesc - Friptură de porc cu piure cu trufe,82.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată Caesar,270g,"Salată Caesar clasică - piept de pui fraged, salată crocantă, crutoane și dressing cremos cu anșoa.",46.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată cu somon afumat,450g,"Somon afumat, salată verde și un sos savuros - un bol plin de prospețime și omega-3.",48.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată cu sardine,450g,"Salata French Mix ( valeriană, rucola, baby batavia, baby spanac - 80g), roșii, sardine în ulei , castraveți, zeamă de lămâie, ceapă, măsline, oțet balsamic, zahăr, sare, piper.",44.0,RON,2026-09-04T14:33:41.794Z
@@ -315,14 +315,14 @@ La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sal
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Burger de vită Black Angus,310g,Burger suculent din vită Black Angus servit cu cartofi prăjiți aurii.,56.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Preparate la Grătar & Mici,Friptură / Grătar,Crochete din piept de pui,210g,"Crochete fragede din piept de pui, crocante la exterior și gustoase în interior.",36.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Burger de berbecuț,335g,"Burger din carne de berbecuț, cu gust intens și autentic, servit cu cartofi prăjiți aurii.",54.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Aripioare de pui pane cu cartofi prăjiți,,"(7x30g/200g/50g) Aripioare de pui crocante, servite cu cartofi prăjiți aurii și sos - plăcerea aia simplă și bună.",36.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Șnițel de pui,,"Clasicul iubit de toți - șnițel de pui crocant la exterior, fraged la interior.",34.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Aripioare de pui pane cu cartofi prăjiți,30g,"(7x30g/200g/50g) Aripioare de pui crocante, servite cu cartofi prăjiți aurii și sos - plăcerea aia simplă și bună.",36.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Șnițel de pui,200g,"Clasicul iubit de toți - șnițel de pui crocant la exterior, fraged la interior.",34.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Halloumi Burger,280g,"Burger cu Halloumi la grătar, cremos și crocant, servit cu cartofi prăjiți aurii.",54.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Șnițel de porc,,"Șnițel de porc bine bătut și rumenit, exact cum îl știi din copilărie.",34.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Brânză Halloumi la grătar,,(130g/45g) Halloumi rumenit pe grătar - brânză care scârțâie frumos și merge cu orice.,38.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Preparate la Grătar & Mici,Mici,Mititei,,"1 buc (75g) Mititel simplu, fraged și plin de savoare, exact ca la grătarul de acasă.",10.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Cârnați & Platouri,Platou,Platou ca la mama acasă,,"Pentru 1-2 persoane (1455g) Un platou generos cu tot ce trebuie: pui, ceafă, mititei, cârnați, cartofi cu brânză și murături – gusturi bine alese, porție pe măsură.",145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Frigărui de berbecuț,,"(145g/300g) Frigărui de berbecuț servite cu mămăligă, fragede și pline de aromă.",64.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Șnițel de porc,200g,"Șnițel de porc bine bătut și rumenit, exact cum îl știi din copilărie.",34.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Brânză Halloumi la grătar,130g,(130g/45g) Halloumi rumenit pe grătar - brânză care scârțâie frumos și merge cu orice.,38.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Preparate la Grătar & Mici,Mici,Mititei,1 buc,"1 buc (75g) Mititel simplu, fraged și plin de savoare, exact ca la grătarul de acasă.",10.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Cârnați & Platouri,Platou,Platou ca la mama acasă,1455g,"Pentru 1-2 persoane (1455g) Un platou generos cu tot ce trebuie: pui, ceafă, mititei, cârnați, cartofi cu brânză și murături – gusturi bine alese, porție pe măsură.",145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Frigărui de berbecuț,145g,"(145g/300g) Frigărui de berbecuț servite cu mămăligă, fragede și pline de aromă.",64.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Cotlete de Berbecuț,250g,"3 bucăți de cotlet de berbecuț, fragede și pline de savoare *garnitura nu este inclusă",58.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ceafă de porc,180g,"Ceafă de porc fragedă, rumenită cât trebuie - simplu și bun.",42.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Cotlet de porc cu os,230g,"Cotlet de porc cu os, suculent și cu gust intens - clasicul care nu dă greș.",54.0,RON,2026-09-04T14:33:41.794Z
@@ -341,21 +341,21 @@ La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Spa
 La Mama,Meniu General,Garnituri,Garnitură,Orez basmati,250g,"Orez basmati aromat, perfect pentru orice preparat.",16.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mâncare de varză,300g,"Mâncare de varză gustoasă, cu aromă blândă și textură fină.",18.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mămăligă,300g,"Mămăligă pufoasă și caldă, nelipsită de pe o masă bună.",10.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Legume la grătar cu dressing de busuioc,,"(220g/20g) Legume rumenite ușor pe grătar, cu un strop de dressing de busuioc – simple și pline de gust.",22.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Papanași cu smântână și dulceață,,"(1x150g/50g/50g) sau (2x150g/100g/100g) Papanași moi, îmbrăcați în smântână cremoasă și dulceață aromată.",21.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gogoși ca la mama,,"(5x50g) Gogoși pufoase și rumene, exact ca cele făcute acasă.",29.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clătite cu dulceață,,"(2x80g) Două clătite fine, umplute cu dulceață ce-ți aduce zâmbetul pe buze.",20.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Legume la grătar cu dressing de busuioc,220g,"(220g/20g) Legume rumenite ușor pe grătar, cu un strop de dressing de busuioc – simple și pline de gust.",22.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Papanași cu smântână și dulceață,150g,"(1x150g/50g/50g) sau (2x150g/100g/100g) Papanași moi, îmbrăcați în smântână cremoasă și dulceață aromată.",21.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gogoși ca la mama,50g,"(5x50g) Gogoși pufoase și rumene, exact ca cele făcute acasă.",29.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clătite cu dulceață,80g,"(2x80g) Două clătite fine, umplute cu dulceață ce-ți aduce zâmbetul pe buze.",20.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clătite cu brânză și stafide,340g,Clătite delicate cu umplutură fină de brânză și stafide dulci.,28.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Plăcintă cu brânză,200g,,25.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de sezon,300g,,16.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de ardei copți,,(200g/20g/20g),22.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de ardei copți,200g,(200g/20g/20g),22.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de sfeclă roșie cu hrean,220g,,18.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată verde cu dressing de lămâie,,(150g/30g),15.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată verde cu dressing de lămâie,150g,(150g/30g),15.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de castraveți murați,200g,,16.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salată de varză,260g,,16.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Turtă țărănească,90g,,12.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Chiflă ciabatta,60g,,4.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mix de pâine cu maia,,"Făină integrală, cu semințe și cu hrișcă (125g)",12.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mix de pâine cu maia,125g,"Făină integrală, cu semințe și cu hrișcă (125g)",12.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Sos cedar,50g,,8.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Sos calipso,50g,,8.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Sos sweet chili,50g,,8.0,RON,2026-09-04T14:33:41.794Z
@@ -367,67 +367,67 @@ La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Sos de smântână cu usturoi,7
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Smântână natur,70g,,8.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Brânză telemea,50g,,8.0,RON,2026-09-04T14:33:41.794Z
 La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Unt,40g,,8.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Ardei iute,,1 buc,2.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Fetească Neagră - marcă proprie LaMama,,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Rose Fetească Neagră - marcă proprie La Mama,,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Fetească Regală - marcă proprie La Mama,,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Frâncușă spumant - marcă proprie La Mama,,750 ml,75.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Apă plată,,sticlă (330 ml),13.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Apă minerală,,sticlă (330 ml),13.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi Twist,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi Zero Zahăr,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Mirinda,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,7 Up,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Prigat nectar portocală,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Prigat nectar piersici și caise,,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,"Prigat nectar banana, măr și căpșuni",,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Băutură tonică Franklin&Sons,200 ml,,22.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Băutură tonică SOKA Elixir,,fără zahăr (330 ml),24.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Socată artizanală,275 ml,,24.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ginger Beer,200 ml,,22.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Preparate la Grătar & Mici,Friptură / Grătar,Meniu Crispy din piept de pui,,- crispy din piept de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!,49.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu Crispy din pulpă de pui,,- crispy din pulpă de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!,49.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet MamaBox 1,,Pachetul conține: - MamaBox Șnițel - MamaBox Dovlecei pane - MamaBox Gogoși GRATIS,183.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet MamaBox 2,,Pachetul conține: - MamaBox Chiftele - MamaBox Cartofi Prăjiți - MamaBox Gogoși GRATIS,186.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet Oala cu Răsfăț 1,,Pachetul conține: - Oală cu ciorbă de văcuță - Tavă cu gulaș ardelenesc - Tavă cu 10 clătite GRATIS,260.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet Oala cu Răsfăț 2,,Pachetul conține: - Oală cu ciorbă de perișoare - Oală cu tocăniță de cartofi cu carne de porc - O sticlă de vin din Gama Răsfăț GRATIS,220.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox chiftele,,"Ingrediente: Carne de porc, oua, ceapa, usturoi, lapte, paine, patrunjel, sare, piper, ulei Gramaj - 1000g",128.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox Șalău Pane,,"Ingrediente: File de șalău*, oua, faina, pesmet, sare, piper, ulei Gramaj - 850 g",165.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox șnițele de pui,,"Ingrediente: Piept pui, oua, faina, sare, piper, ulei Gramaj - 900 g",125.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox Cartofi Prăjiți cu Brânză Tare (770g/30g),,,58.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox crochete de pui (840g),,,120.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox gogoși ca la mama (9x50g),,,52.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă țărănească cu afumătură,,"Descriere: Unul din cele mai bine păstrate secrete din bucătăria noastră, rețeta aparține mamei proprietarului restaurantelor, Cătălin Mahu. Ingrediente : Coasta de porc afumata - 600g , Cartof albi - 600g , Smantana 30% - 600g , Bors Olympia - 360g , Rosii in bulion - 300g , Oua de gaina - 180g , Ceapa – 96g , Morcovi – 66g, Radacina de telina – 60g , Ulei floarea soarelui – 60g, Pastarnac radacina -54g, Radacina de patrunjel -54g, Frunze de patrunjel Gramaj - 2420g Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",130.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu sarmale cu varză,,"Descriere: Clasice dar la noi gustoase foc pentru ca punem carne de vita si porc, iar in oala printre sarmale punem din belsug costita afumata, pentru gustul ca la mama. Ingrediente: Carne tocata de vita si porc, costita afumata, slanina afumata, ceapa, varza murata, orez, pasta de tomate, piper, cimbru. 20 buc*55g/500g",145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu ceafă de porc la cuptor,,"Descriere: Bucată întreagă de ceafă de porc, fragedă si gustoasa, stropita cu condimente si lasata la cuptor pana se desavarseste. Ingrediente: Ceafa de porc, ulei, usturoi, vin, mustar, sare, piper, foi de dafin, cimbru. Gramaj - 800 g",145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Cârnați & Platouri,Cârnați,Tavă cu cârnați proaspeți la grătar,,"Ingrediente: Carne de porc (Cârnați Sibieni: spata de porc 85%,apa, sare,usturoi, piper, fibra de ovaz), condimente Gramaj - 1000g",140.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu somon la cuptor,,"Descriere: File de somon la cuptor, frumos rumenit, cu accente dulci si picante. Gramaj - 800g",225.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu salată de Boeuf,,"Descriere : Pentru noi masa ta este festivă oricând, nu doar de Paște sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă. Ingrediente : Pulpă de vită, cartofi, morcovi, mazăre, gogoșari in oțet, castraveți în oțet, muștar, maioneză, măsline, sare, piper. Gramaj - 1000g",120.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Tavă cu salată de vinete cu ceapă,,"Descriere: clasica salată de vinete, cu ceapă și roșii, gustarea răsfăț pentru orice anotimp. Ingrediente : vinete, ulei, ceapă, roșii. Gramaj - 1000g",110.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Tavă cu fasole bătută cu sos de ceapă călită,,"Descriere : Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Ingrediente: fasole uscată, usturoi, pastă de tomate, ceapă, ulei. Gramaj - 1050g/150g",100.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de văcuță (2450g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,128.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de perișoare (2400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă rădăuțeană (2420g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de pui a la grec (2450g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de burtă (2440g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu cremă de linte (2400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu supă cremă de mazăre (2400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu tocăniță de cartofi cu carne de porc (1200g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,105.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Garnituri,Garnitură,Tavă cu pilaf de orez cu ciuperci (1200g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,55.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu tocăniță de ciuperci (1000g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu mâncare de mazăre cu pui (1200g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu cartofi cu rozmarin,,"Descriere: Cartofi rumeni si aromatizati, gata de servit. Ingrediente: Cartofi, usturoi, rozmarin, ulei, condimente. Gramaj - 1200g",68.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Garnituri,Garnitură,Tavă cu piure cu trufe,,"Descriere: Piure de cartofi, cremos si gustos cu ulei de trufe. Ingrediente: Cartofi, lapte, unt. Gramaj - 1200g",65.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu pulpe de pui la cuptor (800g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,100.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Garnituri,Garnitură,Tavă cu piure de cartofi (1200g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,55.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu gulaș ardelenesc (1400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,135.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu musaca (1400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,120.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu ghiveci călugăresc (1400g),,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,95.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu păstrăv (3 buc) 780g,,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tort de Mere,,"Deliciul casei, Tortul de mere La Mama, cântărind 1,4 kg, este un festin pentru simțuri. Cu mere fragede și o crustă aurie acest tort este alegerea ideală pentru a împărtăși bucuria unei mese în familie sau pentru a indulci orice întâlnire cu prietenii. Oferă-te să gusti tradiția în fiecare înghițitură cu Tortul de mere La Mama. Zahar caramelizat de noi, mere din Romania, oua, unt, faina, vanilie si un mot de frisca! Alergeni: oua, lactoza, gluten",145.0,RON,2026-09-04T14:33:41.794Z
-La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă 10 clătite cu dulceață,,"Descriere: Clatite ca la mama acasa, pufoase foc si cu multa dulceata.",75.0,RON,2026-09-04T14:33:41.794Z
-Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare Gătită,1Add,,,100.0,RON,2026-09-04T14:34:05.544Z
+La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Ardei iute,1 buc,1 buc,2.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Fetească Neagră - marcă proprie LaMama,750ml,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Rose Fetească Neagră - marcă proprie La Mama,750ml,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Fetească Regală - marcă proprie La Mama,750ml,750 ml,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Răsfăț Frâncușă spumant - marcă proprie La Mama,750ml,750 ml,75.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Apă plată,330ml,sticlă (330 ml),13.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Apă minerală,330ml,sticlă (330 ml),13.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi Twist,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Pepsi Zero Zahăr,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Mirinda,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,7 Up,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Prigat nectar portocală,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,Prigat nectar piersici și caise,250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Băuturi Răcoritoare & Cafea,Răcoritoare / Cafea,"Prigat nectar banana, măr și căpșuni",250ml,sticlă (250 ml),14.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Băutură tonică Franklin&Sons,200ml,,22.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Băutură tonică SOKA Elixir,330ml,fără zahăr (330 ml),24.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Socată artizanală,275ml,,24.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Ginger Beer,200ml,,22.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Preparate la Grătar & Mici,Friptură / Grătar,Meniu Crispy din piept de pui,440g,- crispy din piept de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!,49.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Meniu Crispy din pulpă de pui,440g,- crispy din pulpă de pui (440g) - cartofi prăjiți (500g) - sos ketchup (70g) - sos maioneză cu usturoi (70g) *Disponibil exclusiv pentru comenzile online!,49.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet MamaBox 1,200g,Pachetul conține: - MamaBox Șnițel - MamaBox Dovlecei pane - MamaBox Gogoși GRATIS,183.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet MamaBox 2,200g,Pachetul conține: - MamaBox Chiftele - MamaBox Cartofi Prăjiți - MamaBox Gogoși GRATIS,186.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet Oala cu Răsfăț 1,200g,Pachetul conține: - Oală cu ciorbă de văcuță - Tavă cu gulaș ardelenesc - Tavă cu 10 clătite GRATIS,260.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pachet Oala cu Răsfăț 2,200g,Pachetul conține: - Oală cu ciorbă de perișoare - Oală cu tocăniță de cartofi cu carne de porc - O sticlă de vin din Gama Răsfăț GRATIS,220.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox chiftele,1000g,"Ingrediente: Carne de porc, oua, ceapa, usturoi, lapte, paine, patrunjel, sare, piper, ulei Gramaj - 1000g",128.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox Șalău Pane,850g,"Ingrediente: File de șalău*, oua, faina, pesmet, sare, piper, ulei Gramaj - 850 g",165.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox șnițele de pui,900g,"Ingrediente: Piept pui, oua, faina, sare, piper, ulei Gramaj - 900 g",125.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox Cartofi Prăjiți cu Brânză Tare (770g/30g),770g,,58.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox crochete de pui (840g),840g,,120.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,MamaBox gogoși ca la mama (9x50g),50g,,52.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă țărănească cu afumătură,600g,"Descriere: Unul din cele mai bine păstrate secrete din bucătăria noastră, rețeta aparține mamei proprietarului restaurantelor, Cătălin Mahu. Ingrediente : Coasta de porc afumata - 600g , Cartof albi - 600g , Smantana 30% - 600g , Bors Olympia - 360g , Rosii in bulion - 300g , Oua de gaina - 180g , Ceapa – 96g , Morcovi – 66g, Radacina de telina – 60g , Ulei floarea soarelui – 60g, Pastarnac radacina -54g, Radacina de patrunjel -54g, Frunze de patrunjel Gramaj - 2420g Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.",130.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu sarmale cu varză,20 buc,"Descriere: Clasice dar la noi gustoase foc pentru ca punem carne de vita si porc, iar in oala printre sarmale punem din belsug costita afumata, pentru gustul ca la mama. Ingrediente: Carne tocata de vita si porc, costita afumata, slanina afumata, ceapa, varza murata, orez, pasta de tomate, piper, cimbru. 20 buc*55g/500g",145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu ceafă de porc la cuptor,800g,"Descriere: Bucată întreagă de ceafă de porc, fragedă si gustoasa, stropita cu condimente si lasata la cuptor pana se desavarseste. Ingrediente: Ceafa de porc, ulei, usturoi, vin, mustar, sare, piper, foi de dafin, cimbru. Gramaj - 800 g",145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Cârnați & Platouri,Cârnați,Tavă cu cârnați proaspeți la grătar,1000g,"Ingrediente: Carne de porc (Cârnați Sibieni: spata de porc 85%,apa, sare,usturoi, piper, fibra de ovaz), condimente Gramaj - 1000g",140.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu somon la cuptor,800g,"Descriere: File de somon la cuptor, frumos rumenit, cu accente dulci si picante. Gramaj - 800g",225.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu salată de Boeuf,1000g,"Descriere : Pentru noi masa ta este festivă oricând, nu doar de Paște sau Revelion și știm că te bucuri mereu de o salată de boeuf gustoasă. Ingrediente : Pulpă de vită, cartofi, morcovi, mazăre, gogoșari in oțet, castraveți în oțet, muștar, maioneză, măsline, sare, piper. Gramaj - 1000g",120.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Aperitive & Gustări,Aperitiv / Gustare,Tavă cu salată de vinete cu ceapă,1000g,"Descriere: clasica salată de vinete, cu ceapă și roșii, gustarea răsfăț pentru orice anotimp. Ingrediente : vinete, ulei, ceapă, roșii. Gramaj - 1000g",110.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Sosuri & Extra,Sos / Extra,Tavă cu fasole bătută cu sos de ceapă călită,1050g,"Descriere : Tartinabilă sau nu, fasolea bătută este un aperitiv consistent și foarte gustos. Ingrediente: fasole uscată, usturoi, pastă de tomate, ceapă, ulei. Gramaj - 1050g/150g",100.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de văcuță (2450g),2450g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,128.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de perișoare (2400g),2400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă rădăuțeană (2420g),2420g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de pui a la grec (2450g),2450g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,115.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu ciorbă de burtă (2440g),2440g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu cremă de linte (2400g),2400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu supă cremă de mazăre (2400g),2400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu tocăniță de cartofi cu carne de porc (1200g),1200g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,105.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Garnituri,Garnitură,Tavă cu pilaf de orez cu ciuperci (1200g),1200g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,55.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu tocăniță de ciuperci (1000g),1000g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oală cu mâncare de mazăre cu pui (1200g),1200g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,85.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu cartofi cu rozmarin,1200g,"Descriere: Cartofi rumeni si aromatizati, gata de servit. Ingrediente: Cartofi, usturoi, rozmarin, ulei, condimente. Gramaj - 1200g",68.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Garnituri,Garnitură,Tavă cu piure cu trufe,1200g,"Descriere: Piure de cartofi, cremos si gustos cu ulei de trufe. Ingrediente: Cartofi, lapte, unt. Gramaj - 1200g",65.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu pulpe de pui la cuptor (800g),800g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,100.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Garnituri,Garnitură,Tavă cu piure de cartofi (1200g),1200g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,55.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu gulaș ardelenesc (1400g),1400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,135.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu musaca (1400g),1400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,120.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu ghiveci călugăresc (1400g),1400g,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,95.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă cu păstrăv (3 buc) 780g,3 buc,Produsele din categoria Mancare la Oala se pot livra in termen de 24 ore de la primirea comenzii.,145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tort de Mere,4000g,"Deliciul casei, Tortul de mere La Mama, cântărind 1,4 kg, este un festin pentru simțuri. Cu mere fragede și o crustă aurie acest tort este alegerea ideală pentru a împărtăși bucuria unei mese în familie sau pentru a indulci orice întâlnire cu prietenii. Oferă-te să gusti tradiția în fiecare înghițitură cu Tortul de mere La Mama. Zahar caramelizat de noi, mere din Romania, oua, unt, faina, vanilie si un mot de frisca! Alergeni: oua, lactoza, gluten",145.0,RON,2026-09-04T14:33:41.794Z
+La Mama,Meniu General,Mâncăruri Gătite & Specialități,Mâncare Gătită,Tavă 10 clătite cu dulceață,200g,"Descriere: Clatite ca la mama acasa, pufoase foc si cu multa dulceata.",75.0,RON,2026-09-04T14:33:41.794Z
+Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare Gătită,1Add,200g,,100.0,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare Gătită,Biftek tartar,300g,"muschi de vita, unt, oua, castraveti murati, capre, ceapa, mustar, ketchup, pasta de tomate, paine toast, usturoi, sare, piper, boia 1 Add",178.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salata Caesar,370g,"piept de pui, salata iceberg, crutoane, dressing, lamaie, otet balsamic, sare 1 Add",49.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare Gătită,Salata cu ton,300g,"ton, salata iceberg, salata verde, rosii, porumb, ceapa, masline, otet balsamic, sare 1 Add",49.8,RON,2026-09-04T14:34:05.544Z
@@ -440,8 +440,8 @@ Taverna Sârbului,Meniu Mancare,Mâncăruri Gătite & Specialități,Mâncare G�
 Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gustare nationala,320g,"branza picanta, pranza proaspata de vaci, zacusca sarbeasca, kaizer, rulada afumata, ceafa de porc, muschi de porc afumat, antricot de vita, iahnie sarbeasca 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,Mâncare Gătită,Gustare de post,300g,"zacusca, salata de vinete, iahnie sarbeasca, fasole batuta, rosii, masline, castraveti, ceapa 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,Mâncare Gătită,Proja,180g,"Malai, oua, faina, branza telemea, lapte, ulei, sare 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,Mâncare Gătită,Placinta cu ciuperci 180gr,,"ciuperci, foi de placinta, orez, telina, ulei, ceapa, sare 180 gr 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Ciorbe,Aperitive & Gustări,Aperitiv / Gustare,Placinta cu branza 180gr,,"branza telemea, foi de placinta, branza de vaci, oua, ulei 180 gr 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,Mâncare Gătită,Placinta cu ciuperci 180gr,180g,"ciuperci, foi de placinta, orez, telina, ulei, ceapa, sare 180 gr 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Ciorbe,Aperitive & Gustări,Aperitiv / Gustare,Placinta cu branza 180gr,180g,"branza telemea, foi de placinta, branza de vaci, oua, ulei 180 gr 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Ciorbe,Ciorbe & Supe,Ciorbă / Supă,Ciorba de fasole cu afumatura + 50g,300ml,"fasole boabe, afumatura porc, morcov, ceapa, ulei, telina, ardei, faina, boia, usturoi, sare, piper, foi de dafin 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Ciorbe,Ciorbe & Supe,Ciorbă / Supă,Supa crema de pui + 50g,300ml,"carne de pui, oua, ceapa, morcov, telina, ardei, ulei, faina, smantana, sare 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Ciorbe,Ciorbe & Supe,Ciorbă / Supă,Supa crema de legume,300ml,"cartofi, crutoane, morcov, ceapa, varza, telina, ardei, dovlecel, ulei, sare, piper 1 Add",34.8,RON,2026-09-04T14:34:05.544Z
@@ -456,19 +456,19 @@ Taverna Sârbului,Meniu Mancare - Ciorbe,Mâncăruri Gătite & Specialități,M�
 Taverna Sârbului,Meniu Mancare - Peste,Mâncăruri Gătite & Specialități,Mâncare Gătită,Dorada la cuptor in crusta de sare,300g,"dorada, lamaie, sos pesto, sare 1 Add",116.4,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Peste,Mâncăruri Gătite & Specialități,Mâncare Gătită,Calcan prajit,300g,"calcan, lamaie, faina, ulei, sare 1 Add",146.4,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Peste,Mâncăruri Gătite & Specialități,Mâncare Gătită,Calcan pe plita,300g,"calcan, lamaie, ulei, sare 1 Add",146.4,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Specialitati,Mâncăruri Gătite & Specialități,Mâncare Gătită,Calamar pane,100 g,Gramaj variabil: selectati cantitatea dorita 1 Add,38.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Specialitati,Mâncăruri Gătite & Specialități,Mâncare Gătită,Calamar pane,100g,Gramaj variabil: selectati cantitatea dorita 1 Add,38.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Mâncăruri Gătite & Specialități,Mâncare Gătită,Calamar pe plita,100g,Gramaj variabil: selectati cantitatea dorita 1 Add,38.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Cârnați & Platouri,Cârnați,Fasole cu carnati afumati,350g,"carnati de casa afumati, fasole boabe, ardei, ceapa, morcovi, telina, faina, ulei, boia, usturoi, sare 1 Add",54.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel vienez porc,300g,"cotlet de porc, pesmet, faina, oua, ulei, lamaie, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel karadjordje,400g,"cotlet de porc, branza topita, pesmet, oua, faina, ulei, lamaie, sare 1 Add",89.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel vienez de pui 350gr,,"piept de pui, faina, pesmet, oua, ulei, lamaie, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel vienez de pui 350gr,350g,"piept de pui, faina, pesmet, oua, ulei, lamaie, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Salate,Salată,Ciolan cu varza sau fasole,900g,"ciolan afumat, fasole alba/varza, ceapa, morcov, faina, telina, boia, sare, piper, foi de dafin 1 Add",128.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel de porc in sos de vin alb,300g,"cotlet de porc, vin alb, faina, ulei, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel de porc in sos de lamaie,300g,"cotlet de porc, lamaie, faina, ulei, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel de porc in sos de piper,300g,"cotlet de porc, faina, ulei, piper, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Preparate la Grătar & Mici,Friptură / Grătar,Snitel de porc in sos de ciuperci,300g,"cotlet de porc, ciuperci, smantana, ulei, faina, patrunjel, sare 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Specialitati,Mâncăruri Gătite & Specialități,Mâncare Gătită,Mesanica de porc picanta,500g,"carne de porc, ceapa, ardei, rosii, ulei, telina, pasta de tomate, sare, chili, piper, patrunjel 1 Add",74.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Ficatei de pui 300gr,,"ficatei de pui, ceapa, vin, ulei, sare, piper 1 Add",58.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Ficatei de pui 300gr,300g,"ficatei de pui, ceapa, vin, ulei, sare, piper 1 Add",58.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Friptura de miel,300g,"carne de miel, vin, ulei, ceapa, usturoi, sare, piper, foi de dafin 1 Add",79.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Burger Sarbesc,470g,"carne de vita, chifla, chipsuri de cartofi, kaizer crocant, cascaval, rosii, castraveti, ulei ceapa, sos kalipso, sos burger, salata verde 1 Add",59.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Burger de pui,470g,"carne de pui, chifla, chipsuri de crtofi, kaizer crocant, cascaval, ulei, rosii, castraveti murati, ceapa, sos kalipso, sos burger, salata verde 1 Add",59.8,RON,2026-09-04T14:34:05.544Z
@@ -479,7 +479,7 @@ Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Mici,Mitite
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Carne ciupita,300g,"carne vita tocata, cascaval, sunca presata, ulei, usturoi, boia, sare, piper, patrunjel 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Specialitatea gurmandului,300g,"carne de vita tocata, cascaval, carne afumata, prapur, boia, sare, piper 1 Add",78.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Kaiser la gratar,300g,"sunculita de porc afumata (kaizer), sare 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Carnati de casa afumati 300gr,,"carne de porc, slanina, carne de vita tocata, usturoi, sare, zahar, chili fulgi, piper 1 Add",64.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Carnati de casa afumati 300gr,300g,"carne de porc, slanina, carne de vita tocata, usturoi, sare, zahar, chili fulgi, piper 1 Add",64.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Carnati de oaie la gratar,300g,"carne tocata de oaie, sare, boia, usturoi, piper 1 Add",69.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Frigarui de pui invelite in bacon,300g,"piept de pui, bacon, sare, piper 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Gratar,Preparate la Grătar & Mici,Friptură / Grătar,Frigarui de porc,300g,"cotlet de porc, ulei, sare, piper 1 Add",68.8,RON,2026-09-04T14:34:05.544Z
@@ -523,8 +523,8 @@ Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Tiramisu,150g,"mascarpone
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Cheesecake,150g,"crema de branza, oua, biscuiti, zahar, fructe, unt, topping, scortisoara 1 Add",39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Tort fantezia,150g,"mascarpone, biscuiti, crema de branza, oua, zahar, ciocolata neagra, unt, cacao, portocale, scortisoara 1 Add",39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite cu gem,200g,"faina, gem, miere, oua, lapte, zahar, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite cu ciocolata 200gr,,"faina, crema de cacao, oua, lapte, zahar, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite cu miere si nuci 200gr,,"faina, miere, nuca, oua, lapte, zahar, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite cu ciocolata 200gr,200g,"faina, crema de cacao, oua, lapte, zahar, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite cu miere si nuci 200gr,200g,"faina, miere, nuca, oua, lapte, zahar, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Placinta cu mere,180g,"foi de placinta, mere, zahar, scortisoara 1 Add",28.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Placinta cu dovleac,180g,"foi de placinta, dovleac, zahar, scortisoara 1 Add",28.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Mancare - Desert,Desert,Desert,Clatite in chateau de vin,600g,"faina, oua, nuci, ciocolata, vin alb, zahar, lapte, miere, ulei, sare 1 Add",59.8,RON,2026-09-04T14:34:05.544Z
@@ -535,7 +535,7 @@ Taverna Sârbului,Steakhouse,Mâncăruri Gătite & Specialități,Mâncare Găti
 Taverna Sârbului,Comanda din Timp,Sosuri & Extra,Sos / Extra,Calcan la cuptor in sos de vin cu legume,100g,Comanda cu 3 ore inainte 1 Add Miel la test 100g 34.80 lei Comanda cu 24 ore inainte 1 Add Sarmale 60g 9.50 lei Comanda cu 1 ora inainte 1 Add Oala de lut 50.00 lei Se poate pastra pentru reumplere cu orice ocazie 1 Add Vegetarian Vegan Gluten Free Spicy,38.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Comanda din Timp,Mâncăruri Gătite & Specialități,Mâncare Gătită,Miel la test,100g,Comanda cu 24 ore inainte 1 Add,34.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Comanda din Timp,Mâncăruri Gătite & Specialități,Mâncare Gătită,Sarmale,60g,Comanda cu 1 ora inainte 1 Add,9.5,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Comanda din Timp,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oala de lut,,Se poate pastra pentru reumplere cu orice ocazie 1 Add,50.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Comanda din Timp,Mâncăruri Gătite & Specialități,Mâncare Gătită,Oala de lut,200g,Se poate pastra pentru reumplere cu orice ocazie 1 Add,50.0,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Copii,Mâncăruri Gătite & Specialități,Mâncare Gătită,Frigarui de pui,200g,"piept de pui, sare, piper 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Copii,Mâncăruri Gătite & Specialități,Mâncare Gătită,Piept de curcan,150g,"piept de curcan, ulei, sare 1 Add",24.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Meniu Copii,Mâncăruri Gătite & Specialități,Mâncare Gătită,Clatita sarata,180g,"sunca, cascaval, faina, ou, sare 1 Add",17.8,RON,2026-09-04T14:34:05.544Z
@@ -549,62 +549,62 @@ Taverna Sârbului,Magaza,Preparate la Grătar & Mici,Friptură / Grătar,Muschi 
 Taverna Sârbului,Magaza,Cârnați & Platouri,Cârnați,Carnati Sremska,100g,1 Add,27.0,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Prosciutto,100g,1 Add,48.0,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Antricot afumat de vita,100g,1 Add,27.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Suveniruri,,Breloc 1 Add Oala de lut 50.00 lei 1 Add Pin 1 Add,15.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Breloc,,1 Add,15.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pin,,1 Add,15.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Medovaca,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Sljivovica,,1 Add,13.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,TASTING SHOTS,,1 Add,109.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Travarica,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Suveniruri,200g,Breloc 1 Add Oala de lut 50.00 lei 1 Add Pin 1 Add,15.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Breloc,200g,1 Add,15.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Magaza,Mâncăruri Gătite & Specialități,Mâncare Gătită,Pin,200g,1 Add,15.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Medovaca,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Sljivovica,500ml,1 Add,13.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,TASTING SHOTS,500ml,1 Add,109.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Travarica,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Palinca,30ml,"Palinca din gutui/pere/mere/caise/struguri (alc.43.0%),30ml 1 Add",16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Lincura,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Malina,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Orahovaca,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Serbian Alcohol,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada,,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Pepsi,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Mirinda,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Apa Aqua Carpatica,,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,7UP,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Apa tonica San Pellegrino,,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Prigat,,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Citronada cu miere si menta,,1 Add,28.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Fresh,,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada cu catina,,1 Add,32.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Apa Borsec,,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada cu fructe,,1 Add,32.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Suc de catina,,1 Add,31.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Redbull,,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Ceai,,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Ciocolata Calda,,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafea Turceasca,,1 Add,15.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Flat White,,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cappuccino Freddo,,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafea Tonica,,1 Add,26.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafe Latte,,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso Macchiato,,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso,,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso Dublu,,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafe Frappe,,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Cappuccino,,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Ursus Premium,,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Ursus Wheat Unfiltered,,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Peroni Nastro Azzuro,,1 Add,23.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Pilsner Urquell,,1 Add,17.9,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Pilsner Urquell-Hladinka,,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Kozel Lager Premium,,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Kozel Dark,,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Vin / Alcool,Asahi Super Dry,,1 Add,25.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Bere,Ursus Remix,,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Vin / Alcool,Peroni Stile Capri,,1 Add,23.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Bere,Non-alcoholic beer,,Ursus Premium 1 Add,18.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Cooler,,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Specialties,,Ursus IPA 1 Add Ursus Retro 20.80 lei 1 Add Ursus Black 19.80 lei 1 Add Ursus Wheat Unfiltered 1 Add,24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus IPA,,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Retro,,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Black,,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Craft beer,,Azuga Weissbier 1 Add,27.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Azuga Weissbier,,1 Add,27.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Specialties,Băuturi Alcoolice & Bere,Bere,Azuga Marzen,,1 Add,27.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Lincura,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Malina,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi,Băuturi Alcoolice & Bere,Vin / Alcool,Orahovaca,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Serbian Alcohol,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada,500ml,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Pepsi,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Mirinda,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Apa Aqua Carpatica,500ml,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,7UP,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Apa tonica San Pellegrino,500ml,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Prigat,500ml,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Citronada cu miere si menta,500ml,1 Add,28.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Soft Drinks,Băuturi Alcoolice & Bere,Vin / Alcool,Fresh,500ml,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada cu catina,500ml,1 Add,32.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Apa Borsec,500ml,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Limonada cu fructe,500ml,1 Add,32.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Suc de catina,500ml,1 Add,31.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Redbull,500ml,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Ceai,500ml,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Ciocolata Calda,500ml,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafea Turceasca,500ml,1 Add,15.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Flat White,500ml,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cappuccino Freddo,500ml,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafea Tonica,500ml,1 Add,26.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafe Latte,500ml,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso Macchiato,500ml,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso,500ml,1 Add,16.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Espresso Dublu,500ml,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Coffee,Băuturi Alcoolice & Bere,Vin / Alcool,Cafe Frappe,500ml,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Cappuccino,500ml,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Ursus Premium,500ml,1 Add,18.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Ursus Wheat Unfiltered,500ml,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Peroni Nastro Azzuro,500ml,1 Add,23.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Pilsner Urquell,500ml,1 Add,17.9,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Vin / Alcool,Pilsner Urquell-Hladinka,500ml,1 Add,29.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Kozel Lager Premium,500ml,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Draught Beer,Băuturi Alcoolice & Bere,Bere,Kozel Dark,500ml,1 Add,22.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Vin / Alcool,Asahi Super Dry,500ml,1 Add,25.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Bere,Ursus Remix,500ml,1 Add,21.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Vin / Alcool,Peroni Stile Capri,500ml,1 Add,23.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Lager,Băuturi Alcoolice & Bere,Bere,Non-alcoholic beer,500ml,Ursus Premium 1 Add,18.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Cooler,500ml,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Specialties,500ml,Ursus IPA 1 Add Ursus Retro 20.80 lei 1 Add Ursus Black 19.80 lei 1 Add Ursus Wheat Unfiltered 1 Add,24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus IPA,500ml,1 Add,24.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Retro,500ml,1 Add,20.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Ursus Black,500ml,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Craft beer,500ml,Azuga Weissbier 1 Add,27.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Non-alcoholic beer,Băuturi Alcoolice & Bere,Bere,Azuga Weissbier,500ml,1 Add,27.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Specialties,Băuturi Alcoolice & Bere,Bere,Azuga Marzen,500ml,1 Add,27.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Specialties,Băuturi Alcoolice & Bere,Vin / Alcool,House Wine,200ml,Glass 200ml 1 Add Jug 500ml 43.80 lei 1 Add,19.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Specialties,Băuturi Alcoolice & Bere,Vin / Alcool,Glass,200ml,1 Add,19.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Specialties,Băuturi Alcoolice & Bere,Vin / Alcool,Jug,500ml,1 Add,43.8,RON,2026-09-04T14:34:05.544Z
@@ -623,62 +623,62 @@ Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,B
 Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Fume - Crama Budureasca,187ml,1 Add,39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cabernet Sauvignon - Crama Budureasca,187ml,1 Add,39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Maiastru Cabernet Sauvignon - Crama Oprisor,250ml,1 Add,46.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,"Sovignon Blanc-Lechburg 0,",75l,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trijumf Selection - Aleksandrovic 0.,75L,sec 1 Add,219.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cramposie - Crama Avincis 0.,75L,sec 1 Add,129.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Zghihara de Averesti - Domeniile Averesti 0.,75L,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Primordial Chardonnay - Domeniul Bogdan 0.,75L,sec 1 Add,151.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Primordial Sauvignon Blanc - Domeniul Bogdan 0.,75L,sec 1 Add,151.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Pinot Grigio - Borgo Dei Vassalli 0.,75L,sec 1 Add,143.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Fume Cupaj - Crama Budureasca 0.,75L,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,The Sign Tamaioasa Romaneasca - Crama Budureasca 0.,75L,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Sauvignon Blanc - Crama Budureasca 0.,75L,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Euforia Tamaioasa Romaneasca - Crama Cotnari 0.,75L,demisec 1 Add,118.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Theia Chardonnay - DAAR 1892 0.,75L,sec 1 Add,144.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Iordache Feteasca Alba - Crama 1000 De Chipuri 0.,75L,sec 1 Add,135.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Sole Roze Cupaj - Crama Recas 0. (Copy),75L,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trasole Sangiovese - Villa Trasqua 0.,75L,sec 1 Add,146.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Mysterium Pinot Noir- Crama Jidvei 0.,75L,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Alexis Cupaj - Crama Avincis 0.,75L,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Busuioaca de Bohotin - Crama Averesti 0.,75L,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Rose Cupaj - Crama Budureasca 0.,75L,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Love by Leoube Cupaj- Chateau Leoube 0.,75L,sec 1 Add,191.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Rose Cupaj - 1000 de Chipuri 0.,75L,sec 1 Add,123.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Caii de la Letea Manuscris Rara Neagra - Viticola Sarica Niculitel 0.,75L,sec 1 Add,112.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Sole Roze Cupaj - Crama Recas 0.,75L,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Nocturne Rose - Crama Purcari 0.,75L,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Sissi Pinot Noir - Serve 0.,75L,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Exclusive Cabernet Sauvignon - Domeniile Mitroi 0.,75L,sec 1 Add,122.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Bacanta Special Edition Rose - Crama Girboiu 0.,75L,sec 1 Add,138.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Jiana Rose - Crama Oprisor 0.,75L,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Euforia Busuioaca de Bohotin - Casa de vinuri Cotnari 0.,75L,demisec 1 Add,118.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Feteasca Neagra -1000 de Chipuri 0.,75L,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Amarone della Valpolicella -Zenato 0.,75L,sec 1 Add,410.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Ripassa Valpolicella Cupal -Zenato 0.,75L,sec 1 Add,238.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Selection Rubin Cupaj -Villa Vinea 0.,75L,sec 1 Add,163.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Chianti Classico-Villa Trasqua 0.,75L,sec 1 Add,161.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Terra Romana Feteasca Neagra-Serve 0.,75L,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Epiphanie Feteasca Neagra-Viticola Sarica Niculitel 0.,75L,sec 1 Add,208.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Caii de la Letea Manuscris Rara Neagra-Viticola Sarica Niculitel 0.,75L,sec 1 Add,112.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Charlotte Cupaj-Serve 0.,75L,sec 1 Add,233.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Negru de Dragasani-Crama Avincis 0.,75L,sec 1 Add,168.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Feteasca Neagra de Averesti-Domeniile Aversti 0.,75L,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trijumf Noir-Aleksandrovic0.,75L,sec 1 Add,291.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Veuve Clicquot 0.,75L,Brut 1 Add,374.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Moet&Chandon 0.,75L,Imperial brut 1 Add,328.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Foss Marai 0.,75L,"Via Prade Valdobbiadene, extra dry 1 Add",149.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Dom Perignon 0.,75L,Brut 1 Add,1837.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,DAAR 1892 0.,75L,Rhein Extra Imperial brut 1 Add,149.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Pommery 0.,75L,Pommery Brut Royal 1 Add,451.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Champagne Castelnau 0.,75L,Castelnau Extra Dry 1 Add,353.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Purcari 0.,75L,"Cuvee de Purcari Alb, brut 1 Add",166.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Carastelec 0.,75L,Carassia Blanc de Blanc 1 Add,191.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Recas 0.,75L,"Muse Stars, brut 1 Add",154.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Jidvei 0.,75L,"Mysterium, brut 1 Add",196.0,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega 0.,75L,alc.0.0% 1 Add,196.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,"Sovignon Blanc-Lechburg 0,",75000ml,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trijumf Selection - Aleksandrovic 0.,75000ml,sec 1 Add,219.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cramposie - Crama Avincis 0.,75000ml,sec 1 Add,129.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Zghihara de Averesti - Domeniile Averesti 0.,75000ml,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Primordial Chardonnay - Domeniul Bogdan 0.,75000ml,sec 1 Add,151.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Primordial Sauvignon Blanc - Domeniul Bogdan 0.,75000ml,sec 1 Add,151.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Pinot Grigio - Borgo Dei Vassalli 0.,75000ml,sec 1 Add,143.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Fume Cupaj - Crama Budureasca 0.,75000ml,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,The Sign Tamaioasa Romaneasca - Crama Budureasca 0.,75000ml,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Sauvignon Blanc - Crama Budureasca 0.,75000ml,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Euforia Tamaioasa Romaneasca - Crama Cotnari 0.,75000ml,demisec 1 Add,118.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - White Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Theia Chardonnay - DAAR 1892 0.,75000ml,sec 1 Add,144.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Iordache Feteasca Alba - Crama 1000 De Chipuri 0.,75000ml,sec 1 Add,135.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Sole Roze Cupaj - Crama Recas 0. (Copy),75000ml,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trasole Sangiovese - Villa Trasqua 0.,75000ml,sec 1 Add,146.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Mysterium Pinot Noir- Crama Jidvei 0.,75000ml,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Alexis Cupaj - Crama Avincis 0.,75000ml,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Busuioaca de Bohotin - Crama Averesti 0.,75000ml,sec 1 Add,128.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Premium Rose Cupaj - Crama Budureasca 0.,75000ml,sec 1 Add,125.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Love by Leoube Cupaj- Chateau Leoube 0.,75000ml,sec 1 Add,191.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Rose Cupaj - 1000 de Chipuri 0.,75000ml,sec 1 Add,123.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Caii de la Letea Manuscris Rara Neagra - Viticola Sarica Niculitel 0.,75000ml,sec 1 Add,112.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Sole Roze Cupaj - Crama Recas 0.,75000ml,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Nocturne Rose - Crama Purcari 0.,75000ml,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Sissi Pinot Noir - Serve 0.,75000ml,sec 1 Add,141.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Exclusive Cabernet Sauvignon - Domeniile Mitroi 0.,75000ml,sec 1 Add,122.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Bacanta Special Edition Rose - Crama Girboiu 0.,75000ml,sec 1 Add,138.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Rose Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Jiana Rose - Crama Oprisor 0.,75000ml,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Euforia Busuioaca de Bohotin - Casa de vinuri Cotnari 0.,75000ml,demisec 1 Add,118.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Feteasca Neagra -1000 de Chipuri 0.,75000ml,sec 1 Add,127.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Amarone della Valpolicella -Zenato 0.,75000ml,sec 1 Add,410.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Ripassa Valpolicella Cupal -Zenato 0.,75000ml,sec 1 Add,238.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Selection Rubin Cupaj -Villa Vinea 0.,75000ml,sec 1 Add,163.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Chianti Classico-Villa Trasqua 0.,75000ml,sec 1 Add,161.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Terra Romana Feteasca Neagra-Serve 0.,75000ml,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Epiphanie Feteasca Neagra-Viticola Sarica Niculitel 0.,75000ml,sec 1 Add,208.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Caii de la Letea Manuscris Rara Neagra-Viticola Sarica Niculitel 0.,75000ml,sec 1 Add,112.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Red Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Cuvee Charlotte Cupaj-Serve 0.,75000ml,sec 1 Add,233.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Negru de Dragasani-Crama Avincis 0.,75000ml,sec 1 Add,168.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Diamond Feteasca Neagra de Averesti-Domeniile Aversti 0.,75000ml,sec 1 Add,131.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Trijumf Noir-Aleksandrovic0.,75000ml,sec 1 Add,291.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Veuve Clicquot 0.,75000ml,Brut 1 Add,374.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Moet&Chandon 0.,75000ml,Imperial brut 1 Add,328.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Foss Marai 0.,75000ml,"Via Prade Valdobbiadene, extra dry 1 Add",149.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Dom Perignon 0.,75000ml,Brut 1 Add,1837.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,DAAR 1892 0.,75000ml,Rhein Extra Imperial brut 1 Add,149.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Pommery 0.,75000ml,Pommery Brut Royal 1 Add,451.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Champagne Castelnau 0.,75000ml,Castelnau Extra Dry 1 Add,353.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Purcari 0.,75000ml,"Cuvee de Purcari Alb, brut 1 Add",166.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Carastelec 0.,75000ml,Carassia Blanc de Blanc 1 Add,191.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Sparkling Wines,Băuturi Alcoolice & Bere,Vin / Alcool,Recas 0.,75000ml,"Muse Stars, brut 1 Add",154.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Jidvei 0.,75000ml,"Mysterium, brut 1 Add",196.0,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega 0.,75000ml,alc.0.0% 1 Add,196.0,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Miniature Bubbles,200ml,Bottega Poeti Petala Moscato Spumante 200ml 1 Add Bottega Poeti Prosecco Brut Rose 200 ml 65.80 lei 1 Add Bottega Poeti Prosecco Brut 200ml 65.80 lei 1 Add,64.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega Poeti Petala Moscato Spumante,200ml,1 Add,64.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega Poeti Prosecco Brut Rose,200 ml,1 Add,65.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega Poeti Prosecco Brut Rose,200ml,1 Add,65.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Bottega Poeti Prosecco Brut,200ml,1 Add,65.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Wild Cherry,150ml,alc 0.0% 1 Add,29.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Miniature Bubbles,Băuturi Alcoolice & Bere,Vin / Alcool,Green Apple,150ml,alc. 0.0% 1 Add,29.8,RON,2026-09-04T14:34:05.544Z
@@ -696,7 +696,7 @@ Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Neg
 Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Campari Orange,200ml,1 Add,39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Mimosa,150ml,1 Add,39.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Mojito,150ml,1 Add,39.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Hugo,300 ml,1 Add,40.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Cocktails,Băuturi Alcoolice & Bere,Vin / Alcool,Hugo,300ml,1 Add,40.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,Aperitivo Moments,200ml,"Limoncello Spritz, 200ml 1 Add Gin Tonic 300ml 1 Add Amaro Montenegro Tonic, 200ml 1 Add Campari Spritz, 300ml 1 Add Aperol Spritz, 300ml 1 Add Campari Tonic, 300ml 1 Add",41.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,"Limoncello Spritz,",200ml,1 Add,41.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,"Amaro Montenegro Tonic,",200ml,1 Add,41.8,RON,2026-09-04T14:34:05.544Z
@@ -708,7 +708,7 @@ Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,Big
 Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,Tanqueray Gin,40ml,( alc. 43.1%) 1 Add,28.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Aperitivo,Băuturi Alcoolice & Bere,Vin / Alcool,Scapegrace Black Gin,40ml,( alc. 41.6%) 1 Add,36.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Ginbery`s Ginberryes,40ml,( alc. 37.5%) 1 Add,23.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Ginbery`s Rose,40 ml,( alc. 37.5%) 1 Add,23.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Ginbery`s Rose,40ml,( alc. 37.5%) 1 Add,23.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Wembley Peach,40ml,( alc. 37.5%) 1 Add,21.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Tequila,40ml,Don Julio Blanco 40ml ( alc. 38.0%) 1 Add Jose Cuervo Gold 40ml 26.80 lei ( alc. 35.0%) 1 Add Olmeca Gold 40ml 27.80 lei ( alc. 35.0%) 1 Add,50.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Gin,Băuturi Alcoolice & Bere,Vin / Alcool,Don Julio Blanco,40ml,( alc. 38.0%) 1 Add,50.8,RON,2026-09-04T14:34:05.544Z
@@ -718,7 +718,7 @@ Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Zacap
 Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Bumbu Xo,40ml,( alc 40.0%) 1 Add,43.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Havana Club 3 Years,40ml,(alc 37.5%) 1 Add,23.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,El Galipote Spiced,40ml,( alc. 35.0%) 1 Add,27.8,RON,2026-09-04T14:34:05.544Z
-Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Relicario Superior,40 ml,( alc.40.0%) 1 Add,38.8,RON,2026-09-04T14:34:05.544Z
+Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Relicario Superior,40ml,( alc.40.0%) 1 Add,38.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Tequila,Băuturi Alcoolice & Bere,Vin / Alcool,Angostura Tamboo,40ml,( alc. 40.0%) 1 Add,34.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Rom,Băuturi Alcoolice & Bere,Vin / Alcool,Angostura Reserva,40ml,( alc 37.5%) 1 Add,27.8,RON,2026-09-04T14:34:05.544Z
 Taverna Sârbului,Bauturi - Rom,Băuturi Alcoolice & Bere,Vin / Alcool,Vodka,40ml,Absolut 40ml ( alc. 40.0%) 1 Add Czechoslovakia 40ml 29.80 lei ( alc. 40.0%) 1 Add,23.8,RON,2026-09-04T14:34:05.544Z
